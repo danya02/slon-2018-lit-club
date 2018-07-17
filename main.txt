@@ -1,1 +1,15 @@
-####main.txt####
+{exposition/main}
+
+{ai_expands/main}
+
+{perfect_world/main}
+
+{reasoning/main}
+
+{weakness_exploited/main}
+
+{people_realize_world/main}
+
+{ai_fixed/main}
+
+{ending/main}
