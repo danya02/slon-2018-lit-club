@@ -1,5 +1,3 @@
-{ai_expands/???}
-
 {ai_expands/ai/given-area-in-city}
 
 {ai_expands/leader/sees-improvement-in-city}
