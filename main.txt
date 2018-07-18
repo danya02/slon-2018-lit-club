@@ -2,8 +2,6 @@
 
 {ai_expands/main}
 
-{perfect_world/main}
-
 {reasoning/main}
 
 {weakness_exploited/main}
