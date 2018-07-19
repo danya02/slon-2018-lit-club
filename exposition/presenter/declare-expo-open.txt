@@ -1,0 +1,1 @@
+'{exposition/presenter/phrases/global-hello}, and {exposition/presenter/phrases/welcome-to-the-show} {exposition/presenter/phrases/i-am-your-announcer}' - {exposition/presenter/first-description} said.
