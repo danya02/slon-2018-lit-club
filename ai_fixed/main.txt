@@ -1,0 +1,11 @@
+{ai_fixed/creator-summons-assistance}
+
+{ai_fixed/reconfig-technobabble}
+
+{ai_fixed/ai-restarted}
+
+{ai_fixed/ai-debugged-by-talking}
+
+{ai_fixed/headsets-invoked}
+
+{ai_fixed/offer-to-leader-formed}

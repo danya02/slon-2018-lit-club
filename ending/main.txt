@@ -1,0 +1,9 @@
+{ending/party-goes-to-leader}
+
+{ending/party-shows-leader-bad}
+
+{ending/party-explains-fix}
+
+{ending/leader-signs-off-on-fix}
+
+{ending/describe-people-employed}
