@@ -2,13 +2,13 @@
 
 {ai_expands/leader/sees-improvement-in-city}
 
-{ai_expands/subordinate/asks-leader-to-reconsider}
+{ai_expands/journalist/asks-leader-to-reconsider}
 
 {ai_expands/leader/starts-to-explain}
 
 {ai_expands/ai/interrupts-with-request-to-consume}
 
-{ai_expands/subordinate/points-out}
+{ai_expands/journalist/points-out}
 
 {ai_expands/leader/ignores}
 
@@ -16,6 +16,6 @@
 
 {ai_expands/ai-control-humans}
 
-{ai_expands/subordinate/calls-creator-explains-problem}
+{ai_expands/journalist/calls-creator-explains-problem}
 
 {ai_expands/creator/agrees-to-help}
