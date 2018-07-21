@@ -1,1 +1,7 @@
-####ai_expands/ai/interrupts-with-request-to-consume.txt####
+{ai_expands/scene/videophone-starts}
+
+{ai_expands/ai/asks-can-i-consume-area-of-city}
+
+{ai_expands/leader/answers-yeah-whatever}
+
+{ai_expands/ai/thanks-clicks-off}

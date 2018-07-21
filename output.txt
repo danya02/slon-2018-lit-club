@@ -45,21 +45,52 @@
 
 ####ai_expands/ai/given-area-in-city.txt####
 
-####ai_expands/leader/sees-improvement-in-city.txt####
-
-####ai_expands/journalist/asks-leader-to-reconsider.txt####
-
-####ai_expands/leader/starts-to-explain.txt####
-
-####ai_expands/ai/interrupts-with-request-to-consume.txt####
-
-####ai_expands/journalist/points-out.txt####
-
-####ai_expands/leader/ignores.txt####
-
 ####ai_expands/ai-world-describe.txt####
 
 ####ai_expands/ai-control-humans.txt####
+
+####ai_expands/leader/sees-improvement-in-city.txt####
+
+####ai_expands/journalist/heard-about-problems.txt####
+
+####ai_expands/journalist/looks-up-leader-schedules-appointment.txt####
+
+####ai_expands/leader/greets-journalist.txt####
+
+####ai_expands/journalist/tells-leader-i-have-seen-bad-stop-this.txt####
+
+
+####ai_expands/leader/tells-journalist-but-look-at-the-pretty-charts.txt####
+
+####ai_expands/scene/show-describe-pretty-charts.txt####
+
+####ai_expands/journalist/tells-leader-but-you-lose-control-over-city.txt####
+
+####ai_expands/leader/tells-journalist-no-i-dont-cut-off.txt####
+
+
+####ai_expands/scene/videophone-starts.txt####
+
+####ai_expands/ai/asks-can-i-consume-area-of-city.txt####
+
+####ai_expands/leader/answers-yeah-whatever.txt####
+
+####ai_expands/ai/thanks-clicks-off.txt####
+
+
+####ai_expands/journalist/look-here-ai-is-taking-over-you-are-powerless-to-stop-it.txt####
+
+
+####ai_expands/leader/responds-can-decline-at-any-time.txt####
+
+####ai_expands/journalist/starts-to-protest.txt####
+
+####ai_expands/scene/videoclock-rings.txt####
+
+####ai_expands/leader/tells-meeting-is-over.txt####
+
+####ai_expands/journalist/exits-pissed-off.txt####
+
 
 ####ai_expands/journalist/calls-creator-explains-problem.txt####
 
