@@ -1,5 +1,9 @@
 {ai_expands/ai/given-area-in-city}
 
+{ai_expands/ai-world-describe}
+
+{ai_expands/ai-control-humans}
+
 {ai_expands/leader/sees-improvement-in-city}
 
 {ai_expands/journalist/asks-leader-to-reconsider}
@@ -11,10 +15,6 @@
 {ai_expands/journalist/points-out}
 
 {ai_expands/leader/ignores}
-
-{ai_expands/ai-world-describe}
-
-{ai_expands/ai-control-humans}
 
 {ai_expands/journalist/calls-creator-explains-problem}
 
