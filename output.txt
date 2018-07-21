@@ -103,22 +103,42 @@
 
 ####reasoning/normal-talks.txt####
 
-####reasoning/attempt-at-logic-puzzle.txt####
+####reasoning/creator/had-hoped-to-not-do-this.txt####
 
-####reasoning/retreat.txt####
+####reasoning/creator/says-logic-puzzle.txt####
+
+####reasoning/ai/thinks-hard-encounters-problem.txt####
+
+####reasoning/ai/something-breaks-captives-released.txt####
+
+####reasoning/creator/starts-to-retreat.txt####
+
+####reasoning/journalist/but-ai-seems-safe-cut-off.txt####
+
+####reasoning/ai/pauses-processing-notices-gone.txt####
 
 
-####weakness_exploited/ai-tries-to-convert-party.txt####
 
-####weakness_exploited/party-flee-to-target-area.txt####
+####weakness_exploited/creator/lead-journalist-to-inside-machine.txt####
 
-####weakness_exploited/creator-sees-weakness.txt####
 
-####weakness_exploited/creator-starts-exploiting.txt####
+####weakness_exploited/creator/looks-around.txt####
 
-####weakness_exploited/ai-goes-weird.txt####
+####weakness_exploited/journalist/why-are-you-looking-around.txt####
 
-####weakness_exploited/ai-crashes.txt####
+####weakness_exploited/creator/because-seeking-vulnerability.txt####
+
+####weakness_exploited/creator/notices-vuln.txt####
+
+####weakness_exploited/creator/uses-vuln.txt####
+
+
+####weakness_exploited/ai/does-weirdness.txt####
+
+####weakness_exploited/creator/notices-continues.txt####
+
+####weakness_exploited/ai/gradually-shuts-down.txt####
+
 
 
 ####people_realize_world/party-exit-building-see-people-happy.txt####

@@ -5,5 +5,3 @@
 {reasoning/normal-talks}
 
 {reasoning/attempt-at-logic-puzzle}
-
-{reasoning/retreat}

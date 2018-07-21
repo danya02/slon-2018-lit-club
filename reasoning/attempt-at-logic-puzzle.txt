@@ -1,1 +1,13 @@
-####reasoning/attempt-at-logic-puzzle.txt####
+{reasoning/creator/had-hoped-to-not-do-this}
+
+{reasoning/creator/says-logic-puzzle}
+
+{reasoning/ai/thinks-hard-encounters-problem}
+
+{reasoning/ai/something-breaks-captives-released}
+
+{reasoning/creator/starts-to-retreat}
+
+{reasoning/journalist/but-ai-seems-safe-cut-off}
+
+{reasoning/ai/pauses-processing-notices-gone}
