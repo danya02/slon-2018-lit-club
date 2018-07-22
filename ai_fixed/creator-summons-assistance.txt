@@ -1,1 +1,5 @@
-####ai_fixed/creator-summons-assistance.txt####
+{ai_fixed/creator/i-need-help}
+
+{ai_fixed/assistance/arrives}
+
+{ai_fixed/creator/explain-we-need-to-fix}

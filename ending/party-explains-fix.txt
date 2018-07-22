@@ -1,1 +1,6 @@
-####ending/party-explains-fix.txt####
+{ending/creator/but-we-have-fix-explained}
+
+{ending/assistance/sign-this-purchase-order}
+
+{ending/leader/i-have-no-choice}
+

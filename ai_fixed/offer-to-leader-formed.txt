@@ -1,1 +1,13 @@
-####ai_fixed/offer-to-leader-formed.txt####
+{ai_fixed/creator/yells-jobs-done}
+
+{ai_fixed/journalist/wakes-up-startled}
+
+{ai_fixed/creator/now-we-need-purchase-order}
+
+{ai_fixed/assistance/just-written-purchase-order}
+
+{ai_fixed/creator/we-also-need-to-exxplain-what-was-bad}
+
+{ai_fixed/journalist/just-written-explain-what-was-bad}
+
+{ai_fixed/creator/lets-go-to-leader}

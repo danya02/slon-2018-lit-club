@@ -151,24 +151,99 @@
 
 
 
-####ai_fixed/creator-summons-assistance.txt####
+####ai_fixed/creator/i-need-help.txt####
 
-####ai_fixed/reconfig-technobabble.txt####
+####ai_fixed/assistance/arrives.txt####
 
-####ai_fixed/ai-restarted.txt####
+####ai_fixed/creator/explain-we-need-to-fix.txt####
+
+
+####ai_fixed/assistance/techbabble-question-1.txt####
+
+####ai_fixed/creator/techbabble-answer-1.txt####
+
+####ai_fixed/assistance/techbabble-question-2.txt####
+
+####ai_fixed/creator/techbabble-answer-2.txt####
+
+####ai_fixed/assistance/reconfiguring-wireless-module.txt####
+
+####ai_fixed/journalist/bored-so-falls-asleep.txt####
+
+
+####ai_fixed/journalist/little-did-he-know-creators-working.txt####
+
+####ai_fixed/creator/lets-turn-it-on-tells-assistance-scram.txt####
+
+####ai_fixed/creator/turns-ai-on.txt####
+
+####ai_fixed/ai/inits-says-version.txt####
+
+####ai_fixed/creator/asks-will-you-utilize-humans-for-goal.txt####
+
+####ai_fixed/ai/replies-wont-use-humans.txt####
+
+####ai_fixed/creator/tells-assistance-everything-ok.txt####
+
 
 ####ai_fixed/ai-debugged-by-talking.txt####
 
-####ai_fixed/headsets-invoked.txt####
+####ai_fixed/creator/lets-add-a-headset.txt####
 
-####ai_fixed/offer-to-leader-formed.txt####
+####ai_fixed/assistance/why-headset.txt####
+
+####ai_fixed/creator/because-mind-tech-caused-this.txt####
+
+####ai_fixed/assistance/i-have-inferior-headset.txt####
+
+####ai_fixed/creator/inferior-headset-good-enough-lets-make-adapter.txt####
+
+####ai_fixed/assistance/do-you-need-help.txt####
+
+####ai_fixed/creator/yes-i-need-food.txt####
+
+####ai_fixed/assistance/are-you-serious-about-food.txt####
+
+####ai_fixed/creator/yes-i-am-serious-job-is-hard.txt####
+
+####ai_fixed/creator/starts-work.txt####
 
 
-####ending/party-goes-to-leader.txt####
+####ai_fixed/creator/yells-jobs-done.txt####
 
-####ending/party-shows-leader-bad.txt####
+####ai_fixed/journalist/wakes-up-startled.txt####
 
-####ending/party-explains-fix.txt####
+####ai_fixed/creator/now-we-need-purchase-order.txt####
+
+####ai_fixed/assistance/just-written-purchase-order.txt####
+
+####ai_fixed/creator/we-also-need-to-exxplain-what-was-bad.txt####
+
+####ai_fixed/journalist/just-written-explain-what-was-bad.txt####
+
+####ai_fixed/creator/lets-go-to-leader.txt####
+
+
+
+####ending/back-at-leader-everything-okay-until-fail-then-door-opens.txt####
+
+####ending/leader/why-are-you-here.txt####
+
+
+####ending/creator/we-owe-an-explaination.txt####
+
+####ending/journalist/stuff-was-bad.txt####
+
+####ending/leader/agrees-bad.txt####
+
+
+####ending/creator/but-we-have-fix-explained.txt####
+
+####ending/assistance/sign-this-purchase-order.txt####
+
+####ending/leader/i-have-no-choice.txt####
+
+
 
 ####ending/leader-signs-off-on-fix.txt####
 

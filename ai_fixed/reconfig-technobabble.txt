@@ -1,1 +1,11 @@
-####ai_fixed/reconfig-technobabble.txt####
+{ai_fixed/assistance/techbabble-question-1}
+
+{ai_fixed/creator/techbabble-answer-1}
+
+{ai_fixed/assistance/techbabble-question-2}
+
+{ai_fixed/creator/techbabble-answer-2}
+
+{ai_fixed/assistance/reconfiguring-wireless-module}
+
+{ai_fixed/journalist/bored-so-falls-asleep}

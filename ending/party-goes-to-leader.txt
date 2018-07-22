@@ -1,1 +1,3 @@
-####ending/party-goes-to-leader.txt####
+{ending/back-at-leader-everything-okay-until-fail-then-door-opens}
+
+{ending/leader/why-are-you-here}
