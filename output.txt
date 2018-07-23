@@ -73,8 +73,10 @@ Parabolic slope.
 An alarm clock.
 Exchange rates between major currencies.
 A quick-order menu for a restauraunt near the building.
+A counter that ticks forty times it ticks every second time.
 Exponential slope.
-A list of appointments, the next one of which is in... 0.24 minutes?!
+A list of appointments.
+A counter has been counting down for the last 5 minutes and is now saying 5, 4, 3, 2, 1...
 
 
 
