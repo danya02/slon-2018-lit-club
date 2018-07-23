@@ -1,1 +1,5 @@
-####ai_expands/ai-control-humans.txt####
+Soon, the AI realised that producing the {common/humanoids-genitive} is not efficient enough.
+So it had written up a proposal for the {common/leader-title-3rd-person} of {common/city_name}, {common/leader-name/prefix} {common/leader-name/first} {common/leader-name/last}{common/leader-name/suffix}.
+The proposal was to stop producing new {common/humanoids-genitive}, and to use the existing technology to control people instead.
+{ai_expands/leader-was-distracted-so-signed-proposal}
+

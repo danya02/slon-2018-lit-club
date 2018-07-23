@@ -1,1 +1,7 @@
-####ai_expands/leader/sees-improvement-in-city.txt####
+Meanwhile, {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} was sitting in his office, admiring his video wall.
+The video wall, the last operational one in the world, was charting the economic values of {common/city_name} in real time.
+For the last 50 years, nobody -- himself included -- could ever do anything to make them increase.
+However, with the introduction of {common/ai_name}, they began rising in hours.
+It was all so unexpected that {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} was trying very hard to take it all in.
+
+{ai_expands/leader/stuff-on-videowall}

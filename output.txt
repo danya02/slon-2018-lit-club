@@ -43,26 +43,50 @@
 
 
 
-####ai_expands/ai/given-area-in-city.txt####
+And so, ####common/ai_name.txt#### was given a small area of the city of ####common/city_name.txt####.
+The AI ####ai_expands/ai/phrases/verbed-worked.txt####, and soon, the area had become completely ####ai_expands/ai/phrases/verbed-goal.txt####.
+####ai_expands/ai/requested-to-expand-first-time-single-line.txt####
+
+
+Soon, the AI realised that producing the ####common/humanoids-genitive.txt#### is not efficient enough.
+So it had written up a proposal for the ####common/leader-title-3rd-person.txt#### of ####common/city_name.txt####, ####common/leader-name/prefix.txt#### ####common/leader-name/first.txt#### ####common/leader-name/last.txt########common/leader-name/suffix.txt####.
+The proposal was to stop producing new ####common/humanoids-genitive.txt####, and to use the existing technology to control people instead.
+####ai_expands/leader-was-distracted-so-signed-proposal.txt####
+
+
 
 ####ai_expands/ai-world-describe.txt####
 
-####ai_expands/ai-control-humans.txt####
+Meanwhile, ####common/leader-name/prefix.txt#### ####common/leader-name/last.txt########common/leader-name/suffix.txt#### was sitting in his office, admiring his video wall.
+The video wall, the last operational one in the world, was charting the economic values of ####common/city_name.txt#### in real time.
+For the last 50 years, nobody -- himself included -- could ever do anything to make them increase.
+However, with the introduction of ####common/ai_name.txt####, they began rising in hours.
+It was all so unexpected that ####common/leader-name/prefix.txt#### ####common/leader-name/last.txt########common/leader-name/suffix.txt#### was trying very hard to take it all in.
 
-####ai_expands/leader/sees-improvement-in-city.txt####
+Logarithmic slope.
+A counter that ticks every second.
+Linear slope.
+A set of clocks for the world capitals.
+A list of all inter-bank operations.
+A counter that ticks every time an inter-bank operation occurs.
+Parabolic slope.
+An alarm clock.
+Exchange rates between major currencies.
+A quick-order menu for a restauraunt near the building.
+Exponential slope.
+A list of appointments, the next one of which is in... 0.24 minutes?!
 
-####ai_expands/journalist/heard-about-problems.txt####
 
-####ai_expands/journalist/looks-up-leader-schedules-appointment.txt####
+
+The door opened, and ####ai_expands/journalist/first-look-desc-embed.txt#### walked into the office.
 
 ####ai_expands/leader/greets-journalist.txt####
+
 
 ####ai_expands/journalist/tells-leader-i-have-seen-bad-stop-this.txt####
 
 
 ####ai_expands/leader/tells-journalist-but-look-at-the-pretty-charts.txt####
-
-####ai_expands/scene/show-describe-pretty-charts.txt####
 
 ####ai_expands/journalist/tells-leader-but-you-lose-control-over-city.txt####
 
@@ -96,8 +120,6 @@
 
 ####ai_expands/creator/agrees-to-help.txt####
 
-
-####reasoning/preparation-for-diplomacy.txt####
 
 ####reasoning/arriving-into-city.txt####
 
@@ -244,8 +266,5 @@
 ####ending/leader/i-have-no-choice.txt####
 
 
-
-####ending/leader-signs-off-on-fix.txt####
-
-####ending/describe-people-employed.txt####
+####ending/leader-signs-off-on-fix-describe-people-employed.txt####
 

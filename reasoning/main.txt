@@ -1,5 +1,3 @@
-{reasoning/preparation-for-diplomacy}
-
 {reasoning/arriving-into-city}
 
 {reasoning/normal-talks}

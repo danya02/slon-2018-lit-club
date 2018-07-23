@@ -1,7 +1,3 @@
-{ai_expands/journalist/heard-about-problems}
-
-{ai_expands/journalist/looks-up-leader-schedules-appointment}
-
 {ai_expands/leader/greets-journalist}
 
 {ai_expands/journalist/tells-leader-i-have-seen-bad-stop-this}
