@@ -95,13 +95,19 @@ The door opened, and ####ai_expands/journalist/first-look-desc-embed.txt#### wal
 ####ai_expands/leader/tells-journalist-no-i-dont-cut-off.txt####
 
 
-####ai_expands/scene/videophone-starts.txt####
+His words are interrupted by the sound of a video-phone, also a thing of the past, and he answers it. A screen in the video-wall is replaced by the words "SOUND ONLY".
 
-####ai_expands/ai/asks-can-i-consume-area-of-city.txt####
 
-####ai_expands/leader/answers-yeah-whatever.txt####
+'####common/ai_name.txt#### to ####common/leader-name/prefix.txt#### ####common/leader-name/first.txt#### ####common-leader-name/last.txt########common/leader-name/suffix.txt####, videophone link.
+Requesting permission to convert ####ai_expands/ai/area_name.txt####.'
 
-####ai_expands/ai/thanks-clicks-off.txt####
+
+'Yeah, sure, whatever.
+As long as the economy improves.'
+
+
+'Acknowledged. Thank you for your cooperation.' the voice reverberates, as the screen returns to displaying the alarm clock.
+
 
 
 ####ai_expands/journalist/look-here-ai-is-taking-over-you-are-powerless-to-stop-it.txt####
@@ -111,7 +117,9 @@ The door opened, and ####ai_expands/journalist/first-look-desc-embed.txt#### wal
 
 ####ai_expands/journalist/starts-to-protest.txt####
 
-####ai_expands/scene/videoclock-rings.txt####
+The room is filled with the sound of a bell as the appointment list gizmo blinks and shows the next item, which turns out to be 'Lunch'.
+The time-until-next-appointment counter has reset to 600 and started to count down.
+
 
 ####ai_expands/leader/tells-meeting-is-over.txt####
 
@@ -127,34 +135,110 @@ The door opened, and ####ai_expands/journalist/first-look-desc-embed.txt#### wal
 
 ####reasoning/normal-talks.txt####
 
-####reasoning/creator/had-hoped-to-not-do-this.txt####
-
-####reasoning/creator/says-logic-puzzle.txt####
-
-####reasoning/ai/thinks-hard-encounters-problem.txt####
-
-####reasoning/ai/something-breaks-captives-released.txt####
-
-####reasoning/creator/starts-to-retreat.txt####
-
-####reasoning/journalist/but-ai-seems-safe-cut-off.txt####
-
-####reasoning/ai/pauses-processing-notices-gone.txt####
+####common/creator-name/first.txt#### muttered under his breath:
+'I had hoped it wouldn't come to this...'
 
 
+He sighs, then faces the machine, speaking loud and clear:
 
-####weakness_exploited/creator/lead-journalist-to-inside-machine.txt####
+'####common/ai-name.txt####, before you proceed, I would like to say: ####reasoning/creator/logic-puzzle.txt####.'
 
 
-####weakness_exploited/creator/looks-around.txt####
+The AI pauses for a moment. '####reasoning/ai/logic-puzzle-answer-trailing-off.txt####
+Error: This statement is self-contradictory. Does not-not-not-n-not compute.'
 
-####weakness_exploited/journalist/why-are-you-looking-around.txt####
 
-####weakness_exploited/creator/because-seeking-vulnerability.txt####
+####common/creator-name/first.txt#### looked at the screen intently.
+The screen was rapidly changing its contents.
+Every few seconds, the screen would flip between memory dumps, data displays, system status monitors (code yellow), the facial expression display program, and, with increasing frequency, a screen full of text:
 
-####weakness_exploited/creator/notices-vuln.txt####
+####common/hidden-text/reasoning.txt####
 
-####weakness_exploited/creator/uses-vuln.txt####
+'Yes, that's about right. And now, I think, it should start di-'
+
+'Diverting power.'
+
+####reasoning/scene/ai-releases.txt####
+
+
+'I think that was our cue to exit.' - said ####common/creator-name/first.txt####, grabbing ####common/journalist-name/first.txt#### and pulling him away.
+
+
+'But it's fine, isn't it?' - he replied, puzzled. - 'Didn't you put ####common/ai-name.txt#### into an infinite loop?'
+
+'A loop, maybe. But infinite? Oh no no no, that thing's smarter than it looks. In fact...'
+
+He pauses, looking at his wristwatch (which are totally still a thing).
+
+'...yes, the clock cycle limit should-'
+
+
+'Clock cycle limit reached. Compute job is ####common/hidden-text/reasoning-escaping-one-liner.txt####.
+Warning: targets have disappeared in less than 20 ticks.
+Pursuit status: overridden by efficiency monitor.'
+
+
+
+
+
+'...There, did you hear that? Now, if we were around when it said THAT, we'd have already "become useful" by now.'
+
+####common/journalist-name/first.txt####'s eyes filled with realization, and he couldn't at this point say anything but: '...Oh.'
+
+'Come on, let's get out of the open. I remember an access hatch somewhere around here..? Hang on for a moment.'
+
+####common/creator-name/first.txt#### pressed a couple buttons on his wristwatch, and in front of him, a pale blue holographic map of ####common/city-name.txt#### appeared.
+It wasn't all blue, however.
+There was a red figure of a man in the same place as ####common/creator-name/first.txt#### was standing.
+And, scattered around the map, were many colored circles, hexagons, and rectangles, one of which was right in front of the figure.
+
+'Ah, I forgot one of those was right here. Let's see if the ACL is still working...' - said ####common/creator-name/first.txt####, closing the map and pressing his palm against a piece of flat wall.
+Instantly, a section of the wall pulled inward, then split along the middle, and the halves retracted into the floor and ceiling.
+A green glow appeared around the newly-created hole in the wall, which looks suspiciously like... a doorway?
+
+'...oh yeah, it does! Yay!~' - said ####common/creator-name/first.txt####, clearly pleased with himself.
+Seeing ####common/journalist-name/first.txt####'s surprise at his reaction, he explained:
+'Took me ages to fix those. No matter what I did, those scanners just refused to sync their data.
+I ended up doing some hardware mods to get them working, and I'd hate to see that go to waste.
+Plus, it makes my job easier.'
+
+####common/journalist-name/first.txt#### was still looking absentmindedly at the newly-created doorway, and would've kept at it, too, if not for ####common/creator-name/first.txt####'s interruption.
+
+'Come on in, we don't have all day. Our goal is through that door.'
+
+'W-what? Oh, yeah, right. Let's go, then.'
+
+####common/creator-name/first.txt#### walked into the doorway, closely followed by ####common/journalist-name/first.txt####, the door closing behind them.
+They were standing on a catwalk above a mess of cabling.
+Around them, the walls were covered in tiles.
+Some had a screen on them, and the screen was displaying some obscure system data.
+Others had text on them, saying '####common/ai-name.txt#### Access Corridor ####common/hidden-text/reasoning-access-corridor.txt####'.
+Still others were simple tiles, grey in color.
+But they wouldn't know that, as the ceiling had a line of green lights illuminating the area.
+
+####weakness_exploited/creator/lead...####
+
+
+
+'Well, here we are. Make yourself at home...' said ####common/creator-name/first.txt####, and started to examine the walls carefully.
+
+
+####common/journalist-name/first.txt#### stared at him. 'Why are you looking around so much?'
+
+
+Without stopping, ####common/creator-name/first.txt#### said:
+'I recall that there were some problems in this part that didn't manifest until...'
+
+
+He notices a panel in the wall and quickly pulls it aside, revealing a number of jumper cables, connected seemingly randomly.
+
+'...someone were to open this comms box...'
+
+
+He pulled a red cable out from the mess.
+
+'...and do something like this, at which point...'
+
 
 
 ####weakness_exploited/ai/does-weirdness.txt####
@@ -175,9 +259,30 @@ The door opened, and ####ai_expands/journalist/first-look-desc-embed.txt#### wal
 
 
 
-####ai_fixed/creator/i-need-help.txt####
+'Right, now that's dealt with...' said ####common/creator-name/first.txt####, producing a holographic communicator.
+Throwing it at the wall, he added: '####ai_fixed/creator/holophone-start-phrase-embed.txt####', and the device produced a picture of a person sleeping at his desk.
 
-####ai_fixed/assistance/arrives.txt####
+
+'Hey ####common/assistance-name/first.txt####!' shouted ####common/creator-name/first.txt####, and the hologram raised its head, saying 'Y-yeah?'.
+
+'I realy need your help here, on the ####common/ai-name.txt#### test site.
+There's a problem.'
+
+'Yeah, I heard the monitor system blip.
+It's probably nothing important, right?'
+
+'Nope, it's VERY important.
+It's totally FOOBAR and out of control.
+I managed to crash it, but I can't figure it out to fix it.
+I really need your help here.'
+
+The figure yawned. 'Well, if it's that important, I'll be there soon.'
+
+####common/creator-name/first.txt#### seems relieved. 'Okay, I'm at coords ####ai_fixed/creator/coord-technobabble-embed.txt####.'
+
+The hologram disappears, and the device flies back towards ####common/creator-name/first.txt####.
+Moments later, the real ####common/assistance-name/first.txt#### appears in front of him.
+
 
 ####ai_fixed/creator/explain-we-need-to-fix.txt####
 
@@ -249,12 +354,33 @@ The door opened, and ####ai_expands/journalist/first-look-desc-embed.txt#### wal
 
 
 
-####ending/back-at-leader-everything-okay-until-fail-then-door-opens.txt####
+Meanwhile, ####common/leader-name/prefix.txt.txt#### ####common/leader-name/last.txt########common/leader-name/suffix.txt.txt#### was sitting in his office, studying his video wall.
+He was concerned: the things it was displaying were very different from what he had seen earlier in the day.
+After the meeting with ####common/journalist-name/title.txt####, he used the quick-order gizmo to get himself some lunch.
+And upon return, he was greeted with weirdness.
 
-####ending/leader/why-are-you-here.txt####
+The logarithmic, parabolic and exponential slopes had turned into linear ones, parallel to the floor.
+The linear slope turned negative.
+The inter-bank operation list and counter have slowed down to a crawl.
+The counter that ticked every second has stopped.
+The alarm clock is ringing.
+The exchange rate is rising so fast that the screen is too small to contain the number.
+The world capital clocks are spinning backward.
+
+More weirdness ensued when most of these screens were replaced with a yellow triangle and exclamation mark, along with some text.
+Not only was the exclamation mark on its side, but the text read "####common/ai-name.txt#### error: ####common/hidden-text/ending.txt####".
+
+At this very moment ####common/creator-name/first.txt####, ####common/assistance-name/first.txt#### and ####common/journalist-name/first.txt#### entered the room.
+It raised more questions than it answered, and ####common/leader-name/prefix.txt#### ####common/leader-name/last.txt########common/leader-name/suffix.txt#### could at this point say nothing but:
 
 
-####ending/creator/we-owe-an-explaination.txt####
+
+'W-what?'
+
+
+
+'I believe we owe you an explaination, ####common/leader-name/title.txt####.' - said ####common/creator-name/first.txt#### calmly.
+
 
 ####ending/journalist/stuff-was-bad.txt####
 

@@ -1,1 +1,2 @@
-####ai_fixed/creator/i-need-help.txt####
+'Right, now that's dealt with...' said {common/creator-name/first}, producing a holographic communicator.
+Throwing it at the wall, he added: '{ai_fixed/creator/holophone-start-phrase-embed}', and the device produced a picture of a person sleeping at his desk.

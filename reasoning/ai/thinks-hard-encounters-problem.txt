@@ -1,1 +1,2 @@
-####reasoning/ai/thinks-hard-encounters-problem.txt####
+The AI pauses for a moment. '{reasoning/ai/logic-puzzle-answer-trailing-off}
+Error: This statement is self-contradictory. Does not-not-not-n-not compute.'

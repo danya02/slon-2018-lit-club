@@ -1,1 +1,3 @@
-####reasoning/creator/says-logic-puzzle.txt####
+He sighs, then faces the machine, speaking loud and clear:
+
+'{common/ai-name}, before you proceed, I would like to say: {reasoning/creator/logic-puzzle}.'

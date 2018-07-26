@@ -1,1 +1,11 @@
-####reasoning/ai/something-breaks-captives-released.txt####
+{common/creator-name/first} looked at the screen intently.
+The screen was rapidly changing its contents.
+Every few seconds, the screen would flip between memory dumps, data displays, system status monitors (code yellow), the facial expression display program, and, with increasing frequency, a screen full of text:
+
+{common/hidden-text/reasoning}
+
+'Yes, that's about right. And now, I think, it should start di-'
+
+'Diverting power.'
+
+{reasoning/scene/ai-releases}
