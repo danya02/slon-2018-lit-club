@@ -19,6 +19,8 @@ while '{' in text:
         inset = '####{}####'.format(topic)
         with open(topic,'w') as o:
             o.write(inset)
+    if inset[-1]=='\n':
+        inset = inset[:-1]
     text = before+inset+after
 with open('output.txt','w') as o:
     o.write(text)
