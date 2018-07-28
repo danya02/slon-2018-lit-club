@@ -1,1 +1,1 @@
-'{exposition/qa/audience-asks-why-biotech-humanoids}?' - asked {exposition/qa/audience-simple-member-description}.
+'{exposition/qa/audience-asks-why-biotech-humanoids} - asked {exposition/qa/audience-simple-member-description}.

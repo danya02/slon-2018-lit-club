@@ -1,1 +1,27 @@
-####ai_fixed/creator/inferior-headset-good-enough-lets-make-adapter.txt####
+'That's good enough. Could you bring it here?'
+
+'Sure, give me a moment,' - {common/assistance-name/first} said, entering the nearest teleportation point and saying "{ai_fixed/assistance/departs-phrase-to-teleporter}".
+
+A minute later, he's back, wearing a gigantic contraption on his head that presumably is, indeed, the dreaded Model TX headset.
+
+{common/creator-name/first} looked at him disapprovingly.
+
+'Hey, I did warn you it's a pre-release version, so-'
+
+'Oh just gimme that,' said {common/creator-name/first}, pulling the device off of him and examining it.
+The thing looked like a great helm, the sort of thing that an Middle-Age knight would wear.
+On either side, large rectangular boxes were fitted, presumably to hold the batteries.
+In the top, an array of various antennas were installed, poking out much like the spines of a hedgehog.
+Inside was a half of a head-mounted display for the left eye, whereas the other half was passing light from the outside using a deviously complex system of mirrors.
+It really is a sight to behold.
+
+'*sigh* Did you make this youself?'
+
+'Well, there's the thing: I didn't. This is, indeed, 100% straight from R&D.' - {common/assistance-name/first} said, pointing at the back, which was emblazoned with the words "HEADSET MODEL TX TEST TYPE".
+
+{common/creator-name/first} gave the helmet of doom one more look.
+The thought that someone, back at {common/company-name}, was developing apps for that monstrosity, was too saddening to think about.
+
+'I assure you it works the same as the real deal.'
+
+'Okay, let's just try to make this work. I just have to connect it into the main system somehow. Let's see if I can make do with the on-site dev tools...' - {common/creator-name/first} said, tapping the icon that says 'Development Envionment', and around him, various programs for writing, debugging, versioning and unit-testing code appeared.

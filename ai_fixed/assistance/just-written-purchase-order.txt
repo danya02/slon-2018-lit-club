@@ -1,1 +1,39 @@
-####ai_fixed/assistance/just-written-purchase-order.txt####
+'What's the item name?' - asked {common/assistance-name/first}, who has already pulled up a sales form and is quickly clicking through the field values.
+
+'That'd be an, um...' - {common/creator-name/first} looked at the back of the helmet-like monstrosity, currently lying in the corner of the holo-terminal,
+beside the projection tripod. - 'a Model TX headset. About 128 will do for now, he'll buy more later.'
+
+'And also add an R&D donation of...'
+
+'...round about 3072 times the retail price.' - {common/creator-name/first} looked at the device once again, shuddering.
+
+'And then drop the price to 2048 times retail, so he doesn't know we're ripping him off?'
+
+'Devious minds think alike!'
+
+'...Okay, all done!' - {common/assistance-name/first} replied, having just finished clicking through the form and now extricating a pocket printer.
+
+'Um, where did you get that?' - {common/creator-name/first} asked, eyeing the contraption suspiciously.
+Printers of any kind had become obsolete quite some time after {common/company-name} implemented an ingenious system replacing them.
+Anyone wishing to hand someone else a document would visit a {common/company-name} Document Depot, where one would be given either a tablet or a hologram projector that would show only that document.
+When that other person is done with it, they can return the device to their nearest one, where it would be available for others to use.
+
+Indeed, {common/assistance-name/first} was the one who came up with the idea and implemented it, so seeing him use the technology that he himself made redundant confused {common/creator-name/first} deeply.
+
+'Oh this?' - {common/assistance-name/first} pointed at the printer, which was now spinning up to warp speed. - 'That's because
+{common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} distrusts all modern tech. Can you believe he STILL has that videowall?'
+
+The videowall, as they knew, was the last one in operation.
+Every single workstation in existence was more advanced than that.
+Any manager had at least a 3DoF head-mounted display for their data displays.
+Some more important managers had 6DoF VR systems - the more magnanimous managers would let their subordinates play games on it.
+Those even higher up the command chain would have a holographic workspace - not unlike the {common/ai-name} management console over there.
+Those at the top would have gigantic rooms - 10 meters in every direction at the very least - where a holographic display would be projected, and where physical obstacles - such as chairs, desks, staircases and the like - would be tangible.
+A brave few who like experimental biotech can get themselves a capsule which, when climbed into, fills with a orange-colored liquid called 'LCL' and allows one to control their computer by thought and movement of a couple levers and takes over all senses, which is useful both for quick-and-easy access to business info and very immersive giant-robot simulators.
+
+By these standards, {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix}'s workspace is a complete and utter anachronism.
+In fact, when you enter his office for the first time, you may be forgiven for thinking that you have stepped back in time, for his main machine is an antique, genuine Initech Personal Computer from 1998, complete with the original yellowed plastic case and the original installation of Windows ME.
+This feeling of going back in time is further compounded by the fact that he has a large wooden desk that wouldn't be out of place in 1829.
+All this, combined with the fact that he can actually afford to install any of the workstations described above five times over, means that {common/assistance-name/first}'s system would cause much confusion, and so nobody's been brave enough to actually tell him of it.
+
+Meanwhile, the printing contraption has finished doing its thing, and {common/assistance-name/first} now held in his hands what was known in the Bad Old Days as a 'hardcopy'.

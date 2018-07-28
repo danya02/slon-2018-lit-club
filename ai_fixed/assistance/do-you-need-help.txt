@@ -1,1 +1,1 @@
-####ai_fixed/assistance/do-you-need-help.txt####
+'Can I help you with anything here?' - {common/assistance-name/first} inquired.

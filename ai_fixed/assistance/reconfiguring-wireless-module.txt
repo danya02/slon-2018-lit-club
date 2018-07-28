@@ -1,1 +1,12 @@
-####ai_fixed/assistance/reconfiguring-wireless-module.txt####
+'Right, where's the wireless module settings then?' - said {common/assistance-name/first}, frowning at the main menu.
+
+'Er... why do you need those?'
+
+'That would be BECAUSE if we turn it on again, all those civilians will get even more angry at being under {common/ai-name}'s control again.
+Even if it's for less than a minute!
+I need to break that part so this doesn't happen.'
+
+'Ah, good call. The settings are under the "Components" tab.
+
+'Thanks!~' - said {common/assistance-name/first}, swiping the display towards an icon that looks like a cube made out of cubes.
+A couple swipes, points, grabs, and drags later, a large dialog box appeared, saying "Mind Link Modules 1 to 14649271 unpaired." 

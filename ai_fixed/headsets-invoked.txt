@@ -15,5 +15,3 @@
 {ai_fixed/assistance/are-you-serious-about-food}
 
 {ai_fixed/creator/yes-i-am-serious-job-is-hard}
-
-{ai_fixed/creator/starts-work}

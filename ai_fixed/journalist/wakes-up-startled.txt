@@ -1,1 +1,7 @@
-####ai_fixed/journalist/wakes-up-startled.txt####
+'Kya--! *thud*'
+
+{common/creator-name/first}'s usual announcement of job completion - a standard among his team back at {common/company-name} - was punctuated with the sound of {common/journalist-name/first} falling from his bench.
+
+'Oh, I'm terribly sorry. Are you okay?' - said {common/creator-name/first}, offering {common/journalist-name/first} help.
+
+'Y-yeah...' - he answered weakly, sitting up.

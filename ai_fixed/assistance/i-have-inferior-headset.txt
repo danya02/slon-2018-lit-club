@@ -1,1 +1,1 @@
-####ai_fixed/assistance/i-have-inferior-headset.txt####
+'Well, I do have one, but it's a pre-release version and doesn't quite work properly.'

@@ -1,1 +1,2 @@
-'{exposition/qa/presenter-answers-because-unused-humanoids},' - replied {exposition/presenter/very-short-description}. - '{exposition/qa/presenter-adds-existing-tech-can-be-used}'.
+{exposition/qa/presenter-answers-because-unused-humanoids}
+{exposition/qa/presenter-adds-existing-tech-can-be-used}
