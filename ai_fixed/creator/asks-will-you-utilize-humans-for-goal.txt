@@ -1,1 +1,1 @@
-####ai_fixed/creator/asks-will-you-utilize-humans-for-goal.txt####
+'{common/ai-name}, executor list, verbose!' - {common/creator-name/first} said quickly.

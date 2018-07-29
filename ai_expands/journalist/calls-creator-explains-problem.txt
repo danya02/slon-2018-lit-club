@@ -1,1 +1,20 @@
-####ai_expands/journalist/calls-creator-explains-problem.txt####
+Ring, ring...
+
+'Hello, this is {common/creator-name/first}. How may I help you?'
+
+'Good morning, {common/creator-name/first}. This is {common/journalist-name/first}. I just wanted to ask you about {common/ai-name}.'
+
+'Ah, sure. Go on then.'
+
+'Well, I'm a little bit concerned that it is gaining much more power than we bargained for, and...'
+
+'Yes, that's a concern of mine as well. All right then, how's about visiting {common/city-name}? I was actually planning on doing that myself. 
+Wanna tag along and see how this goes?'
+
+'Uhh... Yeah, sure, why not?'
+
+{common/creator-name/first} sounds releived. 'Great! Then, could you please take the nearest teleport station to coords {common/hidden-text/journalist-to-creator-coords-embed}? Thanks!'
+
+Click...
+
+. . .

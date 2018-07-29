@@ -1,1 +1,7 @@
-####exposition/presenter/announces-live-demo.txt####
+'But you don't have to take our word for it!
+We are installing one of these systems in the city of {common/city-name}, and it is being launched as I speak.
+In the next two hours, it will become fully operational, and anyone wishing to see the system in production can schedule a guided tour.'
+
+'Okay, we have time for some more questions before the tours are open...'
+
+. . .

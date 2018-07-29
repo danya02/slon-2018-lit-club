@@ -17,5 +17,3 @@
 {ai_expands/leader/ignores}
 
 {ai_expands/journalist/calls-creator-explains-problem}
-
-{ai_expands/creator/agrees-to-help}

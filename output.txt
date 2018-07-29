@@ -8,7 +8,7 @@
 
 '####common/ai-name.txt####!'
 
-####exposition/ai/spotlight-illuminates-machine.txt####. ####exposition/ai/machine-consists-of-parts-description.txt####. ####exposition/ai/admiration-phrase.txt####.
+####exposition/ai/spotlight-illuminates-machine.txt####. ####exposition/ai/machine-consists-of-parts-description.txt####. It is, indeed, a sight to behold..
 
 ####exposition/crowd/after-unveil.txt####
 
@@ -42,11 +42,19 @@ He thinks for a moment.
 'Plus, it means that if we run short of the humanoids, we have the technology to make more.'
 
 
-####exposition/qa/audience-asks-concerned-question.txt####
+'I have a question for you: I'm not sure that what you've just shown us is sufficient to manage any large operation.
+Is there any proof that this is expandable?' - asked ####exposition/qa/concerned-audience-first-description.txt####.
 
-####exposition/qa/presenter-answers-concerned-question.txt####
+'Well, it is expected that the basic limits will be exceeded soon for large operations.
+For this very reason, once the operational limit is approached, ####common/ai-name.txt#### will try to assemble the necessary upgrade modules from materials available on-site, or, if that is impossible, automatically purchase the needed ones from ####common/company-name.txt####'s online store.'
 
-####exposition/presenter/announces-live-demo.txt####
+'But you don't have to take our word for it!
+We are installing one of these systems in the city of ####common/city-name.txt####, and it is being launched as I speak.
+In the next two hours, it will become fully operational, and anyone wishing to see the system in production can schedule a guided tour.'
+
+'Okay, we have time for some more questions before the tours are open...'
+
+. . .
 
 And so, ####common/ai_name.txt#### was given a small area of the city of ####common/city_name.txt####.
 The AI ####ai_expands/ai/phrases/verbed-worked.txt####, and soon, the area had become completely ####ai_expands/ai/phrases/verbed-goal.txt####.
@@ -83,7 +91,7 @@ A counter has been counting down for the last 5 minutes and is now saying 5, 4, 
 
 The door opened, and ####ai_expands/journalist/first-look-desc-embed.txt#### walked into the office.
 
-####ai_expands/leader/greets-journalist.txt####
+'Huh? Oh, good morning, Mr. ... ####common/journalist-name/last.txt####.'
 
 ####ai_expands/journalist/tells-leader-i-have-seen-bad-stop-this.txt####
 
@@ -114,11 +122,35 @@ The time-until-next-appointment counter has reset to 600 and started to count do
 
 'Oh, I'm terribly sorry to have to cut this meeting short, but I have an appointment in 10 minutes. I'd be happy to discuss this question at some future date, though.' - ####common/leader-name/prefix.txt#### ####common/leader-name/last.txt########common/leader-name/suffix.txt#### said, motioning at the door.
 
-####ai_expands/journalist/exits-pissed-off.txt####
+Wordlessly, ####common/journalist-name/first.txt#### stood up and went for the door.
+Only at the door did he remember the basic formalities - 'Thanks for your time' - for he wasn't thankful at all.
+The meeting has been, to put it mildly, underwhelming.
+He didn't get nothing but a couple of non-answers, and ####common/leader-name/prefix.txt#### ####common/leader-name/last.txt########common/leader-name/suffix.txt####'s dismissive attitude during the whole affair just seals the deal.
 
-####ai_expands/journalist/calls-creator-explains-problem.txt####
+It was to be expected, though. ####common/leader-name/prefix.txt#### ####common/leader-name/last.txt########common/leader-name/suffix.txt#### was well-known for being distractible.
+####common/journalist-name/first.txt#### should have known better than to ask him about the thing that even his trusty videowall proved is good.
+And so, ####common/journalist-name/first.txt#### knew that he should address the person at the source of all this.
 
-####ai_expands/creator/agrees-to-help.txt####
+Ring, ring...
+
+'Hello, this is ####common/creator-name/first.txt####. How may I help you?'
+
+'Good morning, ####common/creator-name/first.txt####. This is ####common/journalist-name/first.txt####. I just wanted to ask you about ####common/ai-name.txt####.'
+
+'Ah, sure. Go on then.'
+
+'Well, I'm a little bit concerned that it is gaining much more power than we bargained for, and...'
+
+'Yes, that's a concern of mine as well. All right then, how's about visiting ####common/city-name.txt####? I was actually planning on doing that myself. 
+Wanna tag along and see how this goes?'
+
+'Uhh... Yeah, sure, why not?'
+
+####common/creator-name/first.txt#### sounds releived. 'Great! Then, could you please take the nearest teleport station to coords ####common/hidden-text/journalist-to-creator-coords-embed.txt####? Thanks!'
+
+Click...
+
+. . .
 
 ####reasoning/arriving-into-city.txt####
 
@@ -205,7 +237,12 @@ In front of them, the line of lights split into three, each leading through a ne
 'We are currently here...' - he said, poking the red figure on the map, - 'and we gotta get to riiight about... there!' - he said, pointing at a small room on the map.
 Suddenly, the path from the figure to that room was highlighted by golden colors, and, after a moment of looking at it, ####common/creator-name/first.txt#### announced, 'Let's go!'
 
-####weakness_exploited/creator/lead-journalist-to-inside-machine.txt####
+Leading ####common/journalist-name/first.txt#### through the catacombs, he tried to make the journey less boring by explaining some technical aspects of the machine.
+But ####common/journalist-name/first.txt#### didn't understand much, which made all more uncomfortable, and so they navigated the -- er, dungeon? -- in silence.
+
+. . .
+
+They arrived at a small circular room.
 
 'Well, here we are. Make yourself at home...' said ####common/creator-name/first.txt####, and started to examine the walls carefully.
 
@@ -402,15 +439,33 @@ He slowly retreated to a nearby park bench, laid down on it and instantly fell a
 
 But they didn't notice that he fell asleep, and just went on working.
 
-####ai_fixed/creator/lets-turn-it-on-tells-assistance-scram.txt####
+'Okay, let's turn 'er on and see how she chooches...'
 
-####ai_fixed/creator/turns-ai-on.txt####
+'Should I go to that junction you used earlier?'
 
-####ai_fixed/ai/inits-says-version.txt####
+'Yeah, good call. The nearest blue hatch is right around here.' - ####common/creator-name/first.txt#### said, pointing at the ground near the raised platform.
 
-####ai_fixed/creator/asks-will-you-utilize-humans-for-goal.txt####
+'...And the ACL is working?' - ####common/assistance-name/first.txt#### said, eyeing a piece of what appears to be flat floor.
 
-####ai_fixed/ai/replies-wont-use-humans.txt####
+'Go ahead and find out!' - he replied.
+
+####common/assistance-name/first.txt#### stepped on the pointed-out ground, a blue glow appeared around him in a circle, the floor descended and he was gone.
+
+. . .
+
+'Okay, I'm here. I've reconnected the MSCs, so it's ready to chooch.'
+
+'And if it goes bad again, I yell 'SCRAM', and you pull the cables.'
+
+'Accepted. What are you waiting for then?'
+
+'Okay, let's do this. Contact!'
+
+The holo-terminal fills with diagnostic info, and ####common/ai-name.txt####'s voice filled the environment. 'This is ####common/ai-name.txt####, version 1.01'.
+
+'####common/ai-name.txt####, executor list, verbose!' - ####common/creator-name/first.txt#### said quickly.
+
+'Executor list: 1 item. 1: Model TX headset. Status: FAILED.'
 
 ####ai_fixed/creator/tells-assistance-everything-ok.txt####
 

@@ -1,1 +1,19 @@
-####ai_fixed/creator/lets-turn-it-on-tells-assistance-scram.txt####
+'Okay, let's turn 'er on and see how she chooches...'
+
+'Should I go to that junction you used earlier?'
+
+'Yeah, good call. The nearest blue hatch is right around here.' - {common/creator-name/first} said, pointing at the ground near the raised platform.
+
+'...And the ACL is working?' - {common/assistance-name/first} said, eyeing a piece of what appears to be flat floor.
+
+'Go ahead and find out!' - he replied.
+
+{common/assistance-name/first} stepped on the pointed-out ground, a blue glow appeared around him in a circle, the floor descended and he was gone.
+
+. . .
+
+'Okay, I'm here. I've reconnected the MSCs, so it's ready to chooch.'
+
+'And if it goes bad again, I yell 'SCRAM', and you pull the cables.'
+
+'Accepted. What are you waiting for then?'
