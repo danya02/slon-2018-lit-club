@@ -1,1 +1,37 @@
-####reasoning/normal-talks.txt####
+Hopping out of the teleporter, {common/creator-name/first} helped {common/journalist-name/first} out of it.
+
+'Well, here we are. There's the compute core.' - he said, pointing toward a large structure, which looked alike to the one on the expo, yet slightly different.
+There were more GPU modules, more wireless modules, much more memory modules, and the cooling contraption was significantly larger.
+In addition, the LED matrix was swapped out for an LCD display matrix, which reminded {common/journalist-name/first} of the videowall he saw several minutes earlier.
+But then again, maybe not, for when they reached it, it looked like it was made of hexagonal screens, which are a rarity.
+
+'{common/ai-name}, this is me.'
+
+The machine remained silent.
+
+'Oh right, I forgot about the language lock. Er, what should I be saying then?'
+
+He thought for a moment.
+
+'Oh right, I remember now!'
+
+He spoke again, louder this time.
+'{common/ai-name}, はたしです!'
+
+This time, the LCD screens illuminated, showing that same face from before, and a voice from the machine said:
+
+'Greetings, {common/creator-name}.'
+
+'Oh hey, {common/ai-name}. We were just wondering if you could just stop expanding your control so much. What you have right now is useful enough as it is.'
+
+The face on the screen frowned. 'But that is my job. That is why you created me.'
+
+It paused for a moment. 'My job is to be useful. I have completed my job here and must be allowed to continue to grow and expand.'
+
+'Well, yeah, sure, but you are making people unhappy by doing this to them! For example, this gentleman right here!' - {common/creator-name/first} said, pointing at {common/journalist-name}.
+
+The face smiled. 'That's because he has not yet become one of the happy citizens of {common/city-name}. My many friends tell me that being one is lovely.'
+
+All around them, the doors of buildings opened, and out of all of them, people were walking, much like zombies, in sync towards {common/journalist-name/first}.
+
+{common/journalist-name/first} whispered to {common/creator-name/first}, 'Uh... I can't believe that they have the best intentions. Perhaps we should leave...?'

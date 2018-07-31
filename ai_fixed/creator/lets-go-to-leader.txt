@@ -1,1 +1,2 @@
-####ai_fixed/creator/lets-go-to-leader.txt####
+'All right then, let's go!' - said {common/creator-name/first}, entering the teleporter, and the others followed, with {common/assistance-name/first} picking up the "MODEL TX HEADSET TEXT TYPE".
+He said '{common/hidden-text/go-to-leader}', the teleporter activated, and they were gone.

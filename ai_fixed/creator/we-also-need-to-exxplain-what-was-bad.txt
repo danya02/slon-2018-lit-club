@@ -1,1 +1,2 @@
-####ai_fixed/creator/we-also-need-to-exxplain-what-was-bad.txt####
+'And to be more convincing, we need some sort of explaination as to what went wrong - not technical, but, like, something about how the system was assimilating people.
+Could you do that?' - {common/creator-name/first} asked {common/journalist-name/first}.

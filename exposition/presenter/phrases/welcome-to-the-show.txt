@@ -1,1 +1,1 @@
-####exposition/presenter/phrases/welcome-to-the-show.txt####
+welcome to our exposition.

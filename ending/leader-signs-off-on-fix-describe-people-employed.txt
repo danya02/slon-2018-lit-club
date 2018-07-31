@@ -1,1 +1,9 @@
-####ending/leader-signs-off-on-fix-describe-people-employed.txt####
+. . .
+
+And so, the city of {common/city-name} continued to be controlled by {common/ai-name}, but less invasively.
+Every citizen was issued a headset of the Model TX family, and when they wished to go to work, they would wear it.
+Then, they would do what the system told them to do, and they always had the option of declining.
+They would get paid based on the time that they were wearing the headset and doing work.
+Moreover, {common/ai-name} created humanoid robots for itself, to make work more productive in mission-critical environments.
+
+And all was well.

@@ -1,1 +1,1 @@
-####common/humanoids-genitive.txt####
+humanoids

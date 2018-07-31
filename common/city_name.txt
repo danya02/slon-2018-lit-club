@@ -1,1 +1,1 @@
-####common/city_name.txt####
+{common/city-name}

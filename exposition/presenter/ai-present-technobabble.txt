@@ -1,1 +1,8 @@
-####exposition/presenter/ai-present-technobabble.txt####
+'Built upon the latest Roswell CPU technology, the main processor box is custom-built for the task of managing high-performance industrial environments.
+It can be expanded infinitely simply by connecting more of these addon modules. The GPU modules expand its ability to manage movement of its execution actors, or "nodes".
+The memory banks are used for storing info on the best method of execution of some particular task.
+The wireless modules are used for connecting to the execution nodes.
+On the task level, it can do up to 64 parallel tasks in the basic package, which is what you see here.
+All tasks are switchable between individual nodes, support adding and removing nodes from a task without halting execution.
+It can also mirror tasks, for those cases when a task can be done repeatedly on some predictable objects.
+Finally, it has automatic danger avoidance built in, but in case that doesn't help, it has error correction.

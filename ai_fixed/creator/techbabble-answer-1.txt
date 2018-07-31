@@ -1,1 +1,1 @@
-####ai_fixed/creator/techbabble-answer-1.txt####
+'Yeah, do that. And while you're at it, could you enable the MD5 checksum caching? It's pretty useful in situations like these.'

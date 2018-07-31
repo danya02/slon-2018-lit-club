@@ -1,1 +1,1 @@
-####exposition/presenter/phrases/i-am-your-announcer.txt####
+I am your host for today.

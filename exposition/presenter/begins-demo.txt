@@ -1,1 +1,1 @@
-####exposition/presenter/begins-demo.txt####
+'But hearing about it is much less interesting than seeing it in operation, so it's now time to do a demo!'

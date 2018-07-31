@@ -1,1 +1,4 @@
-####common/hidden-text/reasoning.txt####
+SWYgeW91IHJlYWQgdGhpcyB0ZXh0LCB0aGVuICpjb25ncmF0dWxhdGlvbnMqISBUaGVyZSBhcmUg
+c29tZSBoaWRkZW4gdGV4dHMgbGlrZSB0aGlzIGFyb3VuZCwgYWxsIGluIGJhc2U2NC4gTm9uZSBv
+ZiB0aGVtIGFyZSBjcml0aWNhbCB0byByZWFkLCBidXQgYXJlIG1lcmVseSBuaWNlLXRvLWhhdmVz
+Lgo=

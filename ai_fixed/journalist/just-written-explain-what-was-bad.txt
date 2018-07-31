@@ -1,1 +1,3 @@
-####ai_fixed/journalist/just-written-explain-what-was-bad.txt####
+'Uhh, I think I could. If I screw up, could you back me up?' - he replied, asking {common/assistance-name/first}.
+
+'Of course, sure thing.'

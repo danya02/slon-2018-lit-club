@@ -1,1 +1,6 @@
-####ai_expands/leader/tells-journalist-but-look-at-the-pretty-charts.txt####
+'And what does it matter? What matters right now for this city is the improvement of the economy, and {common/ai-name} does this job perfectly.
+Just look at the pretty charts!' - said {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix}, pointing to the relevant screens on his videowall.
+
+{common/journalist-name/first} involuntarily looked at the aforementioned charts, which were still on the rise, and he couldn't help thinking that they are very pretty indeed.
+Trying not to think about that, he said:
+

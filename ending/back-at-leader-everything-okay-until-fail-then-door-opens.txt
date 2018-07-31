@@ -1,4 +1,4 @@
-Meanwhile, {common/leader-name/prefix.txt} {common/leader-name/last}{common/leader-name/suffix.txt} was sitting in his office, studying his video wall.
+Meanwhile, {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} was sitting in his office, studying his video wall.
 He was concerned: the things it was displaying were very different from what he had seen earlier in the day.
 After the meeting with {common/journalist-name/title}, he used the quick-order gizmo to get himself some lunch.
 And upon return, he was greeted with weirdness.

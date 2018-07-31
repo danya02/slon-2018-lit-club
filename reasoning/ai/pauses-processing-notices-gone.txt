@@ -1,4 +1,4 @@
-'Clock cycle limit reached. Compute job is ####common/hidden-text/reasoning-escaping-one-liner.txt####.
+'Clock cycle limit reached. Compute job is {common/hidden-text/reasoning-escaping-one-liner}.
 Warning: targets have disappeared in less than 20 ticks.
 Pursuit status: overridden by efficiency monitor.'
 

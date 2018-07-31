@@ -1,1 +1,47 @@
-####exposition/ai/does-demo.txt####
+As soon as he said the last word, the LED display switched to the word "DEMO" as a section of the floor retracted. Out came five humanoid creatures and a tower of juggling balls.
+
+The screen switched to a picture of a face, which said: 'Awaiting orders.'
+
+'One of the most difficult tasks to be done collaboratively is juggling, as one has to sync movements with everyone else to achieve the best results.
+However, {common/ai-name} handles this with ease. Observe!' - he said to the crowd, then faced the machine and said:
+
+'{common/ai-name}, juggling, 10 balls, three nodes. Go!'
+
+Three humanoids out of five reached forward, taking each three balls, save for the central one, who took four.
+They started juggling, gradually moving each ball from left to right, then back.
+The machine said: 'Executing. Work job is {common/hidden-text/demo-work-job}'.
+
+'And the beauty of it all is, this system can dynamically allocate execution. {common/ai-name}, drop node 1!'
+
+The middle humanoid walked backwards, and the other two continued juggling the ten balls.
+
+'And it can mirror actions done by some nodes on other ones. {common/ai-name}, mirror actions, node 2 and 3 to node 1 and 4. Go!'
+
+Two humanoids took out ten more balls from the pile, and started juggling in sync with the other two.
+
+'But don't think it can do only one thing at a time! I have here...' - he said, reaching into his back pocket and pulling out - 'an unsolved Rubic's Cube.
+Let's see how fast it can handle this. {common/ai-name}, node 5, catch, solve, and return!'
+
+The remaining humanoid walked forward and assumed a catching stance. The presenter threw the cube at it, intentionally missing, yet the humanoid caught it anyway.
+Around 8 secinds pass, and he throws the cube back. The presenter showed everyone that the cube is, indeed, solved.
+
+A couple hecklers from the audience yelled 'Solve THIS!', then threw a couple of other exotic Rubic's puzzles, including what appeared to be a 20x20x20 cube and something called a Rubic's Rhombicosidodecahedron.
+The humanoid caught them all and started solving the 20-edged cube, as the machine said: "Performance limit reached for node 5. Switch execution for node 1?'
+
+'Ah, thank you for that. This gives me an opportunity to demonatrate the task parallelization feature. {common/ai-name}, accept. Switch node 1 to task of node 5. Join task of 2, 3, and 4. Go!'
+
+One of the juggling humanoids stopped doing so and went to the cube-solving one, who handed it the rhombicosidodecahedron. The remaining humanoids went on juggling.
+
+About a minute later, during which the presenter explained that if anyone wants to test the shown features, they are welcome to do so, for example using this particular method, the humanoids nearly simultaneously threw the puzzles back at the owners.
+
+'And finally, the tasks can have items added to the goal. Juggling, of course, doesn't have a goal, but we can try anyway. {common/ai-name}, join nodes 1 and 5 to task of 2, 3, 4. Include all remaining balls. Go!'
+
+The two humanoids took all of the remaining balls from the pile, and joined in juggling them with the others.
+
+And a final feature I'd like to show you is error correction. Suppose, for example, that this humanoid were to fail. And I'm going to simulate it like this...' - he said, walking up to the central humanoid from behind. He flicked a switch on the back of its head, and it froze for a moment, then fell forwards.
+
+The remaining humanoids pulled in to join the gap. The machine said: 'Error. Node 3 failed: host sending bogus data. Distributing work job {common/hidden-text/demo-work-job} across nodes 1, 2, 4, 5.
+
+'So, as you can see, it will continue doing its job even if some of the nodes failed. And now, as a bonus for all you in the audience... {common/ai-name}! Stop work job! Disribute balls to people in audience!'
+
+The humanoids threw the balls very high up in the air, leaving them holding only a few. Every ball falling down from above they caught, and softly threw each ball at someone in the crowd.

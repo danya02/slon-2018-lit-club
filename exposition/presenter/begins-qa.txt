@@ -1,1 +1,1 @@
-####exposition/presenter/begins-qa.txt####
+'Okay, now that the demo is done, it's time for a QA. Any questions, anyone?'

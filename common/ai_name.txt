@@ -1,1 +1,1 @@
-####common/ai_name.txt####
+{common/ai-name}
