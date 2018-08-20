@@ -4,4 +4,3 @@
 
 {ending/party-explains-fix}
 
-{ending/leader-signs-off-on-fix-describe-people-employed}

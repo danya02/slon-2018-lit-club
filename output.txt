@@ -828,13 +828,3 @@ It raised more questions than it answered, and Mr Johnson could at this point sa
 'And here's purchase order for the headsets.' - Mitch said, pulling out the sheet of paper from earlier. - 'PLUS, since you're such an important customer, we'll give you a 33% discount!' - he added, pulling out a pen and editing 3072 to 2048.
 
 'I... I guess I have no choice... ...Where do I sign?..'
-
-. . .
-
-And so, the city of Detroit continued to be controlled by ATLAS, but less invasively.
-Every citizen was issued a headset of the Model TX family, and when they wished to go to work, they would wear it.
-Then, they would do what the system told them to do, and they always had the option of declining.
-They would get paid based on the time that they were wearing the headset and doing work.
-Moreover, ATLAS created humanoid robots for itself, to make work more productive in mission-critical environments.
-
-And all was well.
