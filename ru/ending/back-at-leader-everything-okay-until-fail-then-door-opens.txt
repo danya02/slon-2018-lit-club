@@ -1,0 +1,20 @@
+Meanwhile, {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} was sitting in his office, studying his video wall.
+He was concerned: the things it was displaying were very different from what he had seen earlier in the day.
+After the meeting with {common/journalist-name/title}, he used the quick-order gizmo to get himself some lunch.
+And upon return, he was greeted with weirdness.
+
+The logarithmic, parabolic and exponential slopes had turned into linear ones, parallel to the floor.
+The linear slope turned negative.
+The inter-bank operation list and counter have slowed down to a crawl.
+The counter that ticked every second has stopped.
+The alarm clock is ringing.
+The exchange rate is rising so fast that the screen is too small to contain the number.
+The world capital clocks are spinning backward.
+
+More weirdness ensued when most of these screens were replaced with a yellow triangle and exclamation mark, along with some text.
+Not only was the exclamation mark on its side, but the text read "{common/ai-name} error: {common/hidden-text/ending}".
+
+At this very moment {common/creator-name/first}, {common/assistance-name/first} and {common/journalist-name/first} entered the room.
+It raised more questions than it answered, and {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} could at this point say nothing but:
+
+(ru/ending/back-at-leader-everything-okay-until-fail-then-door-opens.txt)

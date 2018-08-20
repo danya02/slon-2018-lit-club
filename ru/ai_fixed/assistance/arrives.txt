@@ -1,0 +1,20 @@
+'Hey {common/assistance-name/first}!' shouted {common/creator-name/first}, and the hologram raised its head, saying 'Y-yeah?'.
+
+'I realy need your help here, on the {common/ai-name} test site.
+There's a problem.'
+
+'Yeah, I heard the monitor system blip.
+It's probably nothing important, right?'
+
+'Nope, it's VERY important.
+It's totally FOOBAR and out of control.
+I managed to crash it, but I can't figure it out to fix it.
+I really need your help here.'
+
+The figure yawned. 'Well, if it's that important, I'll be there soon.'
+
+{common/creator-name/first} seems relieved. 'Okay, I'm at coords {ai_fixed/creator/coord-technobabble-embed}.'
+
+The hologram disappears, and the device flies back towards {common/creator-name/first}.
+Moments later, the real {common/assistance-name/first} appears in front of him.
+(ru/ai_fixed/assistance/arrives.txt)

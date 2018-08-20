@@ -1,0 +1,8 @@
+'But it's fine, isn't it?' - he replied, puzzled. - 'Didn't you put {common/ai-name} into an infinite loop?'
+
+'A loop, maybe. But infinite? Oh no no no, that thing's smarter than it looks. In fact...'
+
+He pauses, looking at his wristwatch (which are totally still a thing).
+
+'...yes, the clock cycle limit should-'
+(ru/reasoning/journalist/but-ai-seems-safe-cut-off.txt)

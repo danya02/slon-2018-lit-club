@@ -1,0 +1,2 @@
+'Oh, I'm terribly sorry to have to cut this meeting short, but I have an appointment in 10 minutes. I'd be happy to discuss this question at some future date, though.' - {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} said, motioning at the door.
+(ru/ai_expands/leader/tells-meeting-is-over.txt)

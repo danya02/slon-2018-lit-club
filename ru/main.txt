@@ -1,0 +1,14 @@
+{exposition/main}
+
+{ai_expands/main}
+
+{reasoning/main}
+
+{weakness_exploited/main}
+
+{people_realize_world/main}
+
+{ai_fixed/main}
+
+{ending/main}
+(ru/main.txt)

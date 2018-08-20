@@ -1,0 +1,2 @@
+UiZEIGRlcGFydG1lbnQK
+(ru/ai_fixed/assistance/departs-phrase-to-teleporter.txt)

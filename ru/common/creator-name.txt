@@ -1,0 +1,2 @@
+Mr. {common/creator-name/first} {common/creator-name/last}
+(ru/common/creator-name.txt)

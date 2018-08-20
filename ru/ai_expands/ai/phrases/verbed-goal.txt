@@ -1,0 +1,2 @@
+improved
+(ru/ai_expands/ai/phrases/verbed-goal.txt)

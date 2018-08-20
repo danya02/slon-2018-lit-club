@@ -1,0 +1,2 @@
+'Beer and chips?! Are you kidding me?!'
+(ru/ai_fixed/assistance/are-you-serious-about-food.txt)

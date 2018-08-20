@@ -1,0 +1,6 @@
+'You see, earlier today I tried to warn you,' - said {common/journalist-name/first} - 'about that there was a problem with {common/ai-name} -'
+
+'Oh come on, get to the point!' - {common/assistance-name/first} warned.
+
+'- anyone entering the city is recruited as a worker for {common/ai-name} - again their will. Basically, no one ever returns.
+(ru/ending/journalist/stuff-was-bad.txt)

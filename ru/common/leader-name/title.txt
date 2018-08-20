@@ -1,0 +1,2 @@
+Mayor
+(ru/common/leader-name/title.txt)

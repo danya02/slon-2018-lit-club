@@ -1,0 +1,6 @@
+{ending/creator/we-owe-an-explaination}
+
+{ending/journalist/stuff-was-bad}
+
+{ending/leader/agrees-bad}
+(ru/ending/party-shows-leader-bad.txt)

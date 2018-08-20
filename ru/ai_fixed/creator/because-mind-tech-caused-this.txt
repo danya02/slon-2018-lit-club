@@ -1,0 +1,3 @@
+{common/creator-name/first} sighed. 'BECAUSE the AI works by controlling executors, and you've just broken the one means of control that it had.
+Those headsets, however, have all the features that it requires: video-audio IO, positional tracking and a relatively simple interface.'
+(ru/ai_fixed/creator/because-mind-tech-caused-this.txt)

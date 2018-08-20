@@ -1,0 +1,3 @@
+{exposition/qa/presenter-answers-because-unused-humanoids}
+{exposition/qa/presenter-adds-existing-tech-can-be-used}
+(ru/exposition/qa/presenter-answers-simple-question.txt)

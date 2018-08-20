@@ -1,0 +1,6 @@
+{reasoning/arriving-into-city}
+
+{reasoning/normal-talks}
+
+{reasoning/attempt-at-logic-puzzle}
+(ru/reasoning/main.txt)

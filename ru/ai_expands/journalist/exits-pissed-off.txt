@@ -1,0 +1,9 @@
+Wordlessly, {common/journalist-name/first} stood up and went for the door.
+Only at the door did he remember the basic formalities - 'Thanks for your time' - for he wasn't thankful at all.
+The meeting has been, to put it mildly, underwhelming.
+He didn't get nothing but a couple of non-answers, and {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix}'s dismissive attitude during the whole affair just seals the deal.
+
+It was to be expected, though. {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} was well-known for being distractible.
+{common/journalist-name/first} should have known better than to ask him about the thing that even his trusty videowall proved is good.
+And so, {common/journalist-name/first} knew that he should address the person at the source of all this.
+(ru/ai_expands/journalist/exits-pissed-off.txt)

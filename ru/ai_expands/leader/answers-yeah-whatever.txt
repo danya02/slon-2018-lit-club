@@ -1,0 +1,3 @@
+'Yeah, sure, whatever.
+As long as the economy improves.'
+(ru/ai_expands/leader/answers-yeah-whatever.txt)

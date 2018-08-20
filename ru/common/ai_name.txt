@@ -1,0 +1,2 @@
+{common/ai-name}
+(ru/common/ai_name.txt)

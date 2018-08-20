@@ -1,0 +1,2 @@
+'Well, it has to answer truthfully to debug questions, so we just ask it to list its methods of control, and if we hear something like "Mind Link" in there, that's a problem.'
+(ru/ai_fixed/creator/techbabble-answer-2.txt)

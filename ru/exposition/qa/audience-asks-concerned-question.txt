@@ -1,0 +1,3 @@
+'I have a question for you: I'm not sure that what you've just shown us is sufficient to manage any large operation.
+Is there any proof that this is expandable?' - asked {exposition/qa/concerned-audience-first-description}.
+(ru/exposition/qa/audience-asks-concerned-question.txt)

@@ -1,0 +1,4 @@
+*pokety-poke, swippety-swipe*
+
+'...Okay, done! Now here's the real problem: How do we prove that the thing won't try to take over humans again?'
+(ru/ai_fixed/assistance/techbabble-question-2.txt)

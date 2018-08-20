@@ -1,0 +1,31 @@
+The city of {common/city-name} looked very futuristic indeed.
+Every building had many blinking lights, presumably connected to {common/ai-name} in some way.
+Autonomous cars, drones and small wheeled robots moved across the landscape.
+In the center of the city, on a large platform, the compute core of {common/ai-name} was located.
+It has grown significantly as compared to the demo version.
+
+However, the center was empty.
+All the people were at this point in time quite far away from there.
+If an outsider would come there, they would notice an oddity:
+
+Everyone was moving in perfect sync.
+
+Since all was controlled by {common/ai-name}, so were the people.
+Everyone was doing exactly what is most needed to maximise productivity.
+
+Exactly at 06:55, every person left their home, and walked, in a straight line, merging with larger ones, toward their place of employment.
+And exactly at 21:25, all would start walking back to their homes.
+
+This is what an outsider would see.
+But in truth, he will not see this.
+Because {common/ai-name}'s goal is to maximise performance, and it is most easily achieved by large numbers, the outsider would be taken to the center.
+At this point, it was irrelevant that he was an outsider, and any of his outside obligations did not matter.
+
+He wasn't helping get the job done.
+
+He had to be "made useful".
+
+And this is the reason why the center was empty.
+Anyone arriving there, for any length of time and for any reason, did not return.
+And that is how the productivity of the city kept increasing.
+(ru/ai_expands/ai-world-describe.txt)

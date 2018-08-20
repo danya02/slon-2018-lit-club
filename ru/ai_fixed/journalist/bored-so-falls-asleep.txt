@@ -1,0 +1,4 @@
+Meanwhile, {common/journalist-name/first} was just looking at the proceedings in awe. Trying not to attract attention to himself, he announced:
+'Okay, well, you seem to be doing great, so if you need me, I'll just be somewhere around here...'
+He slowly retreated to a nearby park bench, laid down on it and instantly fell asleep.
+(ru/ai_fixed/journalist/bored-so-falls-asleep.txt)

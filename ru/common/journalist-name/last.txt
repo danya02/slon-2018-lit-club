@@ -1,0 +1,2 @@
+Smith
+(ru/common/journalist-name/last.txt)

@@ -1,0 +1,2 @@
+'Er... why? Aren't we trying to fix the AI?'
+(ru/ai_fixed/assistance/why-headset.txt)

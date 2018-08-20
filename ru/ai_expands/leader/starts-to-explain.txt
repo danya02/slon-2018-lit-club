@@ -1,0 +1,6 @@
+{ai_expands/leader/tells-journalist-but-look-at-the-pretty-charts}
+
+{ai_expands/journalist/tells-leader-but-you-lose-control-over-city}
+
+{ai_expands/leader/tells-journalist-no-i-dont-cut-off}
+(ru/ai_expands/leader/starts-to-explain.txt)

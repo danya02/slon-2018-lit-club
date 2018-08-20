@@ -1,0 +1,34 @@
+'Okay, *yawn*, so what's the deal here then?'
+
+'The deal here is, remember how we used the mind-control devices as net nodes?'
+
+'Yeah, the CTO said to do this. Why do you ask?'
+
+'Well, you know how the intention was to use up our stock of those humanoids we wanted for {common/fail-project-name}?
+
+'Don't tell me - the filter failed, causing it to install the mind-tech into civilians?'
+
+'The filter DID fail, causing it to install mind-tech into civilians, and they're NOT happy about it.'
+
+'Okay, let's fix the system then, and see what we can do.'
+
+'That was exactly my thought. Let's go then, the console is over there.'
+
+{common/creator-name/first} pointed towards an elevated platform, with small cube-shaped devices on tripods standing on all corners.
+
+{common/journalist-name/first} blinked. 'Huh? That's a computer terminal?' 
+
+'Not a common one,' - {common/assistance-name/first} explained, 'but a custom-made, 360-degree holographic projection, 6 DoF input tracking thingamabob.
+Designed specifically for managing {common/ai-name}, it can also be used to play games on company time.' - {common/assistance-name/first} sighed happily, recollecting.
+
+'The reason it's holographic,' {common/creator-name/first} added, - 'is because {common/company-name} has been lately putting holo-tech into everything, even when there's no point.'
+
+{common/journalist-name/first} briefly looked at {common/assistance-name/first}, whose watch was now projecting a hologram which said, in large 3D letters, the words "HE'S RIGHT".
+
+When they were walking closer to the platform, the tripod cubes suddenly illuminated, casting light toward the platform, creating similarly 3D words "{common/ai-name} Management Console".
+
+'Okay, so I know all that it's going to show me, but you go on ahead,' - {common/creator-name/first} said to {common/assistance-name/first}, pointing to the words.
+
+{common/assistance-name/first} walked over to the center of the platform, spinned round on the spot, and around him, various data displays appeared.
+He examined them carefully for a couple seconds, then asked:
+(ru/ai_fixed/creator/explain-we-need-to-fix.txt)

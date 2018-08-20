@@ -1,0 +1,3 @@
+{common/creator-name/first} muttered under his breath:
+'I had hoped it wouldn't come to this...'
+(ru/reasoning/creator/had-hoped-to-not-do-this.txt)

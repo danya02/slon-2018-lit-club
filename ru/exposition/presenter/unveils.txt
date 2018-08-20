@@ -1,0 +1,2 @@
+{exposition/presenter/actions/reaches-switch-and-presses}. {exposition/ai/suddenly-blinkenlights}. {exposition/ai/noise-of-fans-starting}. {exposition/ai/beep-boops-then-name-on-screen}:
+(ru/exposition/presenter/unveils.txt)

@@ -1,0 +1,3 @@
+'{common/ai_name} to {common/leader-name/prefix} {common/leader-name/first} {common-leader-name/last}{common/leader-name/suffix}, videophone link.
+Requesting permission to convert {ai_expands/ai/area_name}.'
+(ru/ai_expands/ai/asks-can-i-consume-area-of-city.txt)

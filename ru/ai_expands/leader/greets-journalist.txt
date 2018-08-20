@@ -1,0 +1,4 @@
+The door opened, and {ai_expands/journalist/first-look-desc-embed} walked into the office.
+
+'Huh? Oh, good morning, Mr. ... {common/journalist-name/last}.'
+(ru/ai_expands/leader/greets-journalist.txt)

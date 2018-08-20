@@ -1,0 +1,2 @@
+{common/journalist-name/first}
+(ru/common/journalist-name.txt)

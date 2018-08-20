@@ -1,0 +1,52 @@
+'Oh, I'm so glad you could make it!' - said {common/creator-name/first}, when {common/journalist-name/first} stumbled out of the teleporter.
+
+'Thanks for having me on such short notice.' - he replied, looking around him.
+
+One corner was occupied with a multi-monitor computer setup.
+In another corner was a server rack, about three-quarters full.
+Yet another corner housed a large workbench, with several filing cabinets full of electronic parts standing on either side and a camera hanging from above.
+The final corner housed the teleporter that he walked out of, and a large refrigerator.
+In the middle, a large rectangle was marked with luminescent paint, and exactly nothing was inside.
+
+All of these were signs that {common/journalist-name/first} has undoubtedly arrived at {common/creator-name/first}'s home.
+
+'Ah, no worries. In fact, I'm quite glad someone finally noticed a problem.
+
+'So, where are we going then?'
+
+'Whaddayamean, "where"? Into the center of {common/city-name}, where the system is located. Surely you should know that?' - he added, looking at {common/journalist-name/first} surprisedly.
+
+'Oh, yeah. Right.'
+
+'So we just have to walk into this teleporter, and tell it we want to go there.'
+
+'Um, if we're leaving right away, why did you call me here?' - {common/journalist-name/first} wondered.
+
+'Oh, that's just so I know you're for real,' - {common/creator-name/first} explained, - 'as there were instances where some prank callers caused me problems.'
+
+'Ah, right.'
+
+'So, before going on a mission like this, I have to first check if anyone else would come too - which you are, I think - then...'
+
+He reached into the computer corner, extracting a backpack.
+
+'...take this dev machine - y'know, for dev stuff - and, finally...'
+
+From behind the server rack, he took out a packet of instant noodles, immediately opened it, split off one half and started chewing on it.
+
+'...have some food. What? They're better dry!' - he added defensively, seeing {common/journalist-name/first}'s bewildered expression. - 'Wanna try some?' - he said, offering the remaining half to him.
+
+'N-no thanks, I think I'll pass.'
+
+'Okay, but I'm telling you, you're seriously missing out.' - he said, stowing away the remaining half through a slot in the fridge, which - as {common/journalist-name/first} noted - looked like an aftermarket addition, quite possibly designed for the very purpose of accepting instant noodle leftovers.
+
+'Okay, so that's everything, and we shall now depart. After you...' - he said, pointing at the teleporter.
+
+'Oh, right. Sure...' - {common/journalist-name/first} said, walking into the machine.
+
+Closely following him was {common/creator-name/first}, and when they both were standing in the machine, he said loudly:
+
+'{common/hidden-text/departing-coords}'
+
+. . .
+(ru/reasoning/arriving-into-city.txt)

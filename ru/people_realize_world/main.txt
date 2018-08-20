@@ -1,0 +1,7 @@
+{people_realize_world/party-exit-building-see-people-confused}
+
+{people_realize_world/creator-make-public-announcement}
+
+{people_realize_world/people-doubt-but-agree}
+
+(ru/people_realize_world/main.txt)

@@ -1,0 +1,2 @@
+The holo-terminal fills with diagnostic info, and {common/ai-name}'s voice filled the environment. 'This is {common/ai-name}, version 1.01'.
+(ru/ai_fixed/ai/inits-says-version.txt)
