@@ -1,2 +1,1 @@
-Good evening, ladies and gentelemen
-(ru/exposition/presenter/phrases/global-hello.txt)
+Добрый вечер, дамы и господа

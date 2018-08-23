@@ -1,2 +1,1 @@
-I am your host for today.
-(ru/exposition/presenter/phrases/i-am-your-announcer.txt)
+Я буду сегодня вашим ведущим.

@@ -1,2 +1,2 @@
 '{common/ai-name}!'
-(ru/exposition/presenter/announce-ai-name.txt)
+

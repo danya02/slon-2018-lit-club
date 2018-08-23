@@ -11,4 +11,3 @@
 {ai_fixed/main}
 
 {ending/main}
-(ru/main.txt)

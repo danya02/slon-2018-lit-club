@@ -1,2 +1,1 @@
-A small tune plays - with what sounds like a square wave generator, and the lights blink on and off for a few seconds before spelling out the word
-(ru/exposition/ai/beep-boops-then-name-on-screen.txt)
+Прозвучала небольшая мелодия - по звуку, генератором прямоугольной волны - а лампочки, весело перемигиваясь, загорелись в форме слова

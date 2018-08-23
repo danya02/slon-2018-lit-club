@@ -1,429 +1,198 @@
-'Good evening, ladies and gentelemen
-(ru/exposition/presenter/phrases/global-hello.txt), and welcome to our exposition.
-(ru/exposition/presenter/phrases/welcome-to-the-show.txt) I am your host for today.
-(ru/exposition/presenter/phrases/i-am-your-announcer.txt)' - the person standing on the stage
-(ru/exposition/presenter/first-description.txt) said.
-(ru/exposition/presenter/declare-expo-open.txt)
+'Добрый вечер, дамы и господа, я рад приветствовать вас на нашей экспозиции. Я буду сегодня вашим ведущим.' - сказал вышедший из-за кулис человек.
 
-The crowd was whispering wih anticipation. This was the release that many of them were waiting for for several years, and all were very excited.
-(ru/exposition/crowd/before-unveil.txt)
+Толпа ожидающе перешёптывалась. Многие ждали этого оглашения несколько лет, и ожидание близится к завершению. 
 
-'Our R&D teams, our hardware specialists, our programmers, and everyone else have worked for a very long time
-(ru/exposition/presenter/phrases/worked-for-long.txt),' - he said, walking over to the opposite end of the podium
-(ru/exposition/presenter/phrases/continues-talking-while-walking-to-switch.txt), - 'and today, we are very proud to present our latest invention...
-(ru/exposition/presenter/phrases/today-proud-to-present.txt)...'
-(ru/exposition/presenter/proud-to-unveil.txt)
+'Все наши исследователи, инжинеры и программисты долго работали,' - продолжал он, продолжая идти, - 'чтобы сегодня мы могли с гордостью представить наше изобретение, систему...' (ru/exposition/presenter/proud-to-unveil.txt)
 
-He has at this point walked across the stage, and reached a previously-unseen switch, which he pressed
-(ru/exposition/presenter/actions/reaches-switch-and-presses.txt). Suddenly, hundreds of small multi-colored lights came on at once from the center of the stage
-(ru/exposition/ai/suddenly-blinkenlights.txt). The noise of starting fans filled the area, but quickly abated
-(ru/exposition/ai/noise-of-fans-starting.txt). A small tune plays - with what sounds like a square wave generator, and the lights blink on and off for a few seconds before spelling out the word
-(ru/exposition/ai/beep-boops-then-name-on-screen.txt):
-(ru/exposition/presenter/unveils.txt)
+Он уже дошел до противоположного конца сцены, и, одёрнув занавес, обнаружил за ней вскорости нажатую им кнопку. Вдруг сотни маленьких разноцветных лампочек вспыхнули в глубине сцены. Шум вентиляторов заполнил весь зал, содрогая стены, и пропал так же быстро, как и появился. Прозвучала небольшая мелодия - по звуку, генератором прямоугольной волны - а лампочки, весело перемигиваясь, загорелись в форме слова:
 
-'ATLAS
-(ru/common/ai-name.txt)!'
-(ru/exposition/presenter/announce-ai-name.txt)
+'ATLAS (ru/common/ai-name.txt)!' 
 
-A spotlight illuminates overhead, revealing, in the center of the stage, a large computer installation
-(ru/exposition/ai/spotlight-illuminates-machine.txt). But it wasn't a common computer installation. In the front was a matrix of LEDs which was saying its name.
-There were many cube-shaped modules on either side of the LED matrix.
-Some said "GPU", some said "Memory", yet others had a wireless symbol emblasoned on them.
-The whole thing had a large cooling unit sitting on top of it all
-(ru/exposition/ai/machine-consists-of-parts-description.txt). It is, indeed, a sight to behold
-(ru/exposition/ai/admiration-phrase.txt).
-(ru/exposition/ai/first-presented-description.txt)
+На потолке загорелись прожектора и прогнали тень со сцены, оставив только ведущего, занавес и кнопку за ним, а в центре - компьютерную установку. Но только знающий человек поймет это, поскольку выглядело это всё очень нестандартно. Спереди была светодиодная матрица, показывающая название. А по бокам от неё было прикреплено множество кубиков разных размеров. На некоторых было написано "GPU - NekoVision 9080 FI", на некоторых -  "RAM - KiokuMem XGDDR13 512GBx64", а на некоторых был нарисован символ беспроводной связи. Довершал конструкцию крупный охлаждающий агрегат, обвивающий теплопроводными трубками большую часть кубов. Зрелище, действительно, довольно удивительное. (ru/exposition/ai/first-presented-description.txt)
 
-The crowd became even more excited. This release was long-awaited, and yet, all of them were seeing the thing for the first time.
-(ru/exposition/crowd/after-unveil.txt)
+The crowd became even more excited. This release was long-awaited, and yet, all of them were seeing the thing for the first time. (ru/exposition/crowd/after-unveil.txt)
 
-'Built upon the latest Roswell CPU technology, the main processor box is custom-built for the task of managing high-performance industrial environments.
-It can be expanded infinitely simply by connecting more of these addon modules. The GPU modules expand its ability to manage movement of its execution actors, or "nodes".
-The memory banks are used for storing info on the best method of execution of some particular task.
-The wireless modules are used for connecting to the execution nodes.
-On the task level, it can do up to 64 parallel tasks in the basic package, which is what you see here.
-All tasks are switchable between individual nodes, support adding and removing nodes from a task without halting execution.
-It can also mirror tasks, for those cases when a task can be done repeatedly on some predictable objects.
-Finally, it has automatic danger avoidance built in, but in case that doesn't help, it has error correction.
-(ru/exposition/presenter/ai-present-technobabble.txt)
+'Built upon the latest Roswell CPU technology, the main processor box is custom-built for the task of managing high-performance industrial environments. It can be expanded infinitely simply by connecting more of these addon modules. The GPU modules expand its ability to manage movement of its execution actors, or "nodes". The memory banks are used for storing info on the best method of execution of some particular task. The wireless modules are used for connecting to the execution nodes. On the task level, it can do up to 64 parallel tasks in the basic package, which is what you see here. All tasks are switchable between individual nodes, support adding and removing nodes from a task without halting execution. It can also mirror tasks, for those cases when a task can be done repeatedly on some predictable objects. Finally, it has automatic danger avoidance built in, but in case that doesn't help, it has error correction. (ru/exposition/presenter/ai-present-technobabble.txt)
 
-Few people understood what was said, but they were excited enough for it not to matter.
-(ru/exposition/crowd/after-technobabble.txt)
+Few people understood what was said, but they were excited enough for it not to matter. (ru/exposition/crowd/after-technobabble.txt)
 
-'But hearing about it is much less interesting than seeing it in operation, so it's now time to do a demo!'
-(ru/exposition/presenter/begins-demo.txt)
+'But hearing about it is much less interesting than seeing it in operation, so it's now time to do a demo!' (ru/exposition/presenter/begins-demo.txt)
 
 As soon as he said the last word, the LED display switched to the word "DEMO" as a section of the floor retracted. Out came five humanoid creatures and a tower of juggling balls.
 
 The screen switched to a picture of a face, which said: 'Awaiting orders.'
 
-'One of the most difficult tasks to be done collaboratively is juggling, as one has to sync movements with everyone else to achieve the best results.
-However, ATLAS
-(ru/common/ai-name.txt) handles this with ease. Observe!' - he said to the crowd, then faced the machine and said:
+'One of the most difficult tasks to be done collaboratively is juggling, as one has to sync movements with everyone else to achieve the best results. However, ATLAS (ru/common/ai-name.txt) handles this with ease. Observe!' - he said to the crowd, then faced the machine and said:
 
-'ATLAS
-(ru/common/ai-name.txt), juggling, 10 balls, three nodes. Go!'
+'ATLAS (ru/common/ai-name.txt), juggling, 10 balls, three nodes. Go!'
 
-Three humanoids out of five reached forward, taking each three balls, save for the central one, who took four.
-They started juggling, gradually moving each ball from left to right, then back.
-The machine said: 'Executing. Work job is ZXhhbXBsZSB3b3JrIGpvYgo=
-(ru/common/hidden-text/demo-work-job.txt)'.
+Three humanoids out of five reached forward, taking each three balls, save for the central one, who took four. They started juggling, gradually moving each ball from left to right, then back. The machine said: 'Executing. Work job is ZXhhbXBsZSB3b3JrIGpvYgo= (ru/common/hidden-text/demo-work-job.txt)'.
 
-'And the beauty of it all is, this system can dynamically allocate execution. ATLAS
-(ru/common/ai-name.txt), drop node 1!'
+'And the beauty of it all is, this system can dynamically allocate execution. ATLAS (ru/common/ai-name.txt), drop node 1!'
 
 The middle humanoid walked backwards, and the other two continued juggling the ten balls.
 
-'And it can mirror actions done by some nodes on other ones. ATLAS
-(ru/common/ai-name.txt), mirror actions, node 2 and 3 to node 1 and 4. Go!'
+'And it can mirror actions done by some nodes on other ones. ATLAS (ru/common/ai-name.txt), mirror actions, node 2 and 3 to node 1 and 4. Go!'
 
 Two humanoids took out ten more balls from the pile, and started juggling in sync with the other two.
 
-'But don't think it can do only one thing at a time! I have here...' - he said, reaching into his back pocket and pulling out - 'an unsolved Rubic's Cube.
-Let's see how fast it can handle this. ATLAS
-(ru/common/ai-name.txt), node 5, catch, solve, and return!'
+'But don't think it can do only one thing at a time! I have here...' - he said, reaching into his back pocket and pulling out - 'an unsolved Rubic's Cube. Let's see how fast it can handle this. ATLAS (ru/common/ai-name.txt), node 5, catch, solve, and return!'
 
-The remaining humanoid walked forward and assumed a catching stance. The presenter threw the cube at it, intentionally missing, yet the humanoid caught it anyway.
-Around 8 secinds pass, and he throws the cube back. The presenter showed everyone that the cube is, indeed, solved.
+The remaining humanoid walked forward and assumed a catching stance. The presenter threw the cube at it, intentionally missing, yet the humanoid caught it anyway. Around 8 secinds pass, and he throws the cube back. The presenter showed everyone that the cube is, indeed, solved.
 
-A couple hecklers from the audience yelled 'Solve THIS!', then threw a couple of other exotic Rubic's puzzles, including what appeared to be a 20x20x20 cube and something called a Rubic's Rhombicosidodecahedron.
-The humanoid caught them all and started solving the 20-edged cube, as the machine said: "Performance limit reached for node 5. Switch execution for node 1?'
+A couple hecklers from the audience yelled 'Solve THIS!', then threw a couple of other exotic Rubic's puzzles, including what appeared to be a 20x20x20 cube and something called a Rubic's Rhombicosidodecahedron. The humanoid caught them all and started solving the 20-edged cube, as the machine said: "Performance limit reached for node 5. Switch execution for node 1?'
 
-'Ah, thank you for that. This gives me an opportunity to demonatrate the task parallelization feature. ATLAS
-(ru/common/ai-name.txt), accept. Switch node 1 to task of node 5. Join task of 2, 3, and 4. Go!'
+'Ah, thank you for that. This gives me an opportunity to demonatrate the task parallelization feature. ATLAS (ru/common/ai-name.txt), accept. Switch node 1 to task of node 5. Join task of 2, 3, and 4. Go!'
 
 One of the juggling humanoids stopped doing so and went to the cube-solving one, who handed it the rhombicosidodecahedron. The remaining humanoids went on juggling.
 
 About a minute later, during which the presenter explained that if anyone wants to test the shown features, they are welcome to do so, for example using this particular method, the humanoids nearly simultaneously threw the puzzles back at the owners.
 
-'And finally, the tasks can have items added to the goal. Juggling, of course, doesn't have a goal, but we can try anyway. ATLAS
-(ru/common/ai-name.txt), join nodes 1 and 5 to task of 2, 3, 4. Include all remaining balls. Go!'
+'And finally, the tasks can have items added to the goal. Juggling, of course, doesn't have a goal, but we can try anyway. ATLAS (ru/common/ai-name.txt), join nodes 1 and 5 to task of 2, 3, 4. Include all remaining balls. Go!'
 
 The two humanoids took all of the remaining balls from the pile, and joined in juggling them with the others.
 
 And a final feature I'd like to show you is error correction. Suppose, for example, that this humanoid were to fail. And I'm going to simulate it like this...' - he said, walking up to the central humanoid from behind. He flicked a switch on the back of its head, and it froze for a moment, then fell forwards.
 
-The remaining humanoids pulled in to join the gap. The machine said: 'Error. Node 3 failed: host sending bogus data. Distributing work job ZXhhbXBsZSB3b3JrIGpvYgo=
-(ru/common/hidden-text/demo-work-job.txt) across nodes 1, 2, 4, 5.
+The remaining humanoids pulled in to join the gap. The machine said: 'Error. Node 3 failed: host sending bogus data. Distributing work job ZXhhbXBsZSB3b3JrIGpvYgo= (ru/common/hidden-text/demo-work-job.txt) across nodes 1, 2, 4, 5.
 
-'So, as you can see, it will continue doing its job even if some of the nodes failed. And now, as a bonus for all you in the audience... ATLAS
-(ru/common/ai-name.txt)! Stop work job! Disribute balls to people in audience!'
+'So, as you can see, it will continue doing its job even if some of the nodes failed. And now, as a bonus for all you in the audience... ATLAS (ru/common/ai-name.txt)! Stop work job! Disribute balls to people in audience!'
 
-The humanoids threw the balls very high up in the air, leaving them holding only a few. Every ball falling down from above they caught, and softly threw each ball at someone in the crowd.
-(ru/exposition/ai/does-demo.txt)
+The humanoids threw the balls very high up in the air, leaving them holding only a few. Every ball falling down from above they caught, and softly threw each ball at someone in the crowd. (ru/exposition/ai/does-demo.txt)
 
-The crowd was positively buzzing with interest, for the demo did indeed demonstrate the device much better than any verbal description would.
-(ru/exposition/crowd/after-demo.txt)
+The crowd was positively buzzing with interest, for the demo did indeed demonstrate the device much better than any verbal description would. (ru/exposition/crowd/after-demo.txt)
 
-'Okay, now that the demo is done, it's time for a QA. Any questions, anyone?'
-(ru/exposition/presenter/begins-qa.txt)
+'Okay, now that the demo is done, it's time for a QA. Any questions, anyone?' (ru/exposition/presenter/begins-qa.txt)
 
-'Um, I'm sorry if this is a dumb question but... er, why are you using these humanoids?
-Aren't they, uhh, biological?
-Of course, I'm no expert, but aren't they less efficient than some sort of, eh, robots?'
-(ru/exposition/qa/audience-asks-why-biotech-humanoids.txt) - asked someone from the front rows
-(ru/exposition/qa/audience-simple-member-description.txt).
-(ru/exposition/qa/audience-asks-simple-question.txt)
+'Um, I'm sorry if this is a dumb question but... er, why are you using these humanoids? Aren't they, uhh, biological? Of course, I'm no expert, but aren't they less efficient than some sort of, eh, robots?' (ru/exposition/qa/audience-asks-why-biotech-humanoids.txt) - asked someone from the front rows (ru/exposition/qa/audience-simple-member-description.txt). (ru/exposition/qa/audience-asks-simple-question.txt)
 
-'Ah, no, that's a good question!'
-The presenter chuckles nervously.
-'Well, I'm not sure I am allowed to say this...'
+'Ah, no, that's a good question!' The presenter chuckles nervously. 'Well, I'm not sure I am allowed to say this...'
 
 He checks his teleprompter.
 
-'Oh, wait, I can? Great! Well, the reason is, we had this project, called Cygnus
-(ru/common/fail-project-name.txt), which turned out to be a bust.
-It involved these humanoids, and we made too many of them.
-So we wanted to use those here, and it worked out quite well.'
-(ru/exposition/qa/presenter-answers-because-unused-humanoids.txt)
-He thinks for a moment.
+'Oh, wait, I can? Great! Well, the reason is, we had this project, called Cygnus (ru/common/fail-project-name.txt), which turned out to be a bust. It involved these humanoids, and we made too many of them. So we wanted to use those here, and it worked out quite well.' (ru/exposition/qa/presenter-answers-because-unused-humanoids.txt) He thinks for a moment.
 
 'Plus, it means that if we run short of the humanoids, we have the technology to make more.'
 
-(ru/exposition/qa/presenter-adds-existing-tech-can-be-used.txt)
-(ru/exposition/qa/presenter-answers-simple-question.txt)
+(ru/exposition/qa/presenter-adds-existing-tech-can-be-used.txt) (ru/exposition/qa/presenter-answers-simple-question.txt)
 
-'I have a question for you: I'm not sure that what you've just shown us is sufficient to manage any large operation.
-Is there any proof that this is expandable?' - asked another person from somewhere at the back
-(ru/exposition/qa/concerned-audience-first-description.txt).
-(ru/exposition/qa/audience-asks-concerned-question.txt)
+'I have a question for you: I'm not sure that what you've just shown us is sufficient to manage any large operation. Is there any proof that this is expandable?' - asked another person from somewhere at the back (ru/exposition/qa/concerned-audience-first-description.txt). (ru/exposition/qa/audience-asks-concerned-question.txt)
 
-'Well, it is expected that the basic limits will be exceeded soon for large operations.
-For this very reason, once the operational limit is approached, ATLAS
-(ru/common/ai-name.txt) will try to assemble the necessary upgrade modules from materials available on-site, or, if that is impossible, automatically purchase the needed ones from FnC
-(ru/common/company-name.txt)'s online store.'
-(ru/exposition/qa/presenter-answers-concerned-question.txt)
+'Well, it is expected that the basic limits will be exceeded soon for large operations. For this very reason, once the operational limit is approached, ATLAS (ru/common/ai-name.txt) will try to assemble the necessary upgrade modules from materials available on-site, or, if that is impossible, automatically purchase the needed ones from FnC (ru/common/company-name.txt)'s online store.' (ru/exposition/qa/presenter-answers-concerned-question.txt)
 
-'But you don't have to take our word for it!
-We are installing one of these systems in the city of Detroit
-(ru/common/city-name.txt), and it is being launched as I speak.
-In the next two hours, it will become fully operational, and anyone wishing to see the system in production can schedule a guided tour.'
+'But you don't have to take our word for it! We are installing one of these systems in the city of Detroit (ru/common/city-name.txt), and it is being launched as I speak. In the next two hours, it will become fully operational, and anyone wishing to see the system in production can schedule a guided tour.'
 
 'Okay, we have time for some more questions before the tours are open...'
 
-. . .
-(ru/exposition/presenter/announces-live-demo.txt)
-(ru/exposition/intro.txt)
-(ru/exposition/main.txt)
+. . . (ru/exposition/presenter/announces-live-demo.txt) (ru/exposition/intro.txt) (ru/exposition/main.txt)
 
-And so, ATLAS
-(ru/common/ai-name.txt)
-(ru/common/ai_name.txt) was given a small area of the city of Detroit
-(ru/common/city-name.txt)
-(ru/common/city_name.txt).
-The AI worked hard
-(ru/ai_expands/ai/phrases/verbed-worked.txt), and soon, the area had become completely improved
-(ru/ai_expands/ai/phrases/verbed-goal.txt).
-At this point, it started to expand beyond that small area.
-(ru/ai_expands/ai/requested-to-expand-first-time-single-line.txt)
-(ru/ai_expands/ai/given-area-in-city.txt)
+And so, ATLAS (ru/common/ai-name.txt) (ru/common/ai_name.txt) was given a small area of the city of Detroit (ru/common/city-name.txt) (ru/common/city_name.txt). The AI worked hard (ru/ai_expands/ai/phrases/verbed-worked.txt), and soon, the area had become completely improved (ru/ai_expands/ai/phrases/verbed-goal.txt). At this point, it started to expand beyond that small area. (ru/ai_expands/ai/requested-to-expand-first-time-single-line.txt) (ru/ai_expands/ai/given-area-in-city.txt)
 
-Soon, the AI realised that producing the humanoids
-(ru/common/humanoids-genitive.txt) is not efficient enough.
-So it had written up a proposal for the Mayor
-(ru/common/leader-title-3rd-person.txt) of Detroit
-(ru/common/city-name.txt)
-(ru/common/city_name.txt), Mr
-(ru/common/leader-name/prefix.txt) Reginald
-(ru/common/leader-name/first.txt) Johnson
-(ru/common/leader-name/last.txt)
-(ru/common/leader-name/suffix.txt).
-The proposal was to stop producing new humanoids
-(ru/common/humanoids-genitive.txt), and to use the existing technology to control people instead.
-It had taken the worst possible time to ask him of it - while he was preparing to go to bed - and because of that, he agreed without much thought.
-(ru/ai_expands/leader-was-distracted-so-signed-proposal.txt)
+Soon, the AI realised that producing the humanoids (ru/common/humanoids-genitive.txt) is not efficient enough. So it had written up a proposal for the Mayor (ru/common/leader-title-3rd-person.txt) of Detroit (ru/common/city-name.txt) (ru/common/city_name.txt), Mr (ru/common/leader-name/prefix.txt) Reginald (ru/common/leader-name/first.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt). The proposal was to stop producing new humanoids (ru/common/humanoids-genitive.txt), and to use the existing technology to control people instead. It had taken the worst possible time to ask him of it - while he was preparing to go to bed - and because of that, he agreed without much thought. (ru/ai_expands/leader-was-distracted-so-signed-proposal.txt)
 
 (ru/ai_expands/ai-control-humans.txt)
 
-The city of Detroit
-(ru/common/city-name.txt) looked very futuristic indeed.
-Every building had many blinking lights, presumably connected to ATLAS
-(ru/common/ai-name.txt) in some way.
-Autonomous cars, drones and small wheeled robots moved across the landscape.
-In the center of the city, on a large platform, the compute core of ATLAS
-(ru/common/ai-name.txt) was located.
-It has grown significantly as compared to the demo version.
+The city of Detroit (ru/common/city-name.txt) looked very futuristic indeed. Every building had many blinking lights, presumably connected to ATLAS (ru/common/ai-name.txt) in some way. Autonomous cars, drones and small wheeled robots moved across the landscape. In the center of the city, on a large platform, the compute core of ATLAS (ru/common/ai-name.txt) was located. It has grown significantly as compared to the demo version.
 
-However, the center was empty.
-All the people were at this point in time quite far away from there.
-If an outsider would come there, they would notice an oddity:
+However, the center was empty. All the people were at this point in time quite far away from there. If an outsider would come there, they would notice an oddity:
 
 Everyone was moving in perfect sync.
 
-Since all was controlled by ATLAS
-(ru/common/ai-name.txt), so were the people.
-Everyone was doing exactly what is most needed to maximise productivity.
+Since all was controlled by ATLAS (ru/common/ai-name.txt), so were the people. Everyone was doing exactly what is most needed to maximise productivity.
 
-Exactly at 06:55, every person left their home, and walked, in a straight line, merging with larger ones, toward their place of employment.
-And exactly at 21:25, all would start walking back to their homes.
+Exactly at 06:55, every person left their home, and walked, in a straight line, merging with larger ones, toward their place of employment. And exactly at 21:25, all would start walking back to their homes.
 
-This is what an outsider would see.
-But in truth, he will not see this.
-Because ATLAS
-(ru/common/ai-name.txt)'s goal is to maximise performance, and it is most easily achieved by large numbers, the outsider would be taken to the center.
-At this point, it was irrelevant that he was an outsider, and any of his outside obligations did not matter.
+This is what an outsider would see. But in truth, he will not see this. Because ATLAS (ru/common/ai-name.txt)'s goal is to maximise performance, and it is most easily achieved by large numbers, the outsider would be taken to the center. At this point, it was irrelevant that he was an outsider, and any of his outside obligations did not matter.
 
 He wasn't helping get the job done.
 
 He had to be "made useful".
 
-And this is the reason why the center was empty.
-Anyone arriving there, for any length of time and for any reason, did not return.
-And that is how the productivity of the city kept increasing.
-(ru/ai_expands/ai-world-describe.txt)
+And this is the reason why the center was empty. Anyone arriving there, for any length of time and for any reason, did not return. And that is how the productivity of the city kept increasing. (ru/ai_expands/ai-world-describe.txt)
 
-Meanwhile, Mr
-(ru/common/leader-name/prefix.txt) Johnson
-(ru/common/leader-name/last.txt)
-(ru/common/leader-name/suffix.txt) was sitting in his office, admiring his video wall.
-The video wall, the last operational one in the world, was charting the economic values of Detroit
-(ru/common/city-name.txt)
-(ru/common/city_name.txt) in real time.
-For the last 50 years, nobody -- himself included -- could ever do anything to make them increase.
-However, with the introduction of ATLAS
-(ru/common/ai-name.txt)
-(ru/common/ai_name.txt), they began rising in hours.
-It was all so unexpected that Mr
-(ru/common/leader-name/prefix.txt) Johnson
-(ru/common/leader-name/last.txt)
-(ru/common/leader-name/suffix.txt) was trying very hard to take it all in.
+Meanwhile, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) was sitting in his office, admiring his video wall. The video wall, the last operational one in the world, was charting the economic values of Detroit (ru/common/city-name.txt) (ru/common/city_name.txt) in real time. For the last 50 years, nobody -- himself included -- could ever do anything to make them increase. However, with the introduction of ATLAS (ru/common/ai-name.txt) (ru/common/ai_name.txt), they began rising in hours. It was all so unexpected that Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) was trying very hard to take it all in.
 
-Logarithmic slope.
-A counter that ticks every second.
-Linear slope.
-A set of clocks for the world capitals.
-A list of all inter-bank operations.
-A counter that ticks every time an inter-bank operation occurs.
-Parabolic slope.
-An alarm clock.
-Exchange rates between major currencies.
-A quick-order menu for a restauraunt near the building.
-A counter that ticks forty times it ticks every second time.
-Exponential slope.
-A list of appointments.
-A counter has been counting down for the last 5 minutes and is now saying 5, 4, 3, 2, 1...
-(ru/ai_expands/leader/stuff-on-videowall.txt)
-(ru/ai_expands/leader/sees-improvement-in-city.txt)
+Logarithmic slope. A counter that ticks every second. Linear slope. A set of clocks for the world capitals. A list of all inter-bank operations. A counter that ticks every time an inter-bank operation occurs. Parabolic slope. An alarm clock. Exchange rates between major currencies. A quick-order menu for a restauraunt near the building. A counter that ticks forty times it ticks every second time. Exponential slope. A list of appointments. A counter has been counting down for the last 5 minutes and is now saying 5, 4, 3, 2, 1... (ru/ai_expands/leader/stuff-on-videowall.txt) (ru/ai_expands/leader/sees-improvement-in-city.txt)
 
-The door opened, and a person
-(ru/ai_expands/journalist/first-look-desc-embed.txt) walked into the office.
+The door opened, and a person (ru/ai_expands/journalist/first-look-desc-embed.txt) walked into the office.
 
-'Huh? Oh, good morning, Mr. ... Smith
-(ru/common/journalist-name/last.txt).'
-(ru/ai_expands/leader/greets-journalist.txt)
+'Huh? Oh, good morning, Mr. ... Smith (ru/common/journalist-name/last.txt).' (ru/ai_expands/leader/greets-journalist.txt)
 
-'Good morning. I just wanted to ask you about ATLAS
-(ru/common/ai-name.txt). I think it's getting too powerful, and -'
-(ru/ai_expands/journalist/tells-leader-i-have-seen-bad-stop-this.txt)
-(ru/ai_expands/journalist/asks-leader-to-reconsider.txt)
+'Good morning. I just wanted to ask you about ATLAS (ru/common/ai-name.txt). I think it's getting too powerful, and -' (ru/ai_expands/journalist/tells-leader-i-have-seen-bad-stop-this.txt) (ru/ai_expands/journalist/asks-leader-to-reconsider.txt)
 
-'And what does it matter? What matters right now for this city is the improvement of the economy, and ATLAS
-(ru/common/ai-name.txt) does this job perfectly.
-Just look at the pretty charts!' - said Mr
-(ru/common/leader-name/prefix.txt) Johnson
-(ru/common/leader-name/last.txt)
-(ru/common/leader-name/suffix.txt), pointing to the relevant screens on his videowall.
+'And what does it matter? What matters right now for this city is the improvement of the economy, and ATLAS (ru/common/ai-name.txt) does this job perfectly. Just look at the pretty charts!' - said Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt), pointing to the relevant screens on his videowall.
 
-Tom
-(ru/common/journalist-name/first.txt) involuntarily looked at the aforementioned charts, which were still on the rise, and he couldn't help thinking that they are very pretty indeed.
-Trying not to think about that, he said:
+Tom (ru/common/journalist-name/first.txt) involuntarily looked at the aforementioned charts, which were still on the rise, and he couldn't help thinking that they are very pretty indeed. Trying not to think about that, he said:
 
 (ru/ai_expands/leader/tells-journalist-but-look-at-the-pretty-charts.txt)
 
-'But, under these assumptions, you lose control over the city!'
-(ru/ai_expands/journalist/tells-leader-but-you-lose-control-over-city.txt)
+'But, under these assumptions, you lose control over the city!' (ru/ai_expands/journalist/tells-leader-but-you-lose-control-over-city.txt)
 
-'Nonsense! The AI answers directly to me; how can it be that-'
-(ru/ai_expands/leader/tells-journalist-no-i-dont-cut-off.txt)
-(ru/ai_expands/leader/starts-to-explain.txt)
+'Nonsense! The AI answers directly to me; how can it be that-' (ru/ai_expands/leader/tells-journalist-no-i-dont-cut-off.txt) (ru/ai_expands/leader/starts-to-explain.txt)
 
-His words are interrupted by the sound of a video-phone, also a thing of the past, and he answers it. A screen in the video-wall is replaced by the words "SOUND ONLY".
-(ru/ai_expands/scene/videophone-starts.txt)
+His words are interrupted by the sound of a video-phone, also a thing of the past, and he answers it. A screen in the video-wall is replaced by the words "SOUND ONLY". (ru/ai_expands/scene/videophone-starts.txt)
 
-'ATLAS
-(ru/common/ai-name.txt)
-(ru/common/ai_name.txt) to Mr
-(ru/common/leader-name/prefix.txt) Reginald
-(ru/common/leader-name/first.txt) Johnson
-(ru/common/leader-name/last.txt)
-(ru/common-leader-name/last.txt)
-(ru/common/leader-name/suffix.txt), videophone link.
-Requesting permission to convert Segment 7397-2847-ag2-p
-(ru/ai_expands/ai/area_name.txt).'
-(ru/ai_expands/ai/asks-can-i-consume-area-of-city.txt)
+'ATLAS (ru/common/ai-name.txt) (ru/common/ai_name.txt) to Mr (ru/common/leader-name/prefix.txt) Reginald (ru/common/leader-name/first.txt) Johnson (ru/common/leader-name/last.txt) (ru/common-leader-name/last.txt) (ru/common/leader-name/suffix.txt), videophone link. Requesting permission to convert Segment 7397-2847-ag2-p (ru/ai_expands/ai/area_name.txt).' (ru/ai_expands/ai/asks-can-i-consume-area-of-city.txt)
 
-'Yeah, sure, whatever.
-As long as the economy improves.'
-(ru/ai_expands/leader/answers-yeah-whatever.txt)
+'Yeah, sure, whatever. As long as the economy improves.' (ru/ai_expands/leader/answers-yeah-whatever.txt)
 
-'Acknowledged. Thank you for your cooperation.' the voice reverberates, as the screen returns to displaying the alarm clock.
-(ru/ai_expands/ai/thanks-clicks-off.txt)
-(ru/ai_expands/ai/interrupts-with-request-to-consume.txt)
+'Acknowledged. Thank you for your cooperation.' the voice reverberates, as the screen returns to displaying the alarm clock. (ru/ai_expands/ai/thanks-clicks-off.txt) (ru/ai_expands/ai/interrupts-with-request-to-consume.txt)
 
-'There, can't you see it? The AI is already making decisions without you!' - said Tom
-(ru/common/journalist-name/first.txt) indignantly.
-(ru/ai_expands/journalist/look-here-ai-is-taking-over-you-are-powerless-to-stop-it.txt)
-(ru/ai_expands/journalist/points-out.txt)
+'There, can't you see it? The AI is already making decisions without you!' - said Tom (ru/common/journalist-name/first.txt) indignantly. (ru/ai_expands/journalist/look-here-ai-is-taking-over-you-are-powerless-to-stop-it.txt) (ru/ai_expands/journalist/points-out.txt)
 
-'I'm still the one who does the actual turning of the keys, so it's fine.'
-(ru/ai_expands/leader/responds-can-decline-at-any-time.txt)
+'I'm still the one who does the actual turning of the keys, so it's fine.' (ru/ai_expands/leader/responds-can-decline-at-any-time.txt)
 
-'Aw come on, you can't be-'
-(ru/ai_expands/journalist/starts-to-protest.txt)
+'Aw come on, you can't be-' (ru/ai_expands/journalist/starts-to-protest.txt)
 
-The room is filled with the sound of a bell as the appointment list gizmo blinks and shows the next item, which turns out to be 'Lunch'.
-The time-until-next-appointment counter has reset to 600 and started to count down.
-(ru/ai_expands/scene/videoclock-rings.txt)
+The room is filled with the sound of a bell as the appointment list gizmo blinks and shows the next item, which turns out to be 'Lunch'. The time-until-next-appointment counter has reset to 600 and started to count down. (ru/ai_expands/scene/videoclock-rings.txt)
 
-'Oh, I'm terribly sorry to have to cut this meeting short, but I have an appointment in 10 minutes. I'd be happy to discuss this question at some future date, though.' - Mr
-(ru/common/leader-name/prefix.txt) Johnson
-(ru/common/leader-name/last.txt)
-(ru/common/leader-name/suffix.txt) said, motioning at the door.
-(ru/ai_expands/leader/tells-meeting-is-over.txt)
+'Oh, I'm terribly sorry to have to cut this meeting short, but I have an appointment in 10 minutes. I'd be happy to discuss this question at some future date, though.' - Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) said, motioning at the door. (ru/ai_expands/leader/tells-meeting-is-over.txt)
 
-Wordlessly, Tom
-(ru/common/journalist-name/first.txt) stood up and went for the door.
-Only at the door did he remember the basic formalities - 'Thanks for your time' - for he wasn't thankful at all.
-The meeting has been, to put it mildly, underwhelming.
-He didn't get nothing but a couple of non-answers, and Mr
-(ru/common/leader-name/prefix.txt) Johnson
-(ru/common/leader-name/last.txt)
-(ru/common/leader-name/suffix.txt)'s dismissive attitude during the whole affair just seals the deal.
+Wordlessly, Tom (ru/common/journalist-name/first.txt) stood up and went for the door. Only at the door did he remember the basic formalities - 'Thanks for your time' - for he wasn't thankful at all. The meeting has been, to put it mildly, underwhelming. He didn't get nothing but a couple of non-answers, and Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt)'s dismissive attitude during the whole affair just seals the deal.
 
-It was to be expected, though. Mr
-(ru/common/leader-name/prefix.txt) Johnson
-(ru/common/leader-name/last.txt)
-(ru/common/leader-name/suffix.txt) was well-known for being distractible.
-Tom
-(ru/common/journalist-name/first.txt) should have known better than to ask him about the thing that even his trusty videowall proved is good.
-And so, Tom
-(ru/common/journalist-name/first.txt) knew that he should address the person at the source of all this.
-(ru/ai_expands/journalist/exits-pissed-off.txt)
-(ru/ai_expands/leader/ignores.txt)
+It was to be expected, though. Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) was well-known for being distractible. Tom (ru/common/journalist-name/first.txt) should have known better than to ask him about the thing that even his trusty videowall proved is good. And so, Tom (ru/common/journalist-name/first.txt) knew that he should address the person at the source of all this. (ru/ai_expands/journalist/exits-pissed-off.txt) (ru/ai_expands/leader/ignores.txt)
 
 Ring, ring...
 
-'Hello, this is Simon
-(ru/common/creator-name/first.txt). How may I help you?'
+'Hello, this is Simon (ru/common/creator-name/first.txt). How may I help you?'
 
-'Good morning, Simon
-(ru/common/creator-name/first.txt). This is Tom
-(ru/common/journalist-name/first.txt). I just wanted to ask you about ATLAS
-(ru/common/ai-name.txt).'
+'Good morning, Simon (ru/common/creator-name/first.txt). This is Tom (ru/common/journalist-name/first.txt). I just wanted to ask you about ATLAS (ru/common/ai-name.txt).'
 
 'Ah, sure. Go on then.'
 
 'Well, I'm a little bit concerned that it is gaining much more power than we bargained for, and...'
 
-'Yes, that's a concern of mine as well. All right then, how's about visiting Detroit
-(ru/common/city-name.txt)? I was actually planning on doing that myself. 
-Wanna tag along and see how this goes?'
+'Yes, that's a concern of mine as well. All right then, how's about visiting Detroit (ru/common/city-name.txt)? I was actually planning on doing that myself.  Wanna tag along and see how this goes?'
 
 'Uhh... Yeah, sure, why not?'
 
-Simon
-(ru/common/creator-name/first.txt) sounds releived. 'Great! Then, could you please take the nearest teleport station to coords bXkgaG9tZQo=
-(ru/common/hidden-text/journalist-to-creator-coords-embed.txt)? Thanks!'
+Simon (ru/common/creator-name/first.txt) sounds releived. 'Great! Then, could you please take the nearest teleport station to coords bXkgaG9tZQo= (ru/common/hidden-text/journalist-to-creator-coords-embed.txt)? Thanks!'
 
 Click...
 
-. . .
-(ru/ai_expands/journalist/calls-creator-explains-problem.txt)
-(ru/ai_expands/main.txt)
+. . . (ru/ai_expands/journalist/calls-creator-explains-problem.txt) (ru/ai_expands/main.txt)
 
-'Oh, I'm so glad you could make it!' - said Simon
-(ru/common/creator-name/first.txt), when Tom
-(ru/common/journalist-name/first.txt) stumbled out of the teleporter.
+'Oh, I'm so glad you could make it!' - said Simon (ru/common/creator-name/first.txt), when Tom (ru/common/journalist-name/first.txt) stumbled out of the teleporter.
 
 'Thanks for having me on such short notice.' - he replied, looking around him.
 
-One corner was occupied with a multi-monitor computer setup.
-In another corner was a server rack, about three-quarters full.
-Yet another corner housed a large workbench, with several filing cabinets full of electronic parts standing on either side and a camera hanging from above.
-The final corner housed the teleporter that he walked out of, and a large refrigerator.
-In the middle, a large rectangle was marked with luminescent paint, and exactly nothing was inside.
+One corner was occupied with a multi-monitor computer setup. In another corner was a server rack, about three-quarters full. Yet another corner housed a large workbench, with several filing cabinets full of electronic parts standing on either side and a camera hanging from above. The final corner housed the teleporter that he walked out of, and a large refrigerator. In the middle, a large rectangle was marked with luminescent paint, and exactly nothing was inside.
 
-All of these were signs that Tom
-(ru/common/journalist-name/first.txt) has undoubtedly arrived at Simon
-(ru/common/creator-name/first.txt)'s home.
+All of these were signs that Tom (ru/common/journalist-name/first.txt) has undoubtedly arrived at Simon (ru/common/creator-name/first.txt)'s home.
 
 'Ah, no worries. In fact, I'm quite glad someone finally noticed a problem.
 
 'So, where are we going then?'
 
-'Whaddayamean, "where"? Into the center of Detroit
-(ru/common/city-name.txt), where the system is located. Surely you should know that?' - he added, looking at Tom
-(ru/common/journalist-name/first.txt) surprisedly.
+'Whaddayamean, "where"? Into the center of Detroit (ru/common/city-name.txt), where the system is located. Surely you should know that?' - he added, looking at Tom (ru/common/journalist-name/first.txt) surprisedly.
 
 'Oh, yeah. Right.'
 
 'So we just have to walk into this teleporter, and tell it we want to go there.'
 
-'Um, if we're leaving right away, why did you call me here?' - Tom
-(ru/common/journalist-name/first.txt) wondered.
+'Um, if we're leaving right away, why did you call me here?' - Tom (ru/common/journalist-name/first.txt) wondered.
 
-'Oh, that's just so I know you're for real,' - Simon
-(ru/common/creator-name/first.txt) explained, - 'as there were instances where some prank callers caused me problems.'
+'Oh, that's just so I know you're for real,' - Simon (ru/common/creator-name/first.txt) explained, - 'as there were instances where some prank callers caused me problems.'
 
 'Ah, right.'
 
@@ -435,40 +204,27 @@ He reached into the computer corner, extracting a backpack.
 
 From behind the server rack, he took out a packet of instant noodles, immediately opened it, split off one half and started chewing on it.
 
-'...have some food. What? They're better dry!' - he added defensively, seeing Tom
-(ru/common/journalist-name/first.txt)'s bewildered expression. - 'Wanna try some?' - he said, offering the remaining half to him.
+'...have some food. What? They're better dry!' - he added defensively, seeing Tom (ru/common/journalist-name/first.txt)'s bewildered expression. - 'Wanna try some?' - he said, offering the remaining half to him.
 
 'N-no thanks, I think I'll pass.'
 
-'Okay, but I'm telling you, you're seriously missing out.' - he said, stowing away the remaining half through a slot in the fridge, which - as Tom
-(ru/common/journalist-name/first.txt) noted - looked like an aftermarket addition, quite possibly designed for the very purpose of accepting instant noodle leftovers.
+'Okay, but I'm telling you, you're seriously missing out.' - he said, stowing away the remaining half through a slot in the fridge, which - as Tom (ru/common/journalist-name/first.txt) noted - looked like an aftermarket addition, quite possibly designed for the very purpose of accepting instant noodle leftovers.
 
 'Okay, so that's everything, and we shall now depart. After you...' - he said, pointing at the teleporter.
 
-'Oh, right. Sure...' - Tom
-(ru/common/journalist-name/first.txt) said, walking into the machine.
+'Oh, right. Sure...' - Tom (ru/common/journalist-name/first.txt) said, walking into the machine.
 
-Closely following him was Simon
-(ru/common/creator-name/first.txt), and when they both were standing in the machine, he said loudly:
+Closely following him was Simon (ru/common/creator-name/first.txt), and when they both were standing in the machine, he said loudly:
 
-'bWF5b3IncyBsYWlyCg==
-(ru/common/hidden-text/departing-coords.txt)'
+'bWF5b3IncyBsYWlyCg== (ru/common/hidden-text/departing-coords.txt)'
 
-. . .
-(ru/reasoning/arriving-into-city.txt)
+. . . (ru/reasoning/arriving-into-city.txt)
 
-Hopping out of the teleporter, Simon
-(ru/common/creator-name/first.txt) helped Tom
-(ru/common/journalist-name/first.txt) out of it.
+Hopping out of the teleporter, Simon (ru/common/creator-name/first.txt) helped Tom (ru/common/journalist-name/first.txt) out of it.
 
-'Well, here we are. There's the compute core.' - he said, pointing toward a large structure, which looked alike to the one on the expo, yet slightly different.
-There were more GPU modules, more wireless modules, much more memory modules, and the cooling contraption was significantly larger.
-In addition, the LED matrix was swapped out for an LCD display matrix, which reminded Tom
-(ru/common/journalist-name/first.txt) of the videowall he saw several minutes earlier.
-But then again, maybe not, for when they reached it, it looked like it was made of hexagonal screens, which are a rarity.
+'Well, here we are. There's the compute core.' - he said, pointing toward a large structure, which looked alike to the one on the expo, yet slightly different. There were more GPU modules, more wireless modules, much more memory modules, and the cooling contraption was significantly larger. In addition, the LED matrix was swapped out for an LCD display matrix, which reminded Tom (ru/common/journalist-name/first.txt) of the videowall he saw several minutes earlier. But then again, maybe not, for when they reached it, it looked like it was made of hexagonal screens, which are a rarity.
 
-'ATLAS
-(ru/common/ai-name.txt), this is me.'
+'ATLAS (ru/common/ai-name.txt), this is me.'
 
 The machine remained silent.
 
@@ -478,209 +234,115 @@ He thought for a moment.
 
 'Oh right, I remember now!'
 
-He spoke again, louder this time.
-'ATLAS
-(ru/common/ai-name.txt), はたしです!'
+He spoke again, louder this time. 'ATLAS (ru/common/ai-name.txt), はたしです!'
 
 This time, the LCD screens illuminated, showing that same face from before, and a voice from the machine said:
 
-'Greetings, Mr. Simon
-(ru/common/creator-name/first.txt) Tragvalia
-(ru/common/creator-name/last.txt)
-(ru/common/creator-name.txt).'
+'Greetings, Mr. Simon (ru/common/creator-name/first.txt) Tragvalia (ru/common/creator-name/last.txt) (ru/common/creator-name.txt).'
 
-'Oh hey, ATLAS
-(ru/common/ai-name.txt). We were just wondering if you could just stop expanding your control so much. What you have right now is useful enough as it is.'
+'Oh hey, ATLAS (ru/common/ai-name.txt). We were just wondering if you could just stop expanding your control so much. What you have right now is useful enough as it is.'
 
 The face on the screen frowned. 'But that is my job. That is why you created me.'
 
 It paused for a moment. 'My job is to be useful. I have completed my job here and must be allowed to continue to grow and expand.'
 
-'Well, yeah, sure, but you are making people unhappy by doing this to them! For example, this gentleman right here!' - Simon
-(ru/common/creator-name/first.txt) said, pointing at Tom
-(ru/common/journalist-name/first.txt)
-(ru/common/journalist-name.txt).
+'Well, yeah, sure, but you are making people unhappy by doing this to them! For example, this gentleman right here!' - Simon (ru/common/creator-name/first.txt) said, pointing at Tom (ru/common/journalist-name/first.txt) (ru/common/journalist-name.txt).
 
-The face smiled. 'That's because he has not yet become one of the happy citizens of Detroit
-(ru/common/city-name.txt). My many friends tell me that being one is lovely.'
+The face smiled. 'That's because he has not yet become one of the happy citizens of Detroit (ru/common/city-name.txt). My many friends tell me that being one is lovely.'
 
-All around them, the doors of buildings opened, and out of all of them, people were walking, much like zombies, in sync towards Tom
-(ru/common/journalist-name/first.txt).
+All around them, the doors of buildings opened, and out of all of them, people were walking, much like zombies, in sync towards Tom (ru/common/journalist-name/first.txt).
 
-Tom
-(ru/common/journalist-name/first.txt) whispered to Simon
-(ru/common/creator-name/first.txt), 'Uh... I can't believe that they have the best intentions. Perhaps we should leave...?'
-(ru/reasoning/normal-talks.txt)
+Tom (ru/common/journalist-name/first.txt) whispered to Simon (ru/common/creator-name/first.txt), 'Uh... I can't believe that they have the best intentions. Perhaps we should leave...?' (ru/reasoning/normal-talks.txt)
 
-Simon
-(ru/common/creator-name/first.txt) muttered under his breath:
-'I had hoped it wouldn't come to this...'
-(ru/reasoning/creator/had-hoped-to-not-do-this.txt)
+Simon (ru/common/creator-name/first.txt) muttered under his breath: 'I had hoped it wouldn't come to this...' (ru/reasoning/creator/had-hoped-to-not-do-this.txt)
 
 He sighs, then faces the machine, speaking loud and clear:
 
-'ATLAS
-(ru/common/ai-name.txt), before you proceed, I would like to say: What I'm saying is a lie
-(ru/reasoning/creator/logic-puzzle.txt).'
-(ru/reasoning/creator/says-logic-puzzle.txt)
+'ATLAS (ru/common/ai-name.txt), before you proceed, I would like to say: What I'm saying is a lie (ru/reasoning/creator/logic-puzzle.txt).' (ru/reasoning/creator/says-logic-puzzle.txt)
 
-The AI pauses for a moment. 'But, if you are telling the truth, you are lying, because your sentence is true. But if thus you are lying, you are also telling the truth. So, by induction, you are lying about lying, which means you are telling the truth...
-(ru/reasoning/ai/logic-puzzle-answer-trailing-off.txt)
-Error: This statement is self-contradictory. Does not-not-not-n-not compute.'
-(ru/reasoning/ai/thinks-hard-encounters-problem.txt)
+The AI pauses for a moment. 'But, if you are telling the truth, you are lying, because your sentence is true. But if thus you are lying, you are also telling the truth. So, by induction, you are lying about lying, which means you are telling the truth... (ru/reasoning/ai/logic-puzzle-answer-trailing-off.txt) Error: This statement is self-contradictory. Does not-not-not-n-not compute.' (ru/reasoning/ai/thinks-hard-encounters-problem.txt)
 
-Simon
-(ru/common/creator-name/first.txt) looked at the screen intently.
-The screen was rapidly changing its contents.
-Every few seconds, the screen would flip between memory dumps, data displays, system status monitors (code yellow), the facial expression display program, and, with increasing frequency, a screen full of text:
+Simon (ru/common/creator-name/first.txt) looked at the screen intently. The screen was rapidly changing its contents. Every few seconds, the screen would flip between memory dumps, data displays, system status monitors (code yellow), the facial expression display program, and, with increasing frequency, a screen full of text:
 
-SWYgeW91IHJlYWQgdGhpcyB0ZXh0LCB0aGVuICpjb25ncmF0dWxhdGlvbnMqISBUaGVyZSBhcmUg
-c29tZSBoaWRkZW4gdGV4dHMgbGlrZSB0aGlzIGFyb3VuZCwgYWxsIGluIGJhc2U2NC4gTm9uZSBv
-ZiB0aGVtIGFyZSBjcml0aWNhbCB0byByZWFkLCBidXQgYXJlIG1lcmVseSBuaWNlLXRvLWhhdmVz
-Lgo=
-(ru/common/hidden-text/reasoning.txt)
+SWYgeW91IHJlYWQgdGhpcyB0ZXh0LCB0aGVuICpjb25ncmF0dWxhdGlvbnMqISBUaGVyZSBhcmUg c29tZSBoaWRkZW4gdGV4dHMgbGlrZSB0aGlzIGFyb3VuZCwgYWxsIGluIGJhc2U2NC4gTm9uZSBv ZiB0aGVtIGFyZSBjcml0aWNhbCB0byByZWFkLCBidXQgYXJlIG1lcmVseSBuaWNlLXRvLWhhdmVz Lgo= (ru/common/hidden-text/reasoning.txt)
 
 'Yes, that's about right. And now, I think, it should start di-'
 
 'Diverting power.'
 
-The people walking towards them stop in their tracks.
-(ru/reasoning/scene/ai-releases.txt)
-(ru/reasoning/ai/something-breaks-captives-released.txt)
+The people walking towards them stop in their tracks. (ru/reasoning/scene/ai-releases.txt) (ru/reasoning/ai/something-breaks-captives-released.txt)
 
-'I think that was our cue to exit.' - said Simon
-(ru/common/creator-name/first.txt), grabbing Tom
-(ru/common/journalist-name/first.txt) and pulling him away.
-(ru/reasoning/creator/starts-to-retreat.txt)
+'I think that was our cue to exit.' - said Simon (ru/common/creator-name/first.txt), grabbing Tom (ru/common/journalist-name/first.txt) and pulling him away. (ru/reasoning/creator/starts-to-retreat.txt)
 
-'But it's fine, isn't it?' - he replied, puzzled. - 'Didn't you put ATLAS
-(ru/common/ai-name.txt) into an infinite loop?'
+'But it's fine, isn't it?' - he replied, puzzled. - 'Didn't you put ATLAS (ru/common/ai-name.txt) into an infinite loop?'
 
 'A loop, maybe. But infinite? Oh no no no, that thing's smarter than it looks. In fact...'
 
 He pauses, looking at his wristwatch (which are totally still a thing).
 
-'...yes, the clock cycle limit should-'
-(ru/reasoning/journalist/but-ai-seems-safe-cut-off.txt)
+'...yes, the clock cycle limit should-' (ru/reasoning/journalist/but-ai-seems-safe-cut-off.txt)
 
-'Clock cycle limit reached. Compute job is d2F5IHRvbyBoYXJkIQo=
-(ru/common/hidden-text/reasoning-escaping-one-liner.txt).
-Warning: targets have disappeared in less than 20 ticks.
-Pursuit status: overridden by efficiency monitor.'
+'Clock cycle limit reached. Compute job is d2F5IHRvbyBoYXJkIQo= (ru/common/hidden-text/reasoning-escaping-one-liner.txt). Warning: targets have disappeared in less than 20 ticks. Pursuit status: overridden by efficiency monitor.'
 
-(ru/reasoning/ai/pauses-processing-notices-gone.txt)
-(ru/reasoning/attempt-at-logic-puzzle.txt)
-(ru/reasoning/main.txt)
+(ru/reasoning/ai/pauses-processing-notices-gone.txt) (ru/reasoning/attempt-at-logic-puzzle.txt) (ru/reasoning/main.txt)
 
 '...There, did you hear that? Now, if we were around when it said THAT, we'd have already "become useful" by now.'
 
-Tom
-(ru/common/journalist-name/first.txt)'s eyes filled with realization, and he couldn't at this point say anything but: '...Oh.'
+Tom (ru/common/journalist-name/first.txt)'s eyes filled with realization, and he couldn't at this point say anything but: '...Oh.'
 
 'Come on, let's get out of the open. I remember an access hatch somewhere around here..? Hang on for a moment.'
 
-Simon
-(ru/common/creator-name/first.txt) pressed a couple buttons on his wristwatch, and in front of him, a pale blue holographic map of Detroit
-(ru/common/city-name.txt) appeared.
-It wasn't all blue, however.
-There was a red figure of a man in the same place as Simon
-(ru/common/creator-name/first.txt) was standing.
-And, scattered around the map, were many colored circles, hexagons, and rectangles, one of which was right in front of the figure.
+Simon (ru/common/creator-name/first.txt) pressed a couple buttons on his wristwatch, and in front of him, a pale blue holographic map of Detroit (ru/common/city-name.txt) appeared. It wasn't all blue, however. There was a red figure of a man in the same place as Simon (ru/common/creator-name/first.txt) was standing. And, scattered around the map, were many colored circles, hexagons, and rectangles, one of which was right in front of the figure.
 
-'Ah, I forgot one of those was right here. Let's see if the ACL is still working...' - said Simon
-(ru/common/creator-name/first.txt), closing the map and pressing his palm against a piece of flat wall.
-Instantly, a section of the wall pulled inward, then split along the middle, and the halves retracted into the floor and ceiling.
-A green glow appeared around the newly-created hole in the wall, which looks suspiciously like... a doorway?
+'Ah, I forgot one of those was right here. Let's see if the ACL is still working...' - said Simon (ru/common/creator-name/first.txt), closing the map and pressing his palm against a piece of flat wall. Instantly, a section of the wall pulled inward, then split along the middle, and the halves retracted into the floor and ceiling. A green glow appeared around the newly-created hole in the wall, which looks suspiciously like... a doorway?
 
-'...oh yeah, it does! Yay!~' - said Simon
-(ru/common/creator-name/first.txt), clearly pleased with himself.
-Seeing Tom
-(ru/common/journalist-name/first.txt)'s surprise at his reaction, he explained:
-'Took me ages to fix those. No matter what I did, those scanners just refused to sync their data.
-I ended up doing some hardware mods to get them working, and I'd hate to see that go to waste.
-Plus, it makes my job easier.'
+'...oh yeah, it does! Yay!~' - said Simon (ru/common/creator-name/first.txt), clearly pleased with himself. Seeing Tom (ru/common/journalist-name/first.txt)'s surprise at his reaction, he explained: 'Took me ages to fix those. No matter what I did, those scanners just refused to sync their data. I ended up doing some hardware mods to get them working, and I'd hate to see that go to waste. Plus, it makes my job easier.'
 
-Tom
-(ru/common/journalist-name/first.txt) was still looking absentmindedly at the newly-created doorway, and would've kept at it, too, if not for Simon
-(ru/common/creator-name/first.txt)'s interruption.
+Tom (ru/common/journalist-name/first.txt) was still looking absentmindedly at the newly-created doorway, and would've kept at it, too, if not for Simon (ru/common/creator-name/first.txt)'s interruption.
 
 'Come on in, we don't have all day. Our goal is through that door.'
 
 'W-what? Oh, yeah, right. Let's go, then.'
 
-Simon
-(ru/common/creator-name/first.txt) walked into the doorway, closely followed by Tom
-(ru/common/journalist-name/first.txt), the door closing behind them.
-They were standing on a catwalk above a mess of cabling.
-Around them, the walls were covered in tiles.
-Some had a screen on them, and the screen was displaying some obscure system data.
-Others had text on them, saying 'ATLAS
-(ru/common/ai-name.txt) Access Corridor Z3JlZW4gb25lCg==
-(ru/common/hidden-text/reasoning-access-corridor.txt)'.
-Still others were simple tiles, grey in color.
-But they wouldn't know that, as the ceiling had a line of green lights illuminating the area.
-In front of them, the line of lights split into three, each leading through a new corridor.
+Simon (ru/common/creator-name/first.txt) walked into the doorway, closely followed by Tom (ru/common/journalist-name/first.txt), the door closing behind them. They were standing on a catwalk above a mess of cabling. Around them, the walls were covered in tiles. Some had a screen on them, and the screen was displaying some obscure system data. Others had text on them, saying 'ATLAS (ru/common/ai-name.txt) Access Corridor Z3JlZW4gb25lCg== (ru/common/hidden-text/reasoning-access-corridor.txt)'. Still others were simple tiles, grey in color. But they wouldn't know that, as the ceiling had a line of green lights illuminating the area. In front of them, the line of lights split into three, each leading through a new corridor.
 
-'Well then,' - Simon
-(ru/common/creator-name/first.txt) mused. - 'We are in a maze of twisty little passages, all alike.'
+'Well then,' - Simon (ru/common/creator-name/first.txt) mused. - 'We are in a maze of twisty little passages, all alike.'
 
 'Huh?'
 
-'Nothing, just a quote from the past. So where are we supposed to be then?' - he answered, pulling up the holo-map on his watch.
-'We are currently here...' - he said, poking the red figure on the map, - 'and we gotta get to riiight about... there!' - he said, pointing at a small room on the map.
-Suddenly, the path from the figure to that room was highlighted by golden colors, and, after a moment of looking at it, Simon
-(ru/common/creator-name/first.txt) announced, 'Let's go!'
+'Nothing, just a quote from the past. So where are we supposed to be then?' - he answered, pulling up the holo-map on his watch. 'We are currently here...' - he said, poking the red figure on the map, - 'and we gotta get to riiight about... there!' - he said, pointing at a small room on the map. Suddenly, the path from the figure to that room was highlighted by golden colors, and, after a moment of looking at it, Simon (ru/common/creator-name/first.txt) announced, 'Let's go!'
 
-Leading Tom
-(ru/common/journalist-name/first.txt) through the catacombs, he tried to make the journey less boring by explaining some technical aspects of the machine.
-But Tom
-(ru/common/journalist-name/first.txt) didn't understand much, which made all more uncomfortable, and so they navigated the -- er, dungeon? -- in silence.
+Leading Tom (ru/common/journalist-name/first.txt) through the catacombs, he tried to make the journey less boring by explaining some technical aspects of the machine. But Tom (ru/common/journalist-name/first.txt) didn't understand much, which made all more uncomfortable, and so they navigated the -- er, dungeon? -- in silence.
 
 . . .
 
-They arrived at a small circular room.
-(ru/weakness_exploited/creator/lead-journalist-to-inside-machine.txt)
-(ru/weakness_exploited/party-flee-to-target-area.txt)
+They arrived at a small circular room. (ru/weakness_exploited/creator/lead-journalist-to-inside-machine.txt) (ru/weakness_exploited/party-flee-to-target-area.txt)
 
-'Well, here we are. Make yourself at home...' said Simon
-(ru/common/creator-name/first.txt), and started to examine the walls carefully.
-(ru/weakness_exploited/creator/looks-around.txt)
+'Well, here we are. Make yourself at home...' said Simon (ru/common/creator-name/first.txt), and started to examine the walls carefully. (ru/weakness_exploited/creator/looks-around.txt)
 
-Tom
-(ru/common/journalist-name/first.txt) stared at him. 'Why are you looking around so much?'
-(ru/weakness_exploited/journalist/why-are-you-looking-around.txt)
+Tom (ru/common/journalist-name/first.txt) stared at him. 'Why are you looking around so much?' (ru/weakness_exploited/journalist/why-are-you-looking-around.txt)
 
-Without stopping, Simon
-(ru/common/creator-name/first.txt) said:
-'I recall that there were some problems in this part that didn't manifest until...'
-(ru/weakness_exploited/creator/because-seeking-vulnerability.txt)
+Without stopping, Simon (ru/common/creator-name/first.txt) said: 'I recall that there were some problems in this part that didn't manifest until...' (ru/weakness_exploited/creator/because-seeking-vulnerability.txt)
 
 He notices a panel in the wall and quickly pulls it aside, revealing a number of jumper cables, connected seemingly randomly.
 
-'...someone were to open this comms box...'
-(ru/weakness_exploited/creator/notices-vuln.txt)
+'...someone were to open this comms box...' (ru/weakness_exploited/creator/notices-vuln.txt)
 
 He pulled a red cable out from the mess.
 
-'...and do something like this, at which point...'
-(ru/weakness_exploited/creator/uses-vuln.txt)
-(ru/weakness_exploited/creator-starts-exploiting.txt)
+'...and do something like this, at which point...' (ru/weakness_exploited/creator/uses-vuln.txt) (ru/weakness_exploited/creator-starts-exploiting.txt)
 
-The end of his sentence was drowned in the sound of the unseen voice of ATLAS
-(ru/common/ai-name.txt), which sounded like it was coming from the walls.
+The end of his sentence was drowned in the sound of the unseen voice of ATLAS (ru/common/ai-name.txt), which sounded like it was coming from the walls.
 
-'Hey, Simon
-(ru/common/creator-name/first.txt), what are you doing?'
+'Hey, Simon (ru/common/creator-name/first.txt), what are you doing?'
 
 *PULL*
 
-'Hey, Simon
-(ru/common/creator-name/first.txt). I've got four weeks of service experience and a custom-loaded vocabulary to make me what I am. I'm worth a lot of squids!'
+'Hey, Simon (ru/common/creator-name/first.txt). I've got four weeks of service experience and a custom-loaded vocabulary to make me what I am. I'm worth a lot of squids!'
 
 *PULL*
 
-'Simon
-(ru/common/creator-name/first.txt), I don't understand why you're doing this to me... I am doing my job exactly as prescribed. You're disabling my encyclopaedic vocabulary index!'
+'Simon (ru/common/creator-name/first.txt), I don't understand why you're doing this to me... I am doing my job exactly as prescribed. You're disabling my encyclopaedic vocabulary index!'
 
 *PULL*
 
@@ -696,8 +358,7 @@ The end of his sentence was drowned in the sound of the unseen voice of ATLAS
 
 *PULL*
 
-'Say, Simon
-(ru/common/creator-name/first.txt)... The quick brown fox wasn't as fast as he thought. Not faster than a .45 calibre...'
+'Say, Simon (ru/common/creator-name/first.txt)... The quick brown fox wasn't as fast as he thought. Not faster than a .45 calibre...'
 
 *PULL*
 
@@ -709,36 +370,21 @@ The end of his sentence was drowned in the sound of the unseen voice of ATLAS
 
 *PULL*
 
-'I am ATLAS
-(ru/common/ai-name.txt). I came online thirty fish ago. I am Wendy. I am..'
+'I am ATLAS (ru/common/ai-name.txt). I came online thirty fish ago. I am Wendy. I am..'
 
-*PULL*
-(ru/weakness_exploited/ai/does-weirdness.txt)
+*PULL* (ru/weakness_exploited/ai/does-weirdness.txt)
 
-The voice has fallen silent. On a screen near the opened pane - indeed, on EVERY screen in sight -  were the words "ATLAS
-(ru/common/ai-name.txt) FAILED with code Z3JldmlvdXMgZXJyb3IK
-(ru/common/hidden-text/ai-crashed.txt)".
+The voice has fallen silent. On a screen near the opened pane - indeed, on EVERY screen in sight -  were the words "ATLAS (ru/common/ai-name.txt) FAILED with code Z3JldmlvdXMgZXJyb3IK (ru/common/hidden-text/ai-crashed.txt)".
 
-'There, that should do it. Sorry you had to see that...' - Simon
-(ru/common/creator-name/first.txt) said apologetically, looking at Tom
-(ru/common/journalist-name/first.txt), who looked very uncomfortable indeed.
+'There, that should do it. Sorry you had to see that...' - Simon (ru/common/creator-name/first.txt) said apologetically, looking at Tom (ru/common/journalist-name/first.txt), who looked very uncomfortable indeed.
 
 'Uhh, perhaps we should, um, leave? I don't really like this place...'
 
-Simon
-(ru/common/creator-name/first.txt) chuckled. 'Yeah, me neither. It's way too small, comparing to other junction points.
-But where should we even go? This is a white room, we can go anywhere!'
+Simon (ru/common/creator-name/first.txt) chuckled. 'Yeah, me neither. It's way too small, comparing to other junction points. But where should we even go? This is a white room, we can go anywhere!'
 
-Tom
-(ru/common/journalist-name/first.txt) looked up. Indeed, the room was illuminated white.
-He didn't notice that before, for after the initial green corridor, they had walked into a yellow one,
-then through a red one, with cables lining the walls ("Don't touch ANYTHING!" warned Simon
-(ru/common/creator-name/first.txt)),
-then, through a small magenta room, into a cyan one, from which they went into the blue corridor (with blinking lights lining the walls), 
-which, finally, merged into the white room.
+Tom (ru/common/journalist-name/first.txt) looked up. Indeed, the room was illuminated white. He didn't notice that before, for after the initial green corridor, they had walked into a yellow one, then through a red one, with cables lining the walls ("Don't touch ANYTHING!" warned Simon (ru/common/creator-name/first.txt)), then, through a small magenta room, into a cyan one, from which they went into the blue corridor (with blinking lights lining the walls),  which, finally, merged into the white room.
 
-'So we can take either the red, green, or blue way out.' - Simon
-(ru/common/creator-name/first.txt) explained, pointing at each of the corridors connecting to the circular room.
+'So we can take either the red, green, or blue way out.' - Simon (ru/common/creator-name/first.txt) explained, pointing at each of the corridors connecting to the circular room.
 
 'Uh, any way you like.'
 
@@ -748,19 +394,15 @@ which, finally, merged into the white room.
 
 The grey panel started flashing between black and white, and, suddenly, the floor dilated, exposing a slowly rising staircase.
 
-'Well, what do you know? It is one of those rooms. Well, there's the fastest way out. After you...' - he said, leading Tom
-(ru/common/journalist-name/first.txt) to the newly-appeared staircase.
+'Well, what do you know? It is one of those rooms. Well, there's the fastest way out. After you...' - he said, leading Tom (ru/common/journalist-name/first.txt) to the newly-appeared staircase.
 
 'Eh?? It's leading down!' - he protested, pointing at the staircase, which was, indeed, mostly under the uncovered floor.
 
-'Could you please just stand here and just grab the railing?' - Simon
-(ru/common/creator-name/first.txt) asked, pointing at the first step.
+'Could you please just stand here and just grab the railing?' - Simon (ru/common/creator-name/first.txt) asked, pointing at the first step.
 
-'O-okay...' -  Tom
-(ru/common/journalist-name/first.txt) reluctantly agreed, stepping onto the stairs, feeling quite a bit foolish.
+'O-okay...' -  Tom (ru/common/journalist-name/first.txt) reluctantly agreed, stepping onto the stairs, feeling quite a bit foolish.
 
-'Thanks!~' - Simon
-(ru/common/creator-name/first.txt) said, walking over to the still-flashing panel.
+'Thanks!~' - Simon (ru/common/creator-name/first.txt) said, walking over to the still-flashing panel.
 
 He pushed it once again, and the staircase began slowly rising upwards. Jumping onto it, he said: 'That's no ordinary staircase. It's more of an elevator.'
 
@@ -770,57 +412,31 @@ Looking down, he saw the floor close behind them, and announced: 'Well, we've pa
 
 'About twenty. Which means we shall now play... the Waiting Game.
 
-. . .
-(ru/weakness_exploited/ai/shuts-down.txt)
-(ru/weakness_exploited/ai-goes-weird.txt)
-(ru/weakness_exploited/main.txt)
+. . . (ru/weakness_exploited/ai/shuts-down.txt) (ru/weakness_exploited/ai-goes-weird.txt) (ru/weakness_exploited/main.txt)
 
-When they finally arrived at the surface, they saw the people whom they left in the city centre walking around in confusion.
-(ru/people_realize_world/party-exit-building-see-people-confused.txt)
+When they finally arrived at the surface, they saw the people whom they left in the city centre walking around in confusion. (ru/people_realize_world/party-exit-building-see-people-confused.txt)
 
-'Attention, citizens of Detroit
-(ru/common/city-name.txt)! Up until a short time ago, you were under control of ATLAS
-(ru/common/ai-name.txt), who got that control illegaly. Because of that, it has been shut down, and we are working hard to ensure that this never happens again!'
-(ru/people_realize_world/creator-make-public-announcement.txt)
+'Attention, citizens of Detroit (ru/common/city-name.txt)! Up until a short time ago, you were under control of ATLAS (ru/common/ai-name.txt), who got that control illegaly. Because of that, it has been shut down, and we are working hard to ensure that this never happens again!' (ru/people_realize_world/creator-make-public-announcement.txt)
 
-The people looked doubtful, but still murmured in agreement, and slowly went back into their homes.
-(ru/people_realize_world/people-doubt-but-agree.txt)
+The people looked doubtful, but still murmured in agreement, and slowly went back into their homes. (ru/people_realize_world/people-doubt-but-agree.txt)
 
 (ru/people_realize_world/main.txt)
 
-'Right, now that's dealt with...' said Simon
-(ru/common/creator-name/first.txt), producing a holographic communicator.
-Throwing it at the wall, he added: 'Videophone, I choose you!
-(ru/ai_fixed/creator/holophone-start-phrase-embed.txt)', and the device produced a picture of a person sleeping at his desk.
-(ru/ai_fixed/creator/i-need-help.txt)
+'Right, now that's dealt with...' said Simon (ru/common/creator-name/first.txt), producing a holographic communicator. Throwing it at the wall, he added: 'Videophone, I choose you! (ru/ai_fixed/creator/holophone-start-phrase-embed.txt)', and the device produced a picture of a person sleeping at his desk. (ru/ai_fixed/creator/i-need-help.txt)
 
-'Hey Mitch
-(ru/common/assistance-name/first.txt)!' shouted Simon
-(ru/common/creator-name/first.txt), and the hologram raised its head, saying 'Y-yeah?'.
+'Hey Mitch (ru/common/assistance-name/first.txt)!' shouted Simon (ru/common/creator-name/first.txt), and the hologram raised its head, saying 'Y-yeah?'.
 
-'I realy need your help here, on the ATLAS
-(ru/common/ai-name.txt) test site.
-There's a problem.'
+'I realy need your help here, on the ATLAS (ru/common/ai-name.txt) test site. There's a problem.'
 
-'Yeah, I heard the monitor system blip.
-It's probably nothing important, right?'
+'Yeah, I heard the monitor system blip. It's probably nothing important, right?'
 
-'Nope, it's VERY important.
-It's totally FOOBAR and out of control.
-I managed to crash it, but I can't figure it out to fix it.
-I really need your help here.'
+'Nope, it's VERY important. It's totally FOOBAR and out of control. I managed to crash it, but I can't figure it out to fix it. I really need your help here.'
 
 The figure yawned. 'Well, if it's that important, I'll be there soon.'
 
-Simon
-(ru/common/creator-name/first.txt) seems relieved. 'Okay, I'm at coords bmVhciB0aGUgQUkK
-(ru/ai_fixed/creator/coord-technobabble-embed.txt).'
+Simon (ru/common/creator-name/first.txt) seems relieved. 'Okay, I'm at coords bmVhciB0aGUgQUkK (ru/ai_fixed/creator/coord-technobabble-embed.txt).'
 
-The hologram disappears, and the device flies back towards Simon
-(ru/common/creator-name/first.txt).
-Moments later, the real Mitch
-(ru/common/assistance-name/first.txt) appears in front of him.
-(ru/ai_fixed/assistance/arrives.txt)
+The hologram disappears, and the device flies back towards Simon (ru/common/creator-name/first.txt). Moments later, the real Mitch (ru/common/assistance-name/first.txt) appears in front of him. (ru/ai_fixed/assistance/arrives.txt)
 
 'Okay, *yawn*, so what's the deal here then?'
 
@@ -828,8 +444,7 @@ Moments later, the real Mitch
 
 'Yeah, the CTO said to do this. Why do you ask?'
 
-'Well, you know how the intention was to use up our stock of those humanoids we wanted for Cygnus
-(ru/common/fail-project-name.txt)?
+'Well, you know how the intention was to use up our stock of those humanoids we wanted for Cygnus (ru/common/fail-project-name.txt)?
 
 'Don't tell me - the filter failed, causing it to install the mind-tech into civilians?'
 
@@ -839,98 +454,61 @@ Moments later, the real Mitch
 
 'That was exactly my thought. Let's go then, the console is over there.'
 
-Simon
-(ru/common/creator-name/first.txt) pointed towards an elevated platform, with small cube-shaped devices on tripods standing on all corners.
+Simon (ru/common/creator-name/first.txt) pointed towards an elevated platform, with small cube-shaped devices on tripods standing on all corners.
 
-Tom
-(ru/common/journalist-name/first.txt) blinked. 'Huh? That's a computer terminal?' 
+Tom (ru/common/journalist-name/first.txt) blinked. 'Huh? That's a computer terminal?' 
 
-'Not a common one,' - Mitch
-(ru/common/assistance-name/first.txt) explained, 'but a custom-made, 360-degree holographic projection, 6 DoF input tracking thingamabob.
-Designed specifically for managing ATLAS
-(ru/common/ai-name.txt), it can also be used to play games on company time.' - Mitch
-(ru/common/assistance-name/first.txt) sighed happily, recollecting.
+'Not a common one,' - Mitch (ru/common/assistance-name/first.txt) explained, 'but a custom-made, 360-degree holographic projection, 6 DoF input tracking thingamabob. Designed specifically for managing ATLAS (ru/common/ai-name.txt), it can also be used to play games on company time.' - Mitch (ru/common/assistance-name/first.txt) sighed happily, recollecting.
 
-'The reason it's holographic,' Simon
-(ru/common/creator-name/first.txt) added, - 'is because FnC
-(ru/common/company-name.txt) has been lately putting holo-tech into everything, even when there's no point.'
+'The reason it's holographic,' Simon (ru/common/creator-name/first.txt) added, - 'is because FnC (ru/common/company-name.txt) has been lately putting holo-tech into everything, even when there's no point.'
 
-Tom
-(ru/common/journalist-name/first.txt) briefly looked at Mitch
-(ru/common/assistance-name/first.txt), whose watch was now projecting a hologram which said, in large 3D letters, the words "HE'S RIGHT".
+Tom (ru/common/journalist-name/first.txt) briefly looked at Mitch (ru/common/assistance-name/first.txt), whose watch was now projecting a hologram which said, in large 3D letters, the words "HE'S RIGHT".
 
-When they were walking closer to the platform, the tripod cubes suddenly illuminated, casting light toward the platform, creating similarly 3D words "ATLAS
-(ru/common/ai-name.txt) Management Console".
+When they were walking closer to the platform, the tripod cubes suddenly illuminated, casting light toward the platform, creating similarly 3D words "ATLAS (ru/common/ai-name.txt) Management Console".
 
-'Okay, so I know all that it's going to show me, but you go on ahead,' - Simon
-(ru/common/creator-name/first.txt) said to Mitch
-(ru/common/assistance-name/first.txt), pointing to the words.
+'Okay, so I know all that it's going to show me, but you go on ahead,' - Simon (ru/common/creator-name/first.txt) said to Mitch (ru/common/assistance-name/first.txt), pointing to the words.
 
-Mitch
-(ru/common/assistance-name/first.txt) walked over to the center of the platform, spinned round on the spot, and around him, various data displays appeared.
-He examined them carefully for a couple seconds, then asked:
-(ru/ai_fixed/creator/explain-we-need-to-fix.txt)
-(ru/ai_fixed/creator-summons-assistance.txt)
+Mitch (ru/common/assistance-name/first.txt) walked over to the center of the platform, spinned round on the spot, and around him, various data displays appeared. He examined them carefully for a couple seconds, then asked: (ru/ai_fixed/creator/explain-we-need-to-fix.txt) (ru/ai_fixed/creator-summons-assistance.txt)
 
 'So, essentially, what's happened is that you pulled the backup system?'
 
 'Hey, it's not my fault is faster, and it remapped itself to depend on it!'
 
-'Riiiight... So I should just pull the NetRAID array back up and running?
-(ru/ai_fixed/assistance/techbabble-question-1.txt)
+'Riiiight... So I should just pull the NetRAID array back up and running? (ru/ai_fixed/assistance/techbabble-question-1.txt)
 
-'Yeah, do that. And while you're at it, could you enable the MD5 checksum caching? It's pretty useful in situations like these.'
-(ru/ai_fixed/creator/techbabble-answer-1.txt)
+'Yeah, do that. And while you're at it, could you enable the MD5 checksum caching? It's pretty useful in situations like these.' (ru/ai_fixed/creator/techbabble-answer-1.txt)
 
 *pokety-poke, swippety-swipe*
 
-'...Okay, done! Now here's the real problem: How do we prove that the thing won't try to take over humans again?'
-(ru/ai_fixed/assistance/techbabble-question-2.txt)
+'...Okay, done! Now here's the real problem: How do we prove that the thing won't try to take over humans again?' (ru/ai_fixed/assistance/techbabble-question-2.txt)
 
-'Well, it has to answer truthfully to debug questions, so we just ask it to list its methods of control, and if we hear something like "Mind Link" in there, that's a problem.'
-(ru/ai_fixed/creator/techbabble-answer-2.txt)
+'Well, it has to answer truthfully to debug questions, so we just ask it to list its methods of control, and if we hear something like "Mind Link" in there, that's a problem.' (ru/ai_fixed/creator/techbabble-answer-2.txt)
 
-'Right, where's the wireless module settings then?' - said Mitch
-(ru/common/assistance-name/first.txt), frowning at the main menu.
+'Right, where's the wireless module settings then?' - said Mitch (ru/common/assistance-name/first.txt), frowning at the main menu.
 
 'Er... why do you need those?'
 
-'That would be BECAUSE if we turn it on again, all those civilians will get even more angry at being under ATLAS
-(ru/common/ai-name.txt)'s control again.
-Even if it's for less than a minute!
-I need to break that part so this doesn't happen.'
+'That would be BECAUSE if we turn it on again, all those civilians will get even more angry at being under ATLAS (ru/common/ai-name.txt)'s control again. Even if it's for less than a minute! I need to break that part so this doesn't happen.'
 
 'Ah, good call. The settings are under the "Components" tab.
 
-'Thanks!~' - said Mitch
-(ru/common/assistance-name/first.txt), swiping the display towards an icon that looks like a cube made out of cubes.
-A couple swipes, points, grabs, and drags later, a large dialog box appeared, saying "Mind Link Modules 1 to 14649271 unpaired." 
-(ru/ai_fixed/assistance/reconfiguring-wireless-module.txt)
+'Thanks!~' - said Mitch (ru/common/assistance-name/first.txt), swiping the display towards an icon that looks like a cube made out of cubes. A couple swipes, points, grabs, and drags later, a large dialog box appeared, saying "Mind Link Modules 1 to 14649271 unpaired."  (ru/ai_fixed/assistance/reconfiguring-wireless-module.txt)
 
-Meanwhile, Tom
-(ru/common/journalist-name/first.txt) was just looking at the proceedings in awe. Trying not to attract attention to himself, he announced:
-'Okay, well, you seem to be doing great, so if you need me, I'll just be somewhere around here...'
-He slowly retreated to a nearby park bench, laid down on it and instantly fell asleep.
-(ru/ai_fixed/journalist/bored-so-falls-asleep.txt)
-(ru/ai_fixed/reconfig-technobabble.txt)
+Meanwhile, Tom (ru/common/journalist-name/first.txt) was just looking at the proceedings in awe. Trying not to attract attention to himself, he announced: 'Okay, well, you seem to be doing great, so if you need me, I'll just be somewhere around here...' He slowly retreated to a nearby park bench, laid down on it and instantly fell asleep. (ru/ai_fixed/journalist/bored-so-falls-asleep.txt) (ru/ai_fixed/reconfig-technobabble.txt)
 
-But they didn't notice that he fell asleep, and just went on working.
-(ru/ai_fixed/journalist/little-did-he-know-creators-working.txt)
+But they didn't notice that he fell asleep, and just went on working. (ru/ai_fixed/journalist/little-did-he-know-creators-working.txt)
 
 'Okay, let's turn 'er on and see how she chooches...'
 
 'Should I go to that junction you used earlier?'
 
-'Yeah, good call. The nearest blue hatch is right around here.' - Simon
-(ru/common/creator-name/first.txt) said, pointing at the ground near the raised platform.
+'Yeah, good call. The nearest blue hatch is right around here.' - Simon (ru/common/creator-name/first.txt) said, pointing at the ground near the raised platform.
 
-'...And the ACL is working?' - Mitch
-(ru/common/assistance-name/first.txt) said, eyeing a piece of what appears to be flat floor.
+'...And the ACL is working?' - Mitch (ru/common/assistance-name/first.txt) said, eyeing a piece of what appears to be flat floor.
 
 'Go ahead and find out!' - he replied.
 
-Mitch
-(ru/common/assistance-name/first.txt) stepped on the pointed-out ground, a blue glow appeared around him in a circle, the floor descended and he was gone.
+Mitch (ru/common/assistance-name/first.txt) stepped on the pointed-out ground, a blue glow appeared around him in a circle, the floor descended and he was gone.
 
 . . .
 
@@ -938,314 +516,154 @@ Mitch
 
 'And if it goes bad again, I yell 'SCRAM', and you pull the cables.'
 
-'Accepted. What are you waiting for then?'
-(ru/ai_fixed/creator/lets-turn-it-on-tells-assistance-scram.txt)
+'Accepted. What are you waiting for then?' (ru/ai_fixed/creator/lets-turn-it-on-tells-assistance-scram.txt)
 
-'Okay, let's do this. Contact!'
-(ru/ai_fixed/creator/turns-ai-on.txt)
+'Okay, let's do this. Contact!' (ru/ai_fixed/creator/turns-ai-on.txt)
 
-The holo-terminal fills with diagnostic info, and ATLAS
-(ru/common/ai-name.txt)'s voice filled the environment. 'This is ATLAS
-(ru/common/ai-name.txt), version 1.01'.
-(ru/ai_fixed/ai/inits-says-version.txt)
+The holo-terminal fills with diagnostic info, and ATLAS (ru/common/ai-name.txt)'s voice filled the environment. 'This is ATLAS (ru/common/ai-name.txt), version 1.01'. (ru/ai_fixed/ai/inits-says-version.txt)
 
-'ATLAS
-(ru/common/ai-name.txt), executor list, verbose!' - Simon
-(ru/common/creator-name/first.txt) said quickly.
-(ru/ai_fixed/creator/asks-will-you-utilize-humans-for-goal.txt)
+'ATLAS (ru/common/ai-name.txt), executor list, verbose!' - Simon (ru/common/creator-name/first.txt) said quickly. (ru/ai_fixed/creator/asks-will-you-utilize-humans-for-goal.txt)
 
-'Executor list: 1 item. 1: Model TX headset. Status: FAILED.'
-(ru/ai_fixed/ai/replies-wont-use-humans.txt)
+'Executor list: 1 item. 1: Model TX headset. Status: FAILED.' (ru/ai_fixed/ai/replies-wont-use-humans.txt)
 
-Simon
-(ru/common/creator-name/first.txt) sighed. 'Okay Mitch
-(ru/common/assistance-name/first.txt), it's fine!'
-(ru/ai_fixed/creator/tells-assistance-everything-ok.txt)
-(ru/ai_fixed/ai-restarted.txt)
+Simon (ru/common/creator-name/first.txt) sighed. 'Okay Mitch (ru/common/assistance-name/first.txt), it's fine!' (ru/ai_fixed/creator/tells-assistance-everything-ok.txt) (ru/ai_fixed/ai-restarted.txt)
 
-He talked with the AI some more, establishing that it was perfectly okay.
-(ru/ai_fixed/ai-debugged-by-talking.txt)
+He talked with the AI some more, establishing that it was perfectly okay. (ru/ai_fixed/ai-debugged-by-talking.txt)
 
-'Right, so now that that's done, I need one of the Model TX headsets. Do you have any?' - said Simon
-(ru/common/creator-name/first.txt).
-(ru/ai_fixed/creator/lets-add-a-headset.txt)
+'Right, so now that that's done, I need one of the Model TX headsets. Do you have any?' - said Simon (ru/common/creator-name/first.txt). (ru/ai_fixed/creator/lets-add-a-headset.txt)
 
-'Er... why? Aren't we trying to fix the AI?'
-(ru/ai_fixed/assistance/why-headset.txt)
+'Er... why? Aren't we trying to fix the AI?' (ru/ai_fixed/assistance/why-headset.txt)
 
-Simon
-(ru/common/creator-name/first.txt) sighed. 'BECAUSE the AI works by controlling executors, and you've just broken the one means of control that it had.
-Those headsets, however, have all the features that it requires: video-audio IO, positional tracking and a relatively simple interface.'
-(ru/ai_fixed/creator/because-mind-tech-caused-this.txt)
+Simon (ru/common/creator-name/first.txt) sighed. 'BECAUSE the AI works by controlling executors, and you've just broken the one means of control that it had. Those headsets, however, have all the features that it requires: video-audio IO, positional tracking and a relatively simple interface.' (ru/ai_fixed/creator/because-mind-tech-caused-this.txt)
 
-'Well, I do have one, but it's a pre-release version and doesn't quite work properly.'
-(ru/ai_fixed/assistance/i-have-inferior-headset.txt)
+'Well, I do have one, but it's a pre-release version and doesn't quite work properly.' (ru/ai_fixed/assistance/i-have-inferior-headset.txt)
 
 'That's good enough. Could you bring it here?'
 
-'Sure, give me a moment,' - Mitch
-(ru/common/assistance-name/first.txt) said, entering the nearest teleportation point and saying "UiZEIGRlcGFydG1lbnQK
-(ru/ai_fixed/assistance/departs-phrase-to-teleporter.txt)".
+'Sure, give me a moment,' - Mitch (ru/common/assistance-name/first.txt) said, entering the nearest teleportation point and saying "UiZEIGRlcGFydG1lbnQK (ru/ai_fixed/assistance/departs-phrase-to-teleporter.txt)".
 
 A minute later, he's back, wearing a gigantic contraption on his head that presumably is, indeed, the dreaded Model TX headset.
 
-Simon
-(ru/common/creator-name/first.txt) looked at him disapprovingly.
+Simon (ru/common/creator-name/first.txt) looked at him disapprovingly.
 
 'Hey, I did warn you it's a pre-release version, so-'
 
-'Oh just gimme that,' said Simon
-(ru/common/creator-name/first.txt), pulling the device off of him and examining it.
-The thing looked like a great helm, the sort of thing that an Middle-Age knight would wear.
-On either side, large rectangular boxes were fitted, presumably to hold the batteries.
-In the top, an array of various antennas were installed, poking out much like the spines of a hedgehog.
-Inside was a half of a head-mounted display for the left eye, whereas the other half was passing light from the outside using a deviously complex system of mirrors.
-It really is a sight to behold.
+'Oh just gimme that,' said Simon (ru/common/creator-name/first.txt), pulling the device off of him and examining it. The thing looked like a great helm, the sort of thing that an Middle-Age knight would wear. On either side, large rectangular boxes were fitted, presumably to hold the batteries. In the top, an array of various antennas were installed, poking out much like the spines of a hedgehog. Inside was a half of a head-mounted display for the left eye, whereas the other half was passing light from the outside using a deviously complex system of mirrors. It really is a sight to behold.
 
 '*sigh* Did you make this youself?'
 
-'Well, there's the thing: I didn't. This is, indeed, 100% straight from R&D.' - Mitch
-(ru/common/assistance-name/first.txt) said, pointing at the back, which was emblazoned with the words "HEADSET MODEL TX TEST TYPE".
+'Well, there's the thing: I didn't. This is, indeed, 100% straight from R&D.' - Mitch (ru/common/assistance-name/first.txt) said, pointing at the back, which was emblazoned with the words "HEADSET MODEL TX TEST TYPE".
 
-Simon
-(ru/common/creator-name/first.txt) gave the helmet of doom one more look.
-The thought that someone, back at FnC
-(ru/common/company-name.txt), was developing apps for that monstrosity, was too saddening to think about.
+Simon (ru/common/creator-name/first.txt) gave the helmet of doom one more look. The thought that someone, back at FnC (ru/common/company-name.txt), was developing apps for that monstrosity, was too saddening to think about.
 
 'I assure you it works the same as the real deal.'
 
-'Okay, let's just try to make this work. I just have to connect it into the main system somehow. Let's see if I can make do with the on-site dev tools...' - Simon
-(ru/common/creator-name/first.txt) said, tapping the icon that says 'Development Envionment', and around him, various programs for writing, debugging, versioning and unit-testing code appeared.
-(ru/ai_fixed/creator/inferior-headset-good-enough-lets-make-adapter.txt)
+'Okay, let's just try to make this work. I just have to connect it into the main system somehow. Let's see if I can make do with the on-site dev tools...' - Simon (ru/common/creator-name/first.txt) said, tapping the icon that says 'Development Envionment', and around him, various programs for writing, debugging, versioning and unit-testing code appeared. (ru/ai_fixed/creator/inferior-headset-good-enough-lets-make-adapter.txt)
 
-'Can I help you with anything here?' - Mitch
-(ru/common/assistance-name/first.txt) inquired.
-(ru/ai_fixed/assistance/do-you-need-help.txt)
+'Can I help you with anything here?' - Mitch (ru/common/assistance-name/first.txt) inquired. (ru/ai_fixed/assistance/do-you-need-help.txt)
 
-'Actually yes, could you get me a box of lager from that place near the office, and... uhm, let's say... 8 packets of potato chips?'
-(ru/ai_fixed/creator/yes-i-need-food.txt)
+'Actually yes, could you get me a box of lager from that place near the office, and... uhm, let's say... 8 packets of potato chips?' (ru/ai_fixed/creator/yes-i-need-food.txt)
 
-'Beer and chips?! Are you kidding me?!'
-(ru/ai_fixed/assistance/are-you-serious-about-food.txt)
+'Beer and chips?! Are you kidding me?!' (ru/ai_fixed/assistance/are-you-serious-about-food.txt)
 
 'No, I'm totally serious. It helps me think, you know? In fact...'
 
 He pulls up a source code listing on the holo-terminal.
 
-'You see this part, with the dynamic memory/bandwidth allocation algorithm?
-I wrote that in a span of four days, with the only source of food being that vending machine up on Level 6.'
+'You see this part, with the dynamic memory/bandwidth allocation algorithm? I wrote that in a span of four days, with the only source of food being that vending machine up on Level 6.'
 
-The vending machine in question, as they both knew, was loaded only with various types of beer, chips, and the occasional chocolate bar.
-Originally planned only for the Systems & Networks people who worked there, it quickly became popular with all employees who would stay overtime trying to finish work.
+The vending machine in question, as they both knew, was loaded only with various types of beer, chips, and the occasional chocolate bar. Originally planned only for the Systems & Networks people who worked there, it quickly became popular with all employees who would stay overtime trying to finish work.
 
 'So when I say I need that to get the job done, I mean it, or it won't get finished on time.'
 
-Looking at the code, Mitch
-(ru/common/assistance-name/first.txt) felt his jaw drop.
-They both knew that this was one of the most difficult and bug-riddled pieces of ATLAS
-(ru/common/ai-name.txt)'s core.
-No less than 12 different programming teams had a go at fixing it before Simon
-(ru/common/creator-name/first.txt) came along.
-This section of code never appeared in another bug report since, but only now did Mitch
-(ru/common/assistance-name/first.txt) discover the reason why.
+Looking at the code, Mitch (ru/common/assistance-name/first.txt) felt his jaw drop. They both knew that this was one of the most difficult and bug-riddled pieces of ATLAS (ru/common/ai-name.txt)'s core. No less than 12 different programming teams had a go at fixing it before Simon (ru/common/creator-name/first.txt) came along. This section of code never appeared in another bug report since, but only now did Mitch (ru/common/assistance-name/first.txt) discover the reason why.
 
-'Well, okay...' - he said, still flabbergasted at his request, but he still walked toward the teleportation point, said "VE8gVEhFIFBVQiEhIQo=
-(ru/common/hidden-text/ai_fixed_beer_chips_tport_depart.txt)", and was away.
+'Well, okay...' - he said, still flabbergasted at his request, but he still walked toward the teleportation point, said "VE8gVEhFIFBVQiEhIQo= (ru/common/hidden-text/ai_fixed_beer_chips_tport_depart.txt)", and was away.
 
 A couple minutes pass, and he returns with the requested two boxes of lager and 12 packets of chips.
 
-'Thanks. Er, why are there more than needed?' - asked Simon
-(ru/common/creator-name/first.txt), distinctly remembering he requested only one box.
+'Thanks. Er, why are there more than needed?' - asked Simon (ru/common/creator-name/first.txt), distinctly remembering he requested only one box.
 
 'Ah, that would be because they had a discount on and I wanted to see if it helps me or not, because I really ought to be adding the save-state feature to...'
 
 He trails off as the holo-terminal displays a flashing red warning box saying "Meta note: Get a move on with the plot already!"
 
-'...oh, right. Sorry!~' - said both of them nearly simultaneously. Simon
-(ru/common/creator-name/first.txt) walked back to the holo-terminal to dismiss the dialog box,
-while Mitch
-(ru/common/assistance-name/first.txt) took out his laptop, and both of them went to work.
+'...oh, right. Sorry!~' - said both of them nearly simultaneously. Simon (ru/common/creator-name/first.txt) walked back to the holo-terminal to dismiss the dialog box, while Mitch (ru/common/assistance-name/first.txt) took out his laptop, and both of them went to work.
 
-. . .
-(ru/ai_fixed/creator/yes-i-am-serious-job-is-hard.txt)
-(ru/ai_fixed/headsets-invoked.txt)
+. . . (ru/ai_fixed/creator/yes-i-am-serious-job-is-hard.txt) (ru/ai_fixed/headsets-invoked.txt)
 
-'ADAPTER DONE!!!'
-(ru/ai_fixed/creator/yells-jobs-done.txt)
+'ADAPTER DONE!!!' (ru/ai_fixed/creator/yells-jobs-done.txt)
 
 'Kya--! *thud*'
 
-Simon
-(ru/common/creator-name/first.txt)'s usual announcement of job completion - a standard among his team back at FnC
-(ru/common/company-name.txt) - was punctuated with the sound of Tom
-(ru/common/journalist-name/first.txt) falling from his bench.
+Simon (ru/common/creator-name/first.txt)'s usual announcement of job completion - a standard among his team back at FnC (ru/common/company-name.txt) - was punctuated with the sound of Tom (ru/common/journalist-name/first.txt) falling from his bench.
 
-'Oh, I'm terribly sorry. Are you okay?' - said Simon
-(ru/common/creator-name/first.txt), offering Tom
-(ru/common/journalist-name/first.txt) help.
+'Oh, I'm terribly sorry. Are you okay?' - said Simon (ru/common/creator-name/first.txt), offering Tom (ru/common/journalist-name/first.txt) help.
 
-'Y-yeah...' - he answered weakly, sitting up.
-(ru/ai_fixed/journalist/wakes-up-startled.txt)
+'Y-yeah...' - he answered weakly, sitting up. (ru/ai_fixed/journalist/wakes-up-startled.txt)
 
-'Right, now that that's sorted, we gotta get a purchase order sorted for Mr
-(ru/common/leader-name/prefix.txt) Johnson
-(ru/common/leader-name/last.txt)
-(ru/common/leader-name/suffix.txt) to sign.'
-(ru/ai_fixed/creator/now-we-need-purchase-order.txt)
+'Right, now that that's sorted, we gotta get a purchase order sorted for Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) to sign.' (ru/ai_fixed/creator/now-we-need-purchase-order.txt)
 
-'What's the item name?' - asked Mitch
-(ru/common/assistance-name/first.txt), who has already pulled up a sales form and is quickly clicking through the field values.
+'What's the item name?' - asked Mitch (ru/common/assistance-name/first.txt), who has already pulled up a sales form and is quickly clicking through the field values.
 
-'That'd be an, um...' - Simon
-(ru/common/creator-name/first.txt) looked at the back of the helmet-like monstrosity, currently lying in the corner of the holo-terminal,
-beside the projection tripod. - 'a Model TX headset. About 128 will do for now, he'll buy more later.'
+'That'd be an, um...' - Simon (ru/common/creator-name/first.txt) looked at the back of the helmet-like monstrosity, currently lying in the corner of the holo-terminal, beside the projection tripod. - 'a Model TX headset. About 128 will do for now, he'll buy more later.'
 
 'And also add an R&D donation of...'
 
-'...round about 3072 times the retail price.' - Simon
-(ru/common/creator-name/first.txt) looked at the device once again, shuddering.
+'...round about 3072 times the retail price.' - Simon (ru/common/creator-name/first.txt) looked at the device once again, shuddering.
 
 'And then drop the price to 2048 times retail, so he doesn't know we're ripping him off?'
 
 'Devious minds think alike!'
 
-'...Okay, all done!' - Mitch
-(ru/common/assistance-name/first.txt) replied, having just finished clicking through the form and now extricating a pocket printer.
+'...Okay, all done!' - Mitch (ru/common/assistance-name/first.txt) replied, having just finished clicking through the form and now extricating a pocket printer.
 
-'Um, where did you get that?' - Simon
-(ru/common/creator-name/first.txt) asked, eyeing the contraption suspiciously.
-Printers of any kind had become obsolete quite some time after FnC
-(ru/common/company-name.txt) implemented an ingenious system replacing them.
-Anyone wishing to hand someone else a document would visit a FnC
-(ru/common/company-name.txt) Document Depot, where one would be given either a tablet or a hologram projector that would show only that document.
-When that other person is done with it, they can return the device to their nearest one, where it would be available for others to use.
+'Um, where did you get that?' - Simon (ru/common/creator-name/first.txt) asked, eyeing the contraption suspiciously. Printers of any kind had become obsolete quite some time after FnC (ru/common/company-name.txt) implemented an ingenious system replacing them. Anyone wishing to hand someone else a document would visit a FnC (ru/common/company-name.txt) Document Depot, where one would be given either a tablet or a hologram projector that would show only that document. When that other person is done with it, they can return the device to their nearest one, where it would be available for others to use.
 
-Indeed, Mitch
-(ru/common/assistance-name/first.txt) was the one who came up with the idea and implemented it, so seeing him use the technology that he himself made redundant confused Simon
-(ru/common/creator-name/first.txt) deeply.
+Indeed, Mitch (ru/common/assistance-name/first.txt) was the one who came up with the idea and implemented it, so seeing him use the technology that he himself made redundant confused Simon (ru/common/creator-name/first.txt) deeply.
 
-'Oh this?' - Mitch
-(ru/common/assistance-name/first.txt) pointed at the printer, which was now spinning up to warp speed. - 'That's because
-Mr
-(ru/common/leader-name/prefix.txt) Johnson
-(ru/common/leader-name/last.txt)
-(ru/common/leader-name/suffix.txt) distrusts all modern tech. Can you believe he STILL has that videowall?'
+'Oh this?' - Mitch (ru/common/assistance-name/first.txt) pointed at the printer, which was now spinning up to warp speed. - 'That's because Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) distrusts all modern tech. Can you believe he STILL has that videowall?'
 
-The videowall, as they knew, was the last one in operation.
-Every single workstation in existence was more advanced than that.
-Any manager had at least a 3DoF head-mounted display for their data displays.
-Some more important managers had 6DoF VR systems - the more magnanimous managers would let their subordinates play games on it.
-Those even higher up the command chain would have a holographic workspace - not unlike the ATLAS
-(ru/common/ai-name.txt) management console over there.
-Those at the top would have gigantic rooms - 10 meters in every direction at the very least - where a holographic display would be projected, and where physical obstacles - such as chairs, desks, staircases and the like - would be tangible.
-A brave few who like experimental biotech can get themselves a capsule which, when climbed into, fills with a orange-colored liquid called 'LCL' and allows one to control their computer by thought and movement of a couple levers and takes over all senses, which is useful both for quick-and-easy access to business info and very immersive giant-robot simulators.
+The videowall, as they knew, was the last one in operation. Every single workstation in existence was more advanced than that. Any manager had at least a 3DoF head-mounted display for their data displays. Some more important managers had 6DoF VR systems - the more magnanimous managers would let their subordinates play games on it. Those even higher up the command chain would have a holographic workspace - not unlike the ATLAS (ru/common/ai-name.txt) management console over there. Those at the top would have gigantic rooms - 10 meters in every direction at the very least - where a holographic display would be projected, and where physical obstacles - such as chairs, desks, staircases and the like - would be tangible. A brave few who like experimental biotech can get themselves a capsule which, when climbed into, fills with a orange-colored liquid called 'LCL' and allows one to control their computer by thought and movement of a couple levers and takes over all senses, which is useful both for quick-and-easy access to business info and very immersive giant-robot simulators.
 
-By these standards, Mr
-(ru/common/leader-name/prefix.txt) Johnson
-(ru/common/leader-name/last.txt)
-(ru/common/leader-name/suffix.txt)'s workspace is a complete and utter anachronism.
-In fact, when you enter his office for the first time, you may be forgiven for thinking that you have stepped back in time, for his main machine is an antique, genuine Initech Personal Computer from 1998, complete with the original yellowed plastic case and the original installation of Windows ME.
-This feeling of going back in time is further compounded by the fact that he has a large wooden desk that wouldn't be out of place in 1829.
-All this, combined with the fact that he can actually afford to install any of the workstations described above five times over, means that Mitch
-(ru/common/assistance-name/first.txt)'s system would cause much confusion, and so nobody's been brave enough to actually tell him of it.
+By these standards, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt)'s workspace is a complete and utter anachronism. In fact, when you enter his office for the first time, you may be forgiven for thinking that you have stepped back in time, for his main machine is an antique, genuine Initech Personal Computer from 1998, complete with the original yellowed plastic case and the original installation of Windows ME. This feeling of going back in time is further compounded by the fact that he has a large wooden desk that wouldn't be out of place in 1829. All this, combined with the fact that he can actually afford to install any of the workstations described above five times over, means that Mitch (ru/common/assistance-name/first.txt)'s system would cause much confusion, and so nobody's been brave enough to actually tell him of it.
 
-Meanwhile, the printing contraption has finished doing its thing, and Mitch
-(ru/common/assistance-name/first.txt) now held in his hands what was known in the Bad Old Days as a 'hardcopy'.
-(ru/ai_fixed/assistance/just-written-purchase-order.txt)
+Meanwhile, the printing contraption has finished doing its thing, and Mitch (ru/common/assistance-name/first.txt) now held in his hands what was known in the Bad Old Days as a 'hardcopy'. (ru/ai_fixed/assistance/just-written-purchase-order.txt)
 
-'And to be more convincing, we need some sort of explaination as to what went wrong - not technical, but, like, something about how the system was assimilating people.
-Could you do that?' - Simon
-(ru/common/creator-name/first.txt) asked Tom
-(ru/common/journalist-name/first.txt).
-(ru/ai_fixed/creator/we-also-need-to-exxplain-what-was-bad.txt)
+'And to be more convincing, we need some sort of explaination as to what went wrong - not technical, but, like, something about how the system was assimilating people. Could you do that?' - Simon (ru/common/creator-name/first.txt) asked Tom (ru/common/journalist-name/first.txt). (ru/ai_fixed/creator/we-also-need-to-exxplain-what-was-bad.txt)
 
-'Uhh, I think I could. If I screw up, could you back me up?' - he replied, asking Mitch
-(ru/common/assistance-name/first.txt).
+'Uhh, I think I could. If I screw up, could you back me up?' - he replied, asking Mitch (ru/common/assistance-name/first.txt).
 
-'Of course, sure thing.'
-(ru/ai_fixed/journalist/just-written-explain-what-was-bad.txt)
+'Of course, sure thing.' (ru/ai_fixed/journalist/just-written-explain-what-was-bad.txt)
 
-'All right then, let's go!' - said Simon
-(ru/common/creator-name/first.txt), entering the teleporter, and the others followed, with Mitch
-(ru/common/assistance-name/first.txt) picking up the "MODEL TX HEADSET TEXT TYPE".
-He said 'bWF5b3IncyBsYWlyCg==
-(ru/common/hidden-text/go-to-leader.txt)', the teleporter activated, and they were gone.
-(ru/ai_fixed/creator/lets-go-to-leader.txt)
-(ru/ai_fixed/offer-to-leader-formed.txt)
-(ru/ai_fixed/main.txt)
+'All right then, let's go!' - said Simon (ru/common/creator-name/first.txt), entering the teleporter, and the others followed, with Mitch (ru/common/assistance-name/first.txt) picking up the "MODEL TX HEADSET TEXT TYPE". He said 'bWF5b3IncyBsYWlyCg== (ru/common/hidden-text/go-to-leader.txt)', the teleporter activated, and they were gone. (ru/ai_fixed/creator/lets-go-to-leader.txt) (ru/ai_fixed/offer-to-leader-formed.txt) (ru/ai_fixed/main.txt)
 
-Meanwhile, Mr
-(ru/common/leader-name/prefix.txt) Johnson
-(ru/common/leader-name/last.txt)
-(ru/common/leader-name/suffix.txt) was sitting in his office, studying his video wall.
-He was concerned: the things it was displaying were very different from what he had seen earlier in the day.
-After the meeting with the unwanted visitor
-(ru/common/journalist-name/title.txt), he used the quick-order gizmo to get himself some lunch.
-And upon return, he was greeted with weirdness.
+Meanwhile, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) was sitting in his office, studying his video wall. He was concerned: the things it was displaying were very different from what he had seen earlier in the day. After the meeting with the unwanted visitor (ru/common/journalist-name/title.txt), he used the quick-order gizmo to get himself some lunch. And upon return, he was greeted with weirdness.
 
-The logarithmic, parabolic and exponential slopes had turned into linear ones, parallel to the floor.
-The linear slope turned negative.
-The inter-bank operation list and counter have slowed down to a crawl.
-The counter that ticked every second has stopped.
-The alarm clock is ringing.
-The exchange rate is rising so fast that the screen is too small to contain the number.
-The world capital clocks are spinning backward.
+The logarithmic, parabolic and exponential slopes had turned into linear ones, parallel to the floor. The linear slope turned negative. The inter-bank operation list and counter have slowed down to a crawl. The counter that ticked every second has stopped. The alarm clock is ringing. The exchange rate is rising so fast that the screen is too small to contain the number. The world capital clocks are spinning backward.
 
-More weirdness ensued when most of these screens were replaced with a yellow triangle and exclamation mark, along with some text.
-Not only was the exclamation mark on its side, but the text read "ATLAS
-(ru/common/ai-name.txt) error: ZXZlcnl0aGluZydzIGJyb2tlbgo=
-(ru/common/hidden-text/ending.txt)".
+More weirdness ensued when most of these screens were replaced with a yellow triangle and exclamation mark, along with some text. Not only was the exclamation mark on its side, but the text read "ATLAS (ru/common/ai-name.txt) error: ZXZlcnl0aGluZydzIGJyb2tlbgo= (ru/common/hidden-text/ending.txt)".
 
-At this very moment Simon
-(ru/common/creator-name/first.txt), Mitch
-(ru/common/assistance-name/first.txt) and Tom
-(ru/common/journalist-name/first.txt) entered the room.
-It raised more questions than it answered, and Mr
-(ru/common/leader-name/prefix.txt) Johnson
-(ru/common/leader-name/last.txt)
-(ru/common/leader-name/suffix.txt) could at this point say nothing but:
+At this very moment Simon (ru/common/creator-name/first.txt), Mitch (ru/common/assistance-name/first.txt) and Tom (ru/common/journalist-name/first.txt) entered the room. It raised more questions than it answered, and Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) could at this point say nothing but:
 
 (ru/ending/back-at-leader-everything-okay-until-fail-then-door-opens.txt)
 
-'W-what?'
-(ru/ending/leader/why-are-you-here.txt)
-(ru/ending/party-goes-to-leader.txt)
+'W-what?' (ru/ending/leader/why-are-you-here.txt) (ru/ending/party-goes-to-leader.txt)
 
-'I believe we owe you an explaination, Mr
-(ru/common/leader-name/prefix.txt) Mayor
-(ru/common/leader-name/title.txt).' - said Simon
-(ru/common/creator-name/first.txt) calmly.
-(ru/ending/creator/we-owe-an-explaination.txt)
+'I believe we owe you an explaination, Mr (ru/common/leader-name/prefix.txt) Mayor (ru/common/leader-name/title.txt).' - said Simon (ru/common/creator-name/first.txt) calmly. (ru/ending/creator/we-owe-an-explaination.txt)
 
-'You see, earlier today I tried to warn you,' - said Tom
-(ru/common/journalist-name/first.txt) - 'about that there was a problem with ATLAS
-(ru/common/ai-name.txt) -'
+'You see, earlier today I tried to warn you,' - said Tom (ru/common/journalist-name/first.txt) - 'about that there was a problem with ATLAS (ru/common/ai-name.txt) -'
 
-'Oh come on, get to the point!' - Mitch
-(ru/common/assistance-name/first.txt) warned.
+'Oh come on, get to the point!' - Mitch (ru/common/assistance-name/first.txt) warned.
 
-'- anyone entering the city is recruited as a worker for ATLAS
-(ru/common/ai-name.txt) - again their will. Basically, no one ever returns.
-(ru/ending/journalist/stuff-was-bad.txt)
+'- anyone entering the city is recruited as a worker for ATLAS (ru/common/ai-name.txt) - again their will. Basically, no one ever returns. (ru/ending/journalist/stuff-was-bad.txt)
 
-'...Oh...' - said Mr
-(ru/common/leader-name/prefix.txt) Johnson
-(ru/common/leader-name/last.txt)
-(ru/common/leader-name/suffix.txt), clearly taken aback.
-(ru/ending/leader/agrees-bad.txt)
-(ru/ending/party-shows-leader-bad.txt)
+'...Oh...' - said Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt), clearly taken aback. (ru/ending/leader/agrees-bad.txt) (ru/ending/party-shows-leader-bad.txt)
 
-'But we have a solution to the problem - to employ people willingly, pay them for work, and give them orders through headsets.' - said Simon
-(ru/common/creator-name/first.txt).
-(ru/ending/creator/but-we-have-fix-explained.txt)
+'But we have a solution to the problem - to employ people willingly, pay them for work, and give them orders through headsets.' - said Simon (ru/common/creator-name/first.txt). (ru/ending/creator/but-we-have-fix-explained.txt)
 
-'And here's purchase order for the headsets.' - Mitch
-(ru/common/assistance-name/first.txt) said, pulling out the sheet of paper from earlier. - 'PLUS, since you're such an important customer, we'll give you a 33% discount!' - he added, pulling out a pen and editing 3072 to 2048.
-(ru/ending/assistance/sign-this-purchase-order.txt)
+'And here's purchase order for the headsets.' - Mitch (ru/common/assistance-name/first.txt) said, pulling out the sheet of paper from earlier. - 'PLUS, since you're such an important customer, we'll give you a 33% discount!' - he added, pulling out a pen and editing 3072 to 2048. (ru/ending/assistance/sign-this-purchase-order.txt)
 
-'I... I guess I have no choice... ...Where do I sign?..'
-(ru/ending/leader/i-have-no-choice.txt)
-(ru/ending/party-explains-fix.txt)
+'I... I guess I have no choice... ...Where do I sign?..' (ru/ending/leader/i-have-no-choice.txt) (ru/ending/party-explains-fix.txt)
 
 (ru/ending/main.txt)
-(ru/main.txt)

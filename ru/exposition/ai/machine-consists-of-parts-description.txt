@@ -1,5 +1,5 @@
-But it wasn't a common computer installation. In the front was a matrix of LEDs which was saying its name.
-There were many cube-shaped modules on either side of the LED matrix.
-Some said "GPU", some said "Memory", yet others had a wireless symbol emblasoned on them.
-The whole thing had a large cooling unit sitting on top of it all
-(ru/exposition/ai/machine-consists-of-parts-description.txt)
+Но только знающий человек поймет это, поскольку выглядело это всё очень нестандартно.
+Спереди была светодиодная матрица, показывающая название.
+А по бокам от неё было прикреплено множество кубиков разных размеров.
+На некоторых было написано "GPU - NekoVision 9080 FI", на некоторых -  "RAM - KiokuMem XGDDR13 512GBx64", а на некоторых был нарисован символ беспроводной связи.
+Довершал конструкцию крупный охлаждающий агрегат, обвивающий теплопроводными трубками большую часть кубов

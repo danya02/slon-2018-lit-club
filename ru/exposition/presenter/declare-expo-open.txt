@@ -1,2 +1,1 @@
-'{exposition/presenter/phrases/global-hello}, and {exposition/presenter/phrases/welcome-to-the-show} {exposition/presenter/phrases/i-am-your-announcer}' - {exposition/presenter/first-description} said.
-(ru/exposition/presenter/declare-expo-open.txt)
+'{exposition/presenter/phrases/global-hello}, {exposition/presenter/phrases/welcome-to-the-show} {exposition/presenter/phrases/i-am-your-announcer}' - сказал {exposition/presenter/first-description}.
