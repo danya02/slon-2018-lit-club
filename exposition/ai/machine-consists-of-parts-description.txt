@@ -1,4 +1,4 @@
 But it wasn't a common computer installation. In the front was a matrix of LEDs which was saying its name.
 There were many cube-shaped modules on either side of the LED matrix.
-Some said "GPU - NekoVision 9080 FI", some said "RAM - KiokuMem XGDDR13 512GBx64", yet others had a wireless symbol emblasoned on them.
+Some said "GPU", some said "Memory", yet others had a wireless symbol emblasoned on them.
 The whole thing had a large cooling unit sitting on top of it all
