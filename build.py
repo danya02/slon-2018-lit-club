@@ -46,6 +46,7 @@ while '{' in text:
 
     if inset[-1]=='\n':
         inset = inset[:-1]
+    inset = inset.replace('\n\n','\t'*64).replace('\n',' ').replace('\t'*64,'\n\n')
     text = before+inset+after
 with open('output'+(f'.{lang}' if lang else '')+'.txt','w') as o:
     o.write(text)
