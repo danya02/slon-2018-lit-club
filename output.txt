@@ -10,8 +10,6 @@ He has at this point walked across the stage, and reached a previously-unseen sw
 
 A spotlight illuminates overhead, revealing, in the center of the stage, a large computer installation. But it wasn't a common computer installation. In the front was a matrix of LEDs which was saying its name. There were many cube-shaped modules on either side of the LED matrix. Some said "GPU - NekoVision 9080 FI", some said "RAM - KiokuMem XGDDR13 512GBx64", yet others had a wireless symbol emblasoned on them. The whole thing had a large cooling unit sitting on top of it all. It is, indeed, a sight to behold.
 
-The crowd became even more excited. This release was long-awaited, and yet, all of them were seeing the thing for the first time.
-
 'Built upon the latest Roswell CPU technology, the main processor box is custom-built for the task of managing high-performance industrial environments. It can be expanded infinitely simply by connecting more of these addon modules. The GPU modules expand its ability to manage movement of its execution actors, or "nodes". The memory banks are used for storing info on the best method of execution of some particular task. The wireless modules are used for connecting to the execution nodes. On the task level, it can do up to 64 parallel tasks in the basic package, which is what you see here. All tasks are switchable between individual nodes, support adding and removing nodes from a task without halting execution. It can also mirror tasks, for those cases when a task can be done repeatedly on some predictable objects. Finally, it has automatic danger avoidance built in, but in case that doesn't help, it has error correction.
 
 Few people understood what was said, but they were excited enough for it not to matter.
@@ -76,7 +74,7 @@ He checks his teleprompter.
 
 'I have a question for you: I'm not sure that what you've just shown us is sufficient to manage any large operation. Is there any proof that this is expandable?' - asked another person from somewhere at the back.
 
-'Well, it is expected that the basic limits will be exceeded soon for large operations. For this very reason, once the operational limit is approached, ATLAS will try to assemble the necessary upgrade modules from materials available on-site, or, if that is impossible, automatically purchase the needed ones from FnC's online store.'
+'Well, it is expected that the basic limits will be exceeded soon for large operations. For this very reason, once the operational limit is approached, ATLAS will try to assemble the necessary upgrade modules from materials available on-site, or, if that is impossible, automatically purchase the needed ones from Virtudyne's online store.'
 
 'But you don't have to take our word for it! We are installing one of these systems in the city of Detroit, and it is being launched as I speak. In the next two hours, it will become fully operational, and anyone wishing to see the system in production can schedule a guided tour.'
 
@@ -450,7 +448,7 @@ Tom blinked. 'Huh? That's a computer terminal?'
 
 'Not a common one,' - Mitch explained, 'but a custom-made, 360-degree holographic projection, 6 DoF input tracking thingamabob. Designed specifically for managing ATLAS, it can also be used to play games on company time.' - Mitch sighed happily, recollecting.
 
-'The reason it's holographic,' Simon added, - 'is because FnC has been lately putting holo-tech into everything, even when there's no point.'
+'The reason it's holographic,' Simon added, - 'is because Virtudyne has been lately putting holo-tech into everything, even when there's no point.'
 
 Tom briefly looked at Mitch, whose watch was now projecting a hologram which said, in large 3D letters, the words "HE'S RIGHT".
 
@@ -544,7 +542,7 @@ Simon looked at him disapprovingly.
 
 'Well, there's the thing: I didn't. This is, indeed, 100% straight from R&D.' - Mitch said, pointing at the back, which was emblazoned with the words "HEADSET MODEL TX TEST TYPE".
 
-Simon gave the helmet of doom one more look. The thought that someone, back at FnC, was developing apps for that monstrosity, was too saddening to think about.
+Simon gave the helmet of doom one more look. The thought that someone, back at Virtudyne, was developing apps for that monstrosity, was too saddening to think about.
 
 'I assure you it works the same as the real deal.'
 
@@ -586,7 +584,7 @@ He trails off as the holo-terminal displays a flashing red warning box saying "M
 
 'Kya--! *thud*'
 
-Simon's usual announcement of job completion - a standard among his team back at FnC - was punctuated with the sound of Tom falling from his bench.
+Simon's usual announcement of job completion - a standard among his team back at Virtudyne - was punctuated with the sound of Tom falling from his bench.
 
 'Oh, I'm terribly sorry. Are you okay?' - said Simon, offering Tom help.
 
@@ -608,7 +606,7 @@ Simon's usual announcement of job completion - a standard among his team back at
 
 '...Okay, all done!' - Mitch replied, having just finished clicking through the form and now extricating a pocket printer.
 
-'Um, where did you get that?' - Simon asked, eyeing the contraption suspiciously. Printers of any kind had become obsolete quite some time after FnC implemented an ingenious system replacing them. Anyone wishing to hand someone else a document would visit a FnC Document Depot, where one would be given either a tablet or a hologram projector that would show only that document. When that other person is done with it, they can return the device to their nearest one, where it would be available for others to use.
+'Um, where did you get that?' - Simon asked, eyeing the contraption suspiciously. Printers of any kind had become obsolete quite some time after Virtudyne implemented an ingenious system replacing them. Anyone wishing to hand someone else a document would visit a Virtudyne Document Depot, where one would be given either a tablet or a hologram projector that would show only that document. When that other person is done with it, they can return the device to their nearest one, where it would be available for others to use.
 
 Indeed, Mitch was the one who came up with the idea and implemented it, so seeing him use the technology that he himself made redundant confused Simon deeply.
 
