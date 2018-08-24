@@ -10,8 +10,6 @@
 
 {exposition/ai/first-presented-description}
 
-{exposition/crowd/after-unveil}
-
 {exposition/presenter/ai-present-technobabble}
 
 {exposition/crowd/after-technobabble}
