@@ -1,4 +1,3 @@
-And so, {common/ai_name} was given a small area of the city of {common/city_name}.
-The AI {ai_expands/ai/phrases/verbed-worked}, and soon, the area had become completely {ai_expands/ai/phrases/verbed-goal}.
+Новой установке {common/ai_name} дали на улучшение небольшой район города {common/city_name}.
+ИИ {ai_expands/ai/phrases/verbed-worked}, и вскорости район стал значительно {ai_expands/ai/phrases/verbed-goal}.
 {ai_expands/ai/requested-to-expand-first-time-single-line}
-(ru/ai_expands/ai/given-area-in-city.txt)

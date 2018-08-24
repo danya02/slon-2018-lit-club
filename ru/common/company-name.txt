@@ -1,2 +1,1 @@
-FnC
-(ru/common/company-name.txt)
+Virtudyne

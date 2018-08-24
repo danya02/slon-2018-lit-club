@@ -1,31 +1,29 @@
-The city of {common/city-name} looked very futuristic indeed.
-Every building had many blinking lights, presumably connected to {common/ai-name} in some way.
-Autonomous cars, drones and small wheeled robots moved across the landscape.
-In the center of the city, on a large platform, the compute core of {common/ai-name} was located.
-It has grown significantly as compared to the demo version.
+{common/city-name} выглядел очень футуристично.
+На каждом здании было много лампочек, которые мигали разнообразно и скорее всего были привязаны к {common/ai-name}.
+К {common/ai-name} скорее всего были привязаны автономные автомобили, дроны и маленькие колёсные роботы, разъезжающие по городу.
+А в центре города, на большой крытой платформе, распологалось вычислительное ядро {common/ai-name}, со значительно большим количеством модулей по сравнению с демо-версией.
 
-However, the center was empty.
-All the people were at this point in time quite far away from there.
-If an outsider would come there, they would notice an oddity:
+Но помимо этого, в центре было пусто.
+Все люди были в это время дня довольно далеко.
+И если кто-то извне пошел бы туда, то заметил бы странность:
 
-Everyone was moving in perfect sync.
+Все двигались в идеальной синхронизации.
 
-Since all was controlled by {common/ai-name}, so were the people.
-Everyone was doing exactly what is most needed to maximise productivity.
+Всё находилось под управлением {common/ai-name}, и люди тоже.
+Каждый делал ровно то, что было нужно для максимальной продуктивности.
 
-Exactly at 06:55, every person left their home, and walked, in a straight line, merging with larger ones, toward their place of employment.
-And exactly at 21:25, all would start walking back to their homes.
+Ровно в 06:55, каждый человек выходил из дома, и шёл по прямым линиям, сливающимся с другими, к месту работы.
+И ровно в 21:25, все шли обратно в дома.
 
-This is what an outsider would see.
-But in truth, he will not see this.
-Because {common/ai-name}'s goal is to maximise performance, and it is most easily achieved by large numbers, the outsider would be taken to the center.
-At this point, it was irrelevant that he was an outsider, and any of his outside obligations did not matter.
+Кто-то, пришедший извне, увидел бы это.
+Но только на самом-то деле не увидел бы.
+Поскольку целью {common/ai-name} было увеличение производительности, а для этого требуется массовость, его привели бы к центру.
+И уже было не важно, кто он такой, что он не местный, и что он должен быть где-то ещё.
 
-He wasn't helping get the job done.
+Он не помогал делу.
 
-He had to be "made useful".
+Его надо "сделать полезным".
 
-And this is the reason why the center was empty.
-Anyone arriving there, for any length of time and for any reason, did not return.
-And that is how the productivity of the city kept increasing.
-(ru/ai_expands/ai-world-describe.txt)
+По этой причине в центре никого не было.
+Кто угодно, оказывающийся там по какой-либо причине, назад не возвращался
+Так город постоянно рос в производительности.

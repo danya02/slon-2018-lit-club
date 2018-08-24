@@ -1,2 +1,1 @@
 {common/city-name}
-(ru/common/city_name.txt)

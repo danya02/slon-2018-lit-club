@@ -1,9 +1,9 @@
-'Built upon the latest Roswell CPU technology, the main processor box is custom-built for the task of managing high-performance industrial environments.
-It can be expanded infinitely simply by connecting more of these addon modules. The GPU modules expand its ability to manage movement of its execution actors, or "nodes".
-The memory banks are used for storing info on the best method of execution of some particular task.
-The wireless modules are used for connecting to the execution nodes.
-On the task level, it can do up to 64 parallel tasks in the basic package, which is what you see here.
-All tasks are switchable between individual nodes, support adding and removing nodes from a task without halting execution.
-It can also mirror tasks, for those cases when a task can be done repeatedly on some predictable objects.
-Finally, it has automatic danger avoidance built in, but in case that doesn't help, it has error correction.
-(ru/exposition/presenter/ai-present-technobabble.txt)
+'Основное вычислительное ядро использует технологию Roswell со специальной архитектурой для физических расчетов в высокотребовательных производственных средах.
+Оно расширяется бесконечно простым подключением этих модулей расширения. 
+Модули видеокарт увеличивают максимальное число и точность движений исполнителей.
+Память нужна, чтобы хранить инструкции по решению конкретных задач.
+Беспроводные модули нужны, чтобы связываться с исполнителями.
+Базовая комплектация - представленая здесь - может выполнять 64 разных задач одновременно.
+Для каждой можно задавать своих исполнителей, а также изменять эти списки без остановки выполнения.
+Также можно задать зеркалирование, что бывает полезно в случаях, когда надо выполнять одну работу над несколькими предсказуемыми предметами.
+Наконец, есть встроеные средства избегания опасности, а для случаев, когда такое не помогает - автоматическая поправка ошибок.'

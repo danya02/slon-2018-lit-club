@@ -31,4 +31,3 @@
 {exposition/qa/presenter-answers-concerned-question}
 
 {exposition/presenter/announces-live-demo}
-(ru/exposition/intro.txt)

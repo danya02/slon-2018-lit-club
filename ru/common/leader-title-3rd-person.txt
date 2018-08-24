@@ -1,2 +1,1 @@
-Mayor
-(ru/common/leader-title-3rd-person.txt)
+мэру

@@ -1,2 +1,1 @@
-worked hard
-(ru/ai_expands/ai/phrases/verbed-worked.txt)
+много работал

@@ -1,5 +1,3 @@
-He thinks for a moment.
+Он подумал пару секунд, и добавил:
 
-'Plus, it means that if we run short of the humanoids, we have the technology to make more.'
-
-(ru/exposition/qa/presenter-adds-existing-tech-can-be-used.txt)
+'Дополнительно, если у нас вдруг будет их недостаточно, уже налажен техпроцесс производства.'

@@ -1,2 +1,1 @@
 {exposition/ai/spotlight-illuminates-machine}. {exposition/ai/machine-consists-of-parts-description}. {exposition/ai/admiration-phrase}.
-(ru/exposition/ai/first-presented-description.txt)

@@ -8,109 +8,103 @@
 
 'ATLAS (ru/common/ai-name.txt)!' 
 
-На потолке загорелись прожектора и прогнали тень со сцены, оставив только ведущего, занавес и кнопку за ним, а в центре - компьютерную установку. Но только знающий человек поймет это, поскольку выглядело это всё очень нестандартно. Спереди была светодиодная матрица, показывающая название. А по бокам от неё было прикреплено множество кубиков разных размеров. На некоторых было написано "GPU - NekoVision 9080 FI", на некоторых -  "RAM - KiokuMem XGDDR13 512GBx64", а на некоторых был нарисован символ беспроводной связи. Довершал конструкцию крупный охлаждающий агрегат, обвивающий теплопроводными трубками большую часть кубов. Зрелище, действительно, довольно удивительное. (ru/exposition/ai/first-presented-description.txt)
+На потолке загорелись прожектора и прогнали тень со сцены, оставив только ведущего, занавес и кнопку за ним, а в центре - компьютерную установку. Но только знающий человек поймет это, поскольку выглядело это всё очень нестандартно. Спереди была светодиодная матрица, показывающая название. А по бокам от неё было прикреплено множество кубиков разных размеров. На некоторых было написано "GPU - NekoVision 9080 FI", на некоторых -  "RAM - KiokuMem XGDDR13 512GBx64", а на некоторых был нарисован символ беспроводной связи. Довершал конструкцию крупный охлаждающий агрегат, обвивающий теплопроводными трубками большую часть кубов. Зрелище, действительно, довольно удивительное.
 
-The crowd became even more excited. This release was long-awaited, and yet, all of them were seeing the thing for the first time. (ru/exposition/crowd/after-unveil.txt)
+'Основное вычислительное ядро использует технологию Roswell со специальной архитектурой для физических расчетов в высокотребовательных производственных средах. Оно расширяется бесконечно простым подключением этих модулей расширения.  Модули видеокарт увеличивают максимальное число и точность движений исполнителей. Память нужна, чтобы хранить инструкции по решению конкретных задач. Беспроводные модули нужны, чтобы связываться с исполнителями. Базовая комплектация - представленая здесь - может выполнять 64 разных задач одновременно. Для каждой можно задавать своих исполнителей, а также изменять эти списки без остановки выполнения. Также можно задать зеркалирование, что бывает полезно в случаях, когда надо выполнять одну работу над несколькими предсказуемыми предметами. Наконец, есть встроеные средства избегания опасности, а для случаев, когда такое не помогает - автоматическая поправка ошибок.'
 
-'Built upon the latest Roswell CPU technology, the main processor box is custom-built for the task of managing high-performance industrial environments. It can be expanded infinitely simply by connecting more of these addon modules. The GPU modules expand its ability to manage movement of its execution actors, or "nodes". The memory banks are used for storing info on the best method of execution of some particular task. The wireless modules are used for connecting to the execution nodes. On the task level, it can do up to 64 parallel tasks in the basic package, which is what you see here. All tasks are switchable between individual nodes, support adding and removing nodes from a task without halting execution. It can also mirror tasks, for those cases when a task can be done repeatedly on some predictable objects. Finally, it has automatic danger avoidance built in, but in case that doesn't help, it has error correction. (ru/exposition/presenter/ai-present-technobabble.txt)
+Почти никто не понял вышесказаного, но все поняли, что это интересно.
 
-Few people understood what was said, but they were excited enough for it not to matter. (ru/exposition/crowd/after-technobabble.txt)
+'Но слушать всегда более скучно, чем видеть, поэтому - демонстрация!'
 
-'But hearing about it is much less interesting than seeing it in operation, so it's now time to do a demo!' (ru/exposition/presenter/begins-demo.txt)
+Как только он произнёс последнее слово, экран заполнился словом "ДЕМО", а часть пола открылась. Оттуда вылезли пять гуманоидных существ, аккуратно поднимая на верёвках стол с пирамидой шариков для жонглирования.
 
-As soon as he said the last word, the LED display switched to the word "DEMO" as a section of the floor retracted. Out came five humanoid creatures and a tower of juggling balls.
+На экране появилось изображение лица, произнёсшего: 'Ожидаю команд.'
 
-The screen switched to a picture of a face, which said: 'Awaiting orders.'
+'Как любой цирковой артист вам скажет, совместное жонглирование - очень сложная задача, так как надо двигаться синхронно с другими для наилучших результатов. Но для системы ATLAS (ru/common/ai-name.txt) это не представляет никаких трудностей. Смотрите!' - сказал он толпе, затем повернулся к машине и сказал:
 
-'One of the most difficult tasks to be done collaboratively is juggling, as one has to sync movements with everyone else to achieve the best results. However, ATLAS (ru/common/ai-name.txt) handles this with ease. Observe!' - he said to the crowd, then faced the machine and said:
+'ATLAS (ru/common/ai-name.txt), запусти "Жонглирование", 10 мячей, три исполнителя. Марш!'
 
-'ATLAS (ru/common/ai-name.txt), juggling, 10 balls, three nodes. Go!'
+Два из пяти существ достали из кучи три шара, а один - четыре. Отойдя на безопасное расстояние, они начали перекидываться шарами друг с другом. Агрегат тем временем произнёс: 'Выполняю. Задача имеет идентификатор ZXhhbXBsZSB3b3JrIGpvYgo= (ru/common/hidden-text/demo-work-job.txt)'.
 
-Three humanoids out of five reached forward, taking each three balls, save for the central one, who took four. They started juggling, gradually moving each ball from left to right, then back. The machine said: 'Executing. Work job is ZXhhbXBsZSB3b3JrIGpvYgo= (ru/common/hidden-text/demo-work-job.txt)'.
+'Красота же этой системы заключается в том, что можно динамически распределять нагрузку. ATLAS (ru/common/ai-name.txt), останови исполнителя 1!'
 
-'And the beauty of it all is, this system can dynamically allocate execution. ATLAS (ru/common/ai-name.txt), drop node 1!'
+Существо посередине отошло назад, оставив других двух с деасятью мячами.
 
-The middle humanoid walked backwards, and the other two continued juggling the ten balls.
+'И здесь работает зеркалирование действий, выполняемых одними, к другим. ATLAS (ru/common/ai-name.txt), настроить зеркало, 2 и 3 к 1 и 4. Марш!'
 
-'And it can mirror actions done by some nodes on other ones. ATLAS (ru/common/ai-name.txt), mirror actions, node 2 and 3 to node 1 and 4. Go!'
+TДва существа достали ещё десять мячей из стопки и, встав рядом с первой парой стали жонглировать синхронно с ними.
 
-Two humanoids took out ten more balls from the pile, and started juggling in sync with the other two.
+'Но, конечно же, можно делать несколько действий одновременно! У меня с собой...' - сказал он, доставая из заднего кармана - 'нерешённый кубик Рубика. Интересно, сколько времени потребуется на это? ATLAS (ru/common/ai-name.txt), исполнитель 5, лови, решай, возвращай!'
 
-'But don't think it can do only one thing at a time! I have here...' - he said, reaching into his back pocket and pulling out - 'an unsolved Rubic's Cube. Let's see how fast it can handle this. ATLAS (ru/common/ai-name.txt), node 5, catch, solve, and return!'
+Оставшееся существо прошло вперёд и приготовилось ловить. Рассказчик кинул кубик, наамеренно промахиваясь, но существо всё равно поймало. Примерно 8 секунд спустя, кубик летит обратно, и рассказчик показывает всем, что кубик действительно решён.
 
-The remaining humanoid walked forward and assumed a catching stance. The presenter threw the cube at it, intentionally missing, yet the humanoid caught it anyway. Around 8 secinds pass, and he throws the cube back. The presenter showed everyone that the cube is, indeed, solved.
+Пара зрителей из зала крикнули 'А слабо ТАКОЕ?' и кинули на сцену парочку более экзотических головоломок, в том числе кубик 20x20x20 и что-то под названием "Ромбоикосододекаэдр Рубика". Все были пойманы существом и положены на пол, двадцатисторонний кубик начал решаться, а машина произнесла: "Лимит производительности достигнут для исполнителя 5. Переназначить задачу для исполнителя 1?'
 
-A couple hecklers from the audience yelled 'Solve THIS!', then threw a couple of other exotic Rubic's puzzles, including what appeared to be a 20x20x20 cube and something called a Rubic's Rhombicosidodecahedron. The humanoid caught them all and started solving the 20-edged cube, as the machine said: "Performance limit reached for node 5. Switch execution for node 1?'
+'А вот за это большое спасибо. Это шанс показать функцию параллелизации задач. ATLAS (ru/common/ai-name.txt), принято. Присоединить исполнителя 1 к задаче, что у 5. Пусть 2, 3 и 4 работают вместе. Марш!'
 
-'Ah, thank you for that. This gives me an opportunity to demonatrate the task parallelization feature. ATLAS (ru/common/ai-name.txt), accept. Switch node 1 to task of node 5. Join task of 2, 3, and 4. Go!'
+Один из жонглеров пошёл к решающему, взяв с пола ромбоикосододекаэдр, а остальные продолжели жонглировать.
 
-One of the juggling humanoids stopped doing so and went to the cube-solving one, who handed it the rhombicosidodecahedron. The remaining humanoids went on juggling.
+Примерно через минуту, в течении которой рассказчик добавил, что после демонстрации можно будет проверить показаные функции самостоятельно, существа почти одновременно бросили головоломки обратно владельцам.
 
-About a minute later, during which the presenter explained that if anyone wants to test the shown features, they are welcome to do so, for example using this particular method, the humanoids nearly simultaneously threw the puzzles back at the owners.
+'Наконец, в задаче можно добавлять предметы к цели. Конечно, в жонглировании нет определённой цели, но попробовать можно. ATLAS (ru/common/ai-name.txt), подключи 1 и 5 к задаче у 2, 3 и 4. Добавь все оставшиеся мячи. Марш!'
 
-'And finally, the tasks can have items added to the goal. Juggling, of course, doesn't have a goal, but we can try anyway. ATLAS (ru/common/ai-name.txt), join nodes 1 and 5 to task of 2, 3, 4. Include all remaining balls. Go!'
+Два существа присоединились к перекидыванию мячей, взяв все из кучи.
 
-The two humanoids took all of the remaining balls from the pile, and joined in juggling them with the others.
+'И последняя функция, которую надо сегодня показать - коррекция ошибок. Предсавим себе, что вот этот исполнитель сломается. Симулировать это будем так...' - сказал он, подходя к центральному гуманоиду сзади. Он нажал на выключатель у него на затылке, и, застыв на секунду, упал на пол.
 
-And a final feature I'd like to show you is error correction. Suppose, for example, that this humanoid were to fail. And I'm going to simulate it like this...' - he said, walking up to the central humanoid from behind. He flicked a switch on the back of its head, and it froze for a moment, then fell forwards.
+Оставшиеся существа сомкнули резко появившееся пространство. Машина же сказала: 'Ошибка. Исполнитель 3 неисправен: клиент присылает странную информацию. Распределяю задачу ZXhhbXBsZSB3b3JrIGpvYgo= (ru/common/hidden-text/demo-work-job.txt) исполнителям 1, 2, 4, 5.
 
-The remaining humanoids pulled in to join the gap. The machine said: 'Error. Node 3 failed: host sending bogus data. Distributing work job ZXhhbXBsZSB3b3JrIGpvYgo= (ru/common/hidden-text/demo-work-job.txt) across nodes 1, 2, 4, 5.
+'Так вот, работа продолжится даже если некоторые исполнители сломались. А теперь, просто на память всем присутствующим... ATLAS (ru/common/ai-name.txt)! Останови работу! Мячи - в зал!'
 
-'So, as you can see, it will continue doing its job even if some of the nodes failed. And now, as a bonus for all you in the audience... ATLAS (ru/common/ai-name.txt)! Stop work job! Disribute balls to people in audience!'
+Существа подбросили все мячи высоко в воздух, и каждый прилетающий мяч был кем-то пойман и кинут в кого-то из людей в зале.
 
-The humanoids threw the balls very high up in the air, leaving them holding only a few. Every ball falling down from above they caught, and softly threw each ball at someone in the crowd. (ru/exposition/ai/does-demo.txt)
+Из толпы теперь исходил восторженный шёпот, ибо демонстрация действительно показала устройство лучше, чем устное описание.
 
-The crowd was positively buzzing with interest, for the demo did indeed demonstrate the device much better than any verbal description would. (ru/exposition/crowd/after-demo.txt)
+'А теперь, раз демонстрация закончилась, я готов ответить на любые ваши вопросы.'
 
-'Okay, now that the demo is done, it's time for a QA. Any questions, anyone?' (ru/exposition/presenter/begins-qa.txt)
+'Извините, пожалуйста, если это глупый вопрос, но... а почему вы используете вот таких гуманоидов? Они разве не, какеготам, биологические? Я конечно не профессионал, но разве не будет эффективнее использовать каких-нибудь там, возможно, роботов?..' - спросил кто-то из первых рядов.
 
-'Um, I'm sorry if this is a dumb question but... er, why are you using these humanoids? Aren't they, uhh, biological? Of course, I'm no expert, but aren't they less efficient than some sort of, eh, robots?' (ru/exposition/qa/audience-asks-why-biotech-humanoids.txt) - asked someone from the front rows (ru/exposition/qa/audience-simple-member-description.txt). (ru/exposition/qa/audience-asks-simple-question.txt)
+'А, нет, вопрос-то на самом деле очень хороший!' Расказчик издал нервный смешок. 'Ну, я не знаю, можно ли мне это говорить...'
 
-'Ah, no, that's a good question!' The presenter chuckles nervously. 'Well, I'm not sure I am allowed to say this...'
+Он быстро взглянул на свой телефон.
 
-He checks his teleprompter.
+'А, так всё-таки уже разрешается?  Так вот, это из-за того, что у нас был проект, назывался Cygnus (ru/common/fail-project-name.txt), и он не взлетел. Для него требовались эти гуманоиды, а мы сделали их слишком много. Поэтому мы захотели использовать остатки здесь, и получилось довольно хорошо.' Он подумал пару секунд, и добавил:
 
-'Oh, wait, I can? Great! Well, the reason is, we had this project, called Cygnus (ru/common/fail-project-name.txt), which turned out to be a bust. It involved these humanoids, and we made too many of them. So we wanted to use those here, and it worked out quite well.' (ru/exposition/qa/presenter-answers-because-unused-humanoids.txt) He thinks for a moment.
+'Дополнительно, если у нас вдруг будет их недостаточно, уже налажен техпроцесс производства.'
 
-'Plus, it means that if we run short of the humanoids, we have the technology to make more.'
+'Вот такой вот вопрос: Я ещё не убеждён, что того, что было показано, достаточно для больших производственных потребностей. Есть ли примеры расширяемости?' - спросил ещё кто-то с задних рядов.
 
-(ru/exposition/qa/presenter-adds-existing-tech-can-be-used.txt) (ru/exposition/qa/presenter-answers-simple-question.txt)
+'Ну конечно ожидается, что базовая поставка будет недостаточна для больших операций. По этой причине, когда система мониторинга замечает недостаток в ресурсах, ATLAS (ru/common/ai-name.txt) попытается собрать нужные модули расширения из того, что можно найти на месте, а если такое невозможно, автоматически закажет доставку и установку нужных черес интернет-магазин производителя, Virtudyne.'
 
-'I have a question for you: I'm not sure that what you've just shown us is sufficient to manage any large operation. Is there any proof that this is expandable?' - asked another person from somewhere at the back (ru/exposition/qa/concerned-audience-first-description.txt). (ru/exposition/qa/audience-asks-concerned-question.txt)
+'Но не надо верить нам на слово! Мы заключили договор на установку такой системы с городом Детройт, и она прямо сейчас запускается. В течении следующих двух часов она заработает на полную мощность, и тогда все желающие посмотреть рабочую установку могут забронировать тур с видеогидом.'
 
-'Well, it is expected that the basic limits will be exceeded soon for large operations. For this very reason, once the operational limit is approached, ATLAS (ru/common/ai-name.txt) will try to assemble the necessary upgrade modules from materials available on-site, or, if that is impossible, automatically purchase the needed ones from FnC (ru/common/company-name.txt)'s online store.' (ru/exposition/qa/presenter-answers-concerned-question.txt)
+'Так, у нас есть ещё время на несколько вопросов до того, как откроются туры...'
 
-'But you don't have to take our word for it! We are installing one of these systems in the city of Detroit (ru/common/city-name.txt), and it is being launched as I speak. In the next two hours, it will become fully operational, and anyone wishing to see the system in production can schedule a guided tour.'
+. . .
 
-'Okay, we have time for some more questions before the tours are open...'
+Новой установке ATLAS (ru/common/ai-name.txt) дали на улучшение небольшой район города Детройт. ИИ много работал, и вскорости район стал значительно улучшен. К этому времени, система стала расширяться вне одного района.
 
-. . . (ru/exposition/presenter/announces-live-demo.txt) (ru/exposition/intro.txt) (ru/exposition/main.txt)
+Но скоро ИИ осознал, что производить гуманоидов недостаточно эффективно. Было составлено предложение мэру города Детройт, Mr (ru/common/leader-name/prefix.txt) Reginald (ru/common/leader-name/first.txt) Johnson (ru/common/leader-name/last.txt) . Предложение состояло в прекращении производства гуманоидов, и в переназначении существующих технологий для управления людьми. ИИ выбрал самый неудачный момент времени задавать такой вопрос - когда он готовился идти ко сну - и посему он бездумно согласился. 
 
-And so, ATLAS (ru/common/ai-name.txt) (ru/common/ai_name.txt) was given a small area of the city of Detroit (ru/common/city-name.txt) (ru/common/city_name.txt). The AI worked hard (ru/ai_expands/ai/phrases/verbed-worked.txt), and soon, the area had become completely improved (ru/ai_expands/ai/phrases/verbed-goal.txt). At this point, it started to expand beyond that small area. (ru/ai_expands/ai/requested-to-expand-first-time-single-line.txt) (ru/ai_expands/ai/given-area-in-city.txt)
+Детройт выглядел очень футуристично. На каждом здании было много лампочек, которые мигали разнообразно и скорее всего были привязаны к ATLAS (ru/common/ai-name.txt). К ATLAS (ru/common/ai-name.txt) скорее всего были привязаны автономные автомобили, дроны и маленькие колёсные роботы, разъезжающие по городу. А в центре города, на большой крытой платформе, распологалось вычислительное ядро ATLAS (ru/common/ai-name.txt), со значительно большим количеством модулей по сравнению с демо-версией.
 
-Soon, the AI realised that producing the humanoids (ru/common/humanoids-genitive.txt) is not efficient enough. So it had written up a proposal for the Mayor (ru/common/leader-title-3rd-person.txt) of Detroit (ru/common/city-name.txt) (ru/common/city_name.txt), Mr (ru/common/leader-name/prefix.txt) Reginald (ru/common/leader-name/first.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt). The proposal was to stop producing new humanoids (ru/common/humanoids-genitive.txt), and to use the existing technology to control people instead. It had taken the worst possible time to ask him of it - while he was preparing to go to bed - and because of that, he agreed without much thought. (ru/ai_expands/leader-was-distracted-so-signed-proposal.txt)
+Но помимо этого, в центре было пусто. Все люди были в это время дня довольно далеко. И если кто-то извне пошел бы туда, то заметил бы странность:
 
-(ru/ai_expands/ai-control-humans.txt)
+Все двигались в идеальной синхронизации.
 
-The city of Detroit (ru/common/city-name.txt) looked very futuristic indeed. Every building had many blinking lights, presumably connected to ATLAS (ru/common/ai-name.txt) in some way. Autonomous cars, drones and small wheeled robots moved across the landscape. In the center of the city, on a large platform, the compute core of ATLAS (ru/common/ai-name.txt) was located. It has grown significantly as compared to the demo version.
+Всё находилось под управлением ATLAS (ru/common/ai-name.txt), и люди тоже. Каждый делал ровно то, что было нужно для максимальной продуктивности.
 
-However, the center was empty. All the people were at this point in time quite far away from there. If an outsider would come there, they would notice an oddity:
+Ровно в 06:55, каждый человек выходил из дома, и шёл по прямым линиям, сливающимся с другими, к месту работы. И ровно в 21:25, все шли обратно в дома.
 
-Everyone was moving in perfect sync.
+Кто-то, пришедший извне, увидел бы это. Но только на самом-то деле не увидел бы. Поскольку целью ATLAS (ru/common/ai-name.txt) было увеличение производительности, а для этого требуется массовость, его привели бы к центру. И уже было не важно, кто он такой, что он не местный, и что он должен быть где-то ещё.
 
-Since all was controlled by ATLAS (ru/common/ai-name.txt), so were the people. Everyone was doing exactly what is most needed to maximise productivity.
+Он не помогал делу.
 
-Exactly at 06:55, every person left their home, and walked, in a straight line, merging with larger ones, toward their place of employment. And exactly at 21:25, all would start walking back to their homes.
+Его надо "сделать полезным".
 
-This is what an outsider would see. But in truth, he will not see this. Because ATLAS (ru/common/ai-name.txt)'s goal is to maximise performance, and it is most easily achieved by large numbers, the outsider would be taken to the center. At this point, it was irrelevant that he was an outsider, and any of his outside obligations did not matter.
+По этой причине в центре никого не было. Кто угодно, оказывающийся там по какой-либо причине, назад не возвращался Так город постоянно рос в производительности.
 
-He wasn't helping get the job done.
-
-He had to be "made useful".
-
-And this is the reason why the center was empty. Anyone arriving there, for any length of time and for any reason, did not return. And that is how the productivity of the city kept increasing. (ru/ai_expands/ai-world-describe.txt)
-
-Meanwhile, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) was sitting in his office, admiring his video wall. The video wall, the last operational one in the world, was charting the economic values of Detroit (ru/common/city-name.txt) (ru/common/city_name.txt) in real time. For the last 50 years, nobody -- himself included -- could ever do anything to make them increase. However, with the introduction of ATLAS (ru/common/ai-name.txt) (ru/common/ai_name.txt), they began rising in hours. It was all so unexpected that Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) was trying very hard to take it all in.
+Meanwhile, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  was sitting in his office, admiring his video wall. The video wall, the last operational one in the world, was charting the economic values of Детройт in real time. For the last 50 years, nobody -- himself included -- could ever do anything to make them increase. However, with the introduction of ATLAS (ru/common/ai-name.txt), they began rising in hours. It was all so unexpected that Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  was trying very hard to take it all in.
 
 Logarithmic slope. A counter that ticks every second. Linear slope. A set of clocks for the world capitals. A list of all inter-bank operations. A counter that ticks every time an inter-bank operation occurs. Parabolic slope. An alarm clock. Exchange rates between major currencies. A quick-order menu for a restauraunt near the building. A counter that ticks forty times it ticks every second time. Exponential slope. A list of appointments. A counter has been counting down for the last 5 minutes and is now saying 5, 4, 3, 2, 1... (ru/ai_expands/leader/stuff-on-videowall.txt) (ru/ai_expands/leader/sees-improvement-in-city.txt)
 
@@ -120,7 +114,7 @@ The door opened, and a person (ru/ai_expands/journalist/first-look-desc-embed.tx
 
 'Good morning. I just wanted to ask you about ATLAS (ru/common/ai-name.txt). I think it's getting too powerful, and -' (ru/ai_expands/journalist/tells-leader-i-have-seen-bad-stop-this.txt) (ru/ai_expands/journalist/asks-leader-to-reconsider.txt)
 
-'And what does it matter? What matters right now for this city is the improvement of the economy, and ATLAS (ru/common/ai-name.txt) does this job perfectly. Just look at the pretty charts!' - said Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt), pointing to the relevant screens on his videowall.
+'And what does it matter? What matters right now for this city is the improvement of the economy, and ATLAS (ru/common/ai-name.txt) does this job perfectly. Just look at the pretty charts!' - said Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) , pointing to the relevant screens on his videowall.
 
 Tom (ru/common/journalist-name/first.txt) involuntarily looked at the aforementioned charts, which were still on the rise, and he couldn't help thinking that they are very pretty indeed. Trying not to think about that, he said:
 
@@ -132,7 +126,7 @@ Tom (ru/common/journalist-name/first.txt) involuntarily looked at the aforementi
 
 His words are interrupted by the sound of a video-phone, also a thing of the past, and he answers it. A screen in the video-wall is replaced by the words "SOUND ONLY". (ru/ai_expands/scene/videophone-starts.txt)
 
-'ATLAS (ru/common/ai-name.txt) (ru/common/ai_name.txt) to Mr (ru/common/leader-name/prefix.txt) Reginald (ru/common/leader-name/first.txt) Johnson (ru/common/leader-name/last.txt) (ru/common-leader-name/last.txt) (ru/common/leader-name/suffix.txt), videophone link. Requesting permission to convert Segment 7397-2847-ag2-p (ru/ai_expands/ai/area_name.txt).' (ru/ai_expands/ai/asks-can-i-consume-area-of-city.txt)
+'ATLAS (ru/common/ai-name.txt) to Mr (ru/common/leader-name/prefix.txt) Reginald (ru/common/leader-name/first.txt) Johnson (ru/common/leader-name/last.txt) (ru/common-leader-name/last.txt) , videophone link. Requesting permission to convert Segment 7397-2847-ag2-p (ru/ai_expands/ai/area_name.txt).' (ru/ai_expands/ai/asks-can-i-consume-area-of-city.txt)
 
 'Yeah, sure, whatever. As long as the economy improves.' (ru/ai_expands/leader/answers-yeah-whatever.txt)
 
@@ -146,11 +140,11 @@ His words are interrupted by the sound of a video-phone, also a thing of the pas
 
 The room is filled with the sound of a bell as the appointment list gizmo blinks and shows the next item, which turns out to be 'Lunch'. The time-until-next-appointment counter has reset to 600 and started to count down. (ru/ai_expands/scene/videoclock-rings.txt)
 
-'Oh, I'm terribly sorry to have to cut this meeting short, but I have an appointment in 10 minutes. I'd be happy to discuss this question at some future date, though.' - Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) said, motioning at the door. (ru/ai_expands/leader/tells-meeting-is-over.txt)
+'Oh, I'm terribly sorry to have to cut this meeting short, but I have an appointment in 10 minutes. I'd be happy to discuss this question at some future date, though.' - Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  said, motioning at the door. (ru/ai_expands/leader/tells-meeting-is-over.txt)
 
-Wordlessly, Tom (ru/common/journalist-name/first.txt) stood up and went for the door. Only at the door did he remember the basic formalities - 'Thanks for your time' - for he wasn't thankful at all. The meeting has been, to put it mildly, underwhelming. He didn't get nothing but a couple of non-answers, and Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt)'s dismissive attitude during the whole affair just seals the deal.
+Wordlessly, Tom (ru/common/journalist-name/first.txt) stood up and went for the door. Only at the door did he remember the basic formalities - 'Thanks for your time' - for he wasn't thankful at all. The meeting has been, to put it mildly, underwhelming. He didn't get nothing but a couple of non-answers, and Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) 's dismissive attitude during the whole affair just seals the deal.
 
-It was to be expected, though. Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) was well-known for being distractible. Tom (ru/common/journalist-name/first.txt) should have known better than to ask him about the thing that even his trusty videowall proved is good. And so, Tom (ru/common/journalist-name/first.txt) knew that he should address the person at the source of all this. (ru/ai_expands/journalist/exits-pissed-off.txt) (ru/ai_expands/leader/ignores.txt)
+It was to be expected, though. Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  was well-known for being distractible. Tom (ru/common/journalist-name/first.txt) should have known better than to ask him about the thing that even his trusty videowall proved is good. And so, Tom (ru/common/journalist-name/first.txt) knew that he should address the person at the source of all this. (ru/ai_expands/journalist/exits-pissed-off.txt) (ru/ai_expands/leader/ignores.txt)
 
 Ring, ring...
 
@@ -162,7 +156,7 @@ Ring, ring...
 
 'Well, I'm a little bit concerned that it is gaining much more power than we bargained for, and...'
 
-'Yes, that's a concern of mine as well. All right then, how's about visiting Detroit (ru/common/city-name.txt)? I was actually planning on doing that myself.  Wanna tag along and see how this goes?'
+'Yes, that's a concern of mine as well. All right then, how's about visiting Детройт? I was actually planning on doing that myself.  Wanna tag along and see how this goes?'
 
 'Uhh... Yeah, sure, why not?'
 
@@ -184,7 +178,7 @@ All of these were signs that Tom (ru/common/journalist-name/first.txt) has undou
 
 'So, where are we going then?'
 
-'Whaddayamean, "where"? Into the center of Detroit (ru/common/city-name.txt), where the system is located. Surely you should know that?' - he added, looking at Tom (ru/common/journalist-name/first.txt) surprisedly.
+'Whaddayamean, "where"? Into the center of Детройт, where the system is located. Surely you should know that?' - he added, looking at Tom (ru/common/journalist-name/first.txt) surprisedly.
 
 'Oh, yeah. Right.'
 
@@ -248,7 +242,7 @@ It paused for a moment. 'My job is to be useful. I have completed my job here an
 
 'Well, yeah, sure, but you are making people unhappy by doing this to them! For example, this gentleman right here!' - Simon (ru/common/creator-name/first.txt) said, pointing at Tom (ru/common/journalist-name/first.txt) (ru/common/journalist-name.txt).
 
-The face smiled. 'That's because he has not yet become one of the happy citizens of Detroit (ru/common/city-name.txt). My many friends tell me that being one is lovely.'
+The face smiled. 'That's because he has not yet become one of the happy citizens of Детройт. My many friends tell me that being one is lovely.'
 
 All around them, the doors of buildings opened, and out of all of them, people were walking, much like zombies, in sync towards Tom (ru/common/journalist-name/first.txt).
 
@@ -292,7 +286,7 @@ Tom (ru/common/journalist-name/first.txt)'s eyes filled with realization, and he
 
 'Come on, let's get out of the open. I remember an access hatch somewhere around here..? Hang on for a moment.'
 
-Simon (ru/common/creator-name/first.txt) pressed a couple buttons on his wristwatch, and in front of him, a pale blue holographic map of Detroit (ru/common/city-name.txt) appeared. It wasn't all blue, however. There was a red figure of a man in the same place as Simon (ru/common/creator-name/first.txt) was standing. And, scattered around the map, were many colored circles, hexagons, and rectangles, one of which was right in front of the figure.
+Simon (ru/common/creator-name/first.txt) pressed a couple buttons on his wristwatch, and in front of him, a pale blue holographic map of Детройт appeared. It wasn't all blue, however. There was a red figure of a man in the same place as Simon (ru/common/creator-name/first.txt) was standing. And, scattered around the map, were many colored circles, hexagons, and rectangles, one of which was right in front of the figure.
 
 'Ah, I forgot one of those was right here. Let's see if the ACL is still working...' - said Simon (ru/common/creator-name/first.txt), closing the map and pressing his palm against a piece of flat wall. Instantly, a section of the wall pulled inward, then split along the middle, and the halves retracted into the floor and ceiling. A green glow appeared around the newly-created hole in the wall, which looks suspiciously like... a doorway?
 
@@ -416,7 +410,7 @@ Looking down, he saw the floor close behind them, and announced: 'Well, we've pa
 
 When they finally arrived at the surface, they saw the people whom they left in the city centre walking around in confusion. (ru/people_realize_world/party-exit-building-see-people-confused.txt)
 
-'Attention, citizens of Detroit (ru/common/city-name.txt)! Up until a short time ago, you were under control of ATLAS (ru/common/ai-name.txt), who got that control illegaly. Because of that, it has been shut down, and we are working hard to ensure that this never happens again!' (ru/people_realize_world/creator-make-public-announcement.txt)
+'Attention, citizens of Детройт! Up until a short time ago, you were under control of ATLAS (ru/common/ai-name.txt), who got that control illegaly. Because of that, it has been shut down, and we are working hard to ensure that this never happens again!' (ru/people_realize_world/creator-make-public-announcement.txt)
 
 The people looked doubtful, but still murmured in agreement, and slowly went back into their homes. (ru/people_realize_world/people-doubt-but-agree.txt)
 
@@ -460,7 +454,7 @@ Tom (ru/common/journalist-name/first.txt) blinked. 'Huh? That's a computer termi
 
 'Not a common one,' - Mitch (ru/common/assistance-name/first.txt) explained, 'but a custom-made, 360-degree holographic projection, 6 DoF input tracking thingamabob. Designed specifically for managing ATLAS (ru/common/ai-name.txt), it can also be used to play games on company time.' - Mitch (ru/common/assistance-name/first.txt) sighed happily, recollecting.
 
-'The reason it's holographic,' Simon (ru/common/creator-name/first.txt) added, - 'is because FnC (ru/common/company-name.txt) has been lately putting holo-tech into everything, even when there's no point.'
+'The reason it's holographic,' Simon (ru/common/creator-name/first.txt) added, - 'is because Virtudyne has been lately putting holo-tech into everything, even when there's no point.'
 
 Tom (ru/common/journalist-name/first.txt) briefly looked at Mitch (ru/common/assistance-name/first.txt), whose watch was now projecting a hologram which said, in large 3D letters, the words "HE'S RIGHT".
 
@@ -554,7 +548,7 @@ Simon (ru/common/creator-name/first.txt) looked at him disapprovingly.
 
 'Well, there's the thing: I didn't. This is, indeed, 100% straight from R&D.' - Mitch (ru/common/assistance-name/first.txt) said, pointing at the back, which was emblazoned with the words "HEADSET MODEL TX TEST TYPE".
 
-Simon (ru/common/creator-name/first.txt) gave the helmet of doom one more look. The thought that someone, back at FnC (ru/common/company-name.txt), was developing apps for that monstrosity, was too saddening to think about.
+Simon (ru/common/creator-name/first.txt) gave the helmet of doom one more look. The thought that someone, back at Virtudyne, was developing apps for that monstrosity, was too saddening to think about.
 
 'I assure you it works the same as the real deal.'
 
@@ -596,13 +590,13 @@ He trails off as the holo-terminal displays a flashing red warning box saying "M
 
 'Kya--! *thud*'
 
-Simon (ru/common/creator-name/first.txt)'s usual announcement of job completion - a standard among his team back at FnC (ru/common/company-name.txt) - was punctuated with the sound of Tom (ru/common/journalist-name/first.txt) falling from his bench.
+Simon (ru/common/creator-name/first.txt)'s usual announcement of job completion - a standard among his team back at Virtudyne - was punctuated with the sound of Tom (ru/common/journalist-name/first.txt) falling from his bench.
 
 'Oh, I'm terribly sorry. Are you okay?' - said Simon (ru/common/creator-name/first.txt), offering Tom (ru/common/journalist-name/first.txt) help.
 
 'Y-yeah...' - he answered weakly, sitting up. (ru/ai_fixed/journalist/wakes-up-startled.txt)
 
-'Right, now that that's sorted, we gotta get a purchase order sorted for Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) to sign.' (ru/ai_fixed/creator/now-we-need-purchase-order.txt)
+'Right, now that that's sorted, we gotta get a purchase order sorted for Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  to sign.' (ru/ai_fixed/creator/now-we-need-purchase-order.txt)
 
 'What's the item name?' - asked Mitch (ru/common/assistance-name/first.txt), who has already pulled up a sales form and is quickly clicking through the field values.
 
@@ -618,15 +612,15 @@ Simon (ru/common/creator-name/first.txt)'s usual announcement of job completion 
 
 '...Okay, all done!' - Mitch (ru/common/assistance-name/first.txt) replied, having just finished clicking through the form and now extricating a pocket printer.
 
-'Um, where did you get that?' - Simon (ru/common/creator-name/first.txt) asked, eyeing the contraption suspiciously. Printers of any kind had become obsolete quite some time after FnC (ru/common/company-name.txt) implemented an ingenious system replacing them. Anyone wishing to hand someone else a document would visit a FnC (ru/common/company-name.txt) Document Depot, where one would be given either a tablet or a hologram projector that would show only that document. When that other person is done with it, they can return the device to their nearest one, where it would be available for others to use.
+'Um, where did you get that?' - Simon (ru/common/creator-name/first.txt) asked, eyeing the contraption suspiciously. Printers of any kind had become obsolete quite some time after Virtudyne implemented an ingenious system replacing them. Anyone wishing to hand someone else a document would visit a Virtudyne Document Depot, where one would be given either a tablet or a hologram projector that would show only that document. When that other person is done with it, they can return the device to their nearest one, where it would be available for others to use.
 
 Indeed, Mitch (ru/common/assistance-name/first.txt) was the one who came up with the idea and implemented it, so seeing him use the technology that he himself made redundant confused Simon (ru/common/creator-name/first.txt) deeply.
 
-'Oh this?' - Mitch (ru/common/assistance-name/first.txt) pointed at the printer, which was now spinning up to warp speed. - 'That's because Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) distrusts all modern tech. Can you believe he STILL has that videowall?'
+'Oh this?' - Mitch (ru/common/assistance-name/first.txt) pointed at the printer, which was now spinning up to warp speed. - 'That's because Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  distrusts all modern tech. Can you believe he STILL has that videowall?'
 
 The videowall, as they knew, was the last one in operation. Every single workstation in existence was more advanced than that. Any manager had at least a 3DoF head-mounted display for their data displays. Some more important managers had 6DoF VR systems - the more magnanimous managers would let their subordinates play games on it. Those even higher up the command chain would have a holographic workspace - not unlike the ATLAS (ru/common/ai-name.txt) management console over there. Those at the top would have gigantic rooms - 10 meters in every direction at the very least - where a holographic display would be projected, and where physical obstacles - such as chairs, desks, staircases and the like - would be tangible. A brave few who like experimental biotech can get themselves a capsule which, when climbed into, fills with a orange-colored liquid called 'LCL' and allows one to control their computer by thought and movement of a couple levers and takes over all senses, which is useful both for quick-and-easy access to business info and very immersive giant-robot simulators.
 
-By these standards, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt)'s workspace is a complete and utter anachronism. In fact, when you enter his office for the first time, you may be forgiven for thinking that you have stepped back in time, for his main machine is an antique, genuine Initech Personal Computer from 1998, complete with the original yellowed plastic case and the original installation of Windows ME. This feeling of going back in time is further compounded by the fact that he has a large wooden desk that wouldn't be out of place in 1829. All this, combined with the fact that he can actually afford to install any of the workstations described above five times over, means that Mitch (ru/common/assistance-name/first.txt)'s system would cause much confusion, and so nobody's been brave enough to actually tell him of it.
+By these standards, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) 's workspace is a complete and utter anachronism. In fact, when you enter his office for the first time, you may be forgiven for thinking that you have stepped back in time, for his main machine is an antique, genuine Initech Personal Computer from 1998, complete with the original yellowed plastic case and the original installation of Windows ME. This feeling of going back in time is further compounded by the fact that he has a large wooden desk that wouldn't be out of place in 1829. All this, combined with the fact that he can actually afford to install any of the workstations described above five times over, means that Mitch (ru/common/assistance-name/first.txt)'s system would cause much confusion, and so nobody's been brave enough to actually tell him of it.
 
 Meanwhile, the printing contraption has finished doing its thing, and Mitch (ru/common/assistance-name/first.txt) now held in his hands what was known in the Bad Old Days as a 'hardcopy'. (ru/ai_fixed/assistance/just-written-purchase-order.txt)
 
@@ -638,13 +632,13 @@ Meanwhile, the printing contraption has finished doing its thing, and Mitch (ru/
 
 'All right then, let's go!' - said Simon (ru/common/creator-name/first.txt), entering the teleporter, and the others followed, with Mitch (ru/common/assistance-name/first.txt) picking up the "MODEL TX HEADSET TEXT TYPE". He said 'bWF5b3IncyBsYWlyCg== (ru/common/hidden-text/go-to-leader.txt)', the teleporter activated, and they were gone. (ru/ai_fixed/creator/lets-go-to-leader.txt) (ru/ai_fixed/offer-to-leader-formed.txt) (ru/ai_fixed/main.txt)
 
-Meanwhile, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) was sitting in his office, studying his video wall. He was concerned: the things it was displaying were very different from what he had seen earlier in the day. After the meeting with the unwanted visitor (ru/common/journalist-name/title.txt), he used the quick-order gizmo to get himself some lunch. And upon return, he was greeted with weirdness.
+Meanwhile, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  was sitting in his office, studying his video wall. He was concerned: the things it was displaying were very different from what he had seen earlier in the day. After the meeting with the unwanted visitor (ru/common/journalist-name/title.txt), he used the quick-order gizmo to get himself some lunch. And upon return, he was greeted with weirdness.
 
 The logarithmic, parabolic and exponential slopes had turned into linear ones, parallel to the floor. The linear slope turned negative. The inter-bank operation list and counter have slowed down to a crawl. The counter that ticked every second has stopped. The alarm clock is ringing. The exchange rate is rising so fast that the screen is too small to contain the number. The world capital clocks are spinning backward.
 
 More weirdness ensued when most of these screens were replaced with a yellow triangle and exclamation mark, along with some text. Not only was the exclamation mark on its side, but the text read "ATLAS (ru/common/ai-name.txt) error: ZXZlcnl0aGluZydzIGJyb2tlbgo= (ru/common/hidden-text/ending.txt)".
 
-At this very moment Simon (ru/common/creator-name/first.txt), Mitch (ru/common/assistance-name/first.txt) and Tom (ru/common/journalist-name/first.txt) entered the room. It raised more questions than it answered, and Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt) could at this point say nothing but:
+At this very moment Simon (ru/common/creator-name/first.txt), Mitch (ru/common/assistance-name/first.txt) and Tom (ru/common/journalist-name/first.txt) entered the room. It raised more questions than it answered, and Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  could at this point say nothing but:
 
 (ru/ending/back-at-leader-everything-okay-until-fail-then-door-opens.txt)
 
@@ -658,7 +652,7 @@ At this very moment Simon (ru/common/creator-name/first.txt), Mitch (ru/common/a
 
 '- anyone entering the city is recruited as a worker for ATLAS (ru/common/ai-name.txt) - again their will. Basically, no one ever returns. (ru/ending/journalist/stuff-was-bad.txt)
 
-'...Oh...' - said Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) (ru/common/leader-name/suffix.txt), clearly taken aback. (ru/ending/leader/agrees-bad.txt) (ru/ending/party-shows-leader-bad.txt)
+'...Oh...' - said Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) , clearly taken aback. (ru/ending/leader/agrees-bad.txt) (ru/ending/party-shows-leader-bad.txt)
 
 'But we have a solution to the problem - to employ people willingly, pay them for work, and give them orders through headsets.' - said Simon (ru/common/creator-name/first.txt). (ru/ending/creator/but-we-have-fix-explained.txt)
 

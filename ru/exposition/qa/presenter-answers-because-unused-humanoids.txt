@@ -1,10 +1,9 @@
-'Ah, no, that's a good question!'
-The presenter chuckles nervously.
-'Well, I'm not sure I am allowed to say this...'
+'А, нет, вопрос-то на самом деле очень хороший!'
+Расказчик издал нервный смешок.
+'Ну, я не знаю, можно ли мне это говорить...'
 
-He checks his teleprompter.
+Он быстро взглянул на свой телефон.
 
-'Oh, wait, I can? Great! Well, the reason is, we had this project, called {common/fail-project-name}, which turned out to be a bust.
-It involved these humanoids, and we made too many of them.
-So we wanted to use those here, and it worked out quite well.'
-(ru/exposition/qa/presenter-answers-because-unused-humanoids.txt)
+'А, так всё-таки уже разрешается?  Так вот, это из-за того, что у нас был проект, назывался {common/fail-project-name}, и он не взлетел.
+Для него требовались эти гуманоиды, а мы сделали их слишком много.
+Поэтому мы захотели использовать остатки здесь, и получилось довольно хорошо.'

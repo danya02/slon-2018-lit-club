@@ -1,3 +1,2 @@
-'Well, it is expected that the basic limits will be exceeded soon for large operations.
-For this very reason, once the operational limit is approached, {common/ai-name} will try to assemble the necessary upgrade modules from materials available on-site, or, if that is impossible, automatically purchase the needed ones from {common/company-name}'s online store.'
-(ru/exposition/qa/presenter-answers-concerned-question.txt)
+'Ну конечно ожидается, что базовая поставка будет недостаточна для больших операций.
+По этой причине, когда система мониторинга замечает недостаток в ресурсах, {common/ai-name} попытается собрать нужные модули расширения из того, что можно найти на месте, а если такое невозможно, автоматически закажет доставку и установку нужных черес интернет-магазин производителя, {common/company-name}.'

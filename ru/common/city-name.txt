@@ -1,2 +1,1 @@
-Detroit
-(ru/common/city-name.txt)
+Детройт

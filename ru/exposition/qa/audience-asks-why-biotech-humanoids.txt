@@ -1,4 +1,3 @@
-Um, I'm sorry if this is a dumb question but... er, why are you using these humanoids?
-Aren't they, uhh, biological?
-Of course, I'm no expert, but aren't they less efficient than some sort of, eh, robots?'
-(ru/exposition/qa/audience-asks-why-biotech-humanoids.txt)
+Извините, пожалуйста, если это глупый вопрос, но... а почему вы используете вот таких гуманоидов?
+Они разве не, какеготам, биологические?
+Я конечно не профессионал, но разве не будет эффективнее использовать каких-нибудь там, возможно, роботов?..'

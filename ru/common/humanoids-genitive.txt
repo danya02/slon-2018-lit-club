@@ -1,2 +1,1 @@
-humanoids
-(ru/common/humanoids-genitive.txt)
+гуманоидов

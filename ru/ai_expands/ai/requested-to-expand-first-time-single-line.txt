@@ -1,2 +1,1 @@
-At this point, it started to expand beyond that small area.
-(ru/ai_expands/ai/requested-to-expand-first-time-single-line.txt)
+К этому времени, система стала расширяться вне одного района.

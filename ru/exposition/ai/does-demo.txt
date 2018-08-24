@@ -1,48 +1,47 @@
-As soon as he said the last word, the LED display switched to the word "DEMO" as a section of the floor retracted. Out came five humanoid creatures and a tower of juggling balls.
+Как только он произнёс последнее слово, экран заполнился словом "ДЕМО", а часть пола открылась. Оттуда вылезли пять гуманоидных существ, аккуратно поднимая на верёвках стол с пирамидой шариков для жонглирования.
 
-The screen switched to a picture of a face, which said: 'Awaiting orders.'
+На экране появилось изображение лица, произнёсшего: 'Ожидаю команд.'
 
-'One of the most difficult tasks to be done collaboratively is juggling, as one has to sync movements with everyone else to achieve the best results.
-However, {common/ai-name} handles this with ease. Observe!' - he said to the crowd, then faced the machine and said:
+'Как любой цирковой артист вам скажет, совместное жонглирование - очень сложная задача, так как надо двигаться синхронно с другими для наилучших результатов.
+Но для системы {common/ai-name} это не представляет никаких трудностей. Смотрите!' - сказал он толпе, затем повернулся к машине и сказал:
 
-'{common/ai-name}, juggling, 10 balls, three nodes. Go!'
+'{common/ai-name}, запусти "Жонглирование", 10 мячей, три исполнителя. Марш!'
 
-Three humanoids out of five reached forward, taking each three balls, save for the central one, who took four.
-They started juggling, gradually moving each ball from left to right, then back.
-The machine said: 'Executing. Work job is {common/hidden-text/demo-work-job}'.
+Два из пяти существ достали из кучи три шара, а один - четыре.
+Отойдя на безопасное расстояние, они начали перекидываться шарами друг с другом.
+Агрегат тем временем произнёс: 'Выполняю. Задача имеет идентификатор {common/hidden-text/demo-work-job}'.
 
-'And the beauty of it all is, this system can dynamically allocate execution. {common/ai-name}, drop node 1!'
+'Красота же этой системы заключается в том, что можно динамически распределять нагрузку. {common/ai-name}, останови исполнителя 1!'
 
-The middle humanoid walked backwards, and the other two continued juggling the ten balls.
+Существо посередине отошло назад, оставив других двух с деасятью мячами.
 
-'And it can mirror actions done by some nodes on other ones. {common/ai-name}, mirror actions, node 2 and 3 to node 1 and 4. Go!'
+'И здесь работает зеркалирование действий, выполняемых одними, к другим. {common/ai-name}, настроить зеркало, 2 и 3 к 1 и 4. Марш!'
 
-Two humanoids took out ten more balls from the pile, and started juggling in sync with the other two.
+TДва существа достали ещё десять мячей из стопки и, встав рядом с первой парой стали жонглировать синхронно с ними.
 
-'But don't think it can do only one thing at a time! I have here...' - he said, reaching into his back pocket and pulling out - 'an unsolved Rubic's Cube.
-Let's see how fast it can handle this. {common/ai-name}, node 5, catch, solve, and return!'
+'Но, конечно же, можно делать несколько действий одновременно! У меня с собой...' - сказал он, доставая из заднего кармана - 'нерешённый кубик Рубика.
+Интересно, сколько времени потребуется на это? {common/ai-name}, исполнитель 5, лови, решай, возвращай!'
 
-The remaining humanoid walked forward and assumed a catching stance. The presenter threw the cube at it, intentionally missing, yet the humanoid caught it anyway.
-Around 8 secinds pass, and he throws the cube back. The presenter showed everyone that the cube is, indeed, solved.
+Оставшееся существо прошло вперёд и приготовилось ловить. Рассказчик кинул кубик, наамеренно промахиваясь, но существо всё равно поймало.
+Примерно 8 секунд спустя, кубик летит обратно, и рассказчик показывает всем, что кубик действительно решён.
 
-A couple hecklers from the audience yelled 'Solve THIS!', then threw a couple of other exotic Rubic's puzzles, including what appeared to be a 20x20x20 cube and something called a Rubic's Rhombicosidodecahedron.
-The humanoid caught them all and started solving the 20-edged cube, as the machine said: "Performance limit reached for node 5. Switch execution for node 1?'
+Пара зрителей из зала крикнули 'А слабо ТАКОЕ?' и кинули на сцену парочку более экзотических головоломок, в том числе кубик 20x20x20 и что-то под названием "Ромбоикосододекаэдр Рубика".
+Все были пойманы существом и положены на пол, двадцатисторонний кубик начал решаться, а машина произнесла: "Лимит производительности достигнут для исполнителя 5. Переназначить задачу для исполнителя 1?'
 
-'Ah, thank you for that. This gives me an opportunity to demonatrate the task parallelization feature. {common/ai-name}, accept. Switch node 1 to task of node 5. Join task of 2, 3, and 4. Go!'
+'А вот за это большое спасибо. Это шанс показать функцию параллелизации задач. {common/ai-name}, принято. Присоединить исполнителя 1 к задаче, что у 5. Пусть 2, 3 и 4 работают вместе. Марш!'
 
-One of the juggling humanoids stopped doing so and went to the cube-solving one, who handed it the rhombicosidodecahedron. The remaining humanoids went on juggling.
+Один из жонглеров пошёл к решающему, взяв с пола ромбоикосододекаэдр, а остальные продолжели жонглировать.
 
-About a minute later, during which the presenter explained that if anyone wants to test the shown features, they are welcome to do so, for example using this particular method, the humanoids nearly simultaneously threw the puzzles back at the owners.
+Примерно через минуту, в течении которой рассказчик добавил, что после демонстрации можно будет проверить показаные функции самостоятельно, существа почти одновременно бросили головоломки обратно владельцам.
 
-'And finally, the tasks can have items added to the goal. Juggling, of course, doesn't have a goal, but we can try anyway. {common/ai-name}, join nodes 1 and 5 to task of 2, 3, 4. Include all remaining balls. Go!'
+'Наконец, в задаче можно добавлять предметы к цели. Конечно, в жонглировании нет определённой цели, но попробовать можно. {common/ai-name}, подключи 1 и 5 к задаче у 2, 3 и 4. Добавь все оставшиеся мячи. Марш!'
 
-The two humanoids took all of the remaining balls from the pile, and joined in juggling them with the others.
+Два существа присоединились к перекидыванию мячей, взяв все из кучи.
 
-And a final feature I'd like to show you is error correction. Suppose, for example, that this humanoid were to fail. And I'm going to simulate it like this...' - he said, walking up to the central humanoid from behind. He flicked a switch on the back of its head, and it froze for a moment, then fell forwards.
+'И последняя функция, которую надо сегодня показать - коррекция ошибок. Предсавим себе, что вот этот исполнитель сломается. Симулировать это будем так...' - сказал он, подходя к центральному гуманоиду сзади. Он нажал на выключатель у него на затылке, и, застыв на секунду, упал на пол.
 
-The remaining humanoids pulled in to join the gap. The machine said: 'Error. Node 3 failed: host sending bogus data. Distributing work job {common/hidden-text/demo-work-job} across nodes 1, 2, 4, 5.
+Оставшиеся существа сомкнули резко появившееся пространство. Машина же сказала: 'Ошибка. Исполнитель 3 неисправен: клиент присылает странную информацию. Распределяю задачу {common/hidden-text/demo-work-job} исполнителям 1, 2, 4, 5.
 
-'So, as you can see, it will continue doing its job even if some of the nodes failed. And now, as a bonus for all you in the audience... {common/ai-name}! Stop work job! Disribute balls to people in audience!'
+'Так вот, работа продолжится даже если некоторые исполнители сломались. А теперь, просто на память всем присутствующим... {common/ai-name}! Останови работу! Мячи - в зал!'
 
-The humanoids threw the balls very high up in the air, leaving them holding only a few. Every ball falling down from above they caught, and softly threw each ball at someone in the crowd.
-(ru/exposition/ai/does-demo.txt)
+Существа подбросили все мячи высоко в воздух, и каждый прилетающий мяч был кем-то пойман и кинут в кого-то из людей в зале.

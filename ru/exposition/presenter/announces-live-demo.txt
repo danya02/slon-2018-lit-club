@@ -1,8 +1,7 @@
-'But you don't have to take our word for it!
-We are installing one of these systems in the city of {common/city-name}, and it is being launched as I speak.
-In the next two hours, it will become fully operational, and anyone wishing to see the system in production can schedule a guided tour.'
+'Но не надо верить нам на слово!
+Мы заключили договор на установку такой системы с городом {common/city-name}, и она прямо сейчас запускается.
+В течении следующих двух часов она заработает на полную мощность, и тогда все желающие посмотреть рабочую установку могут забронировать тур с видеогидом.'
 
-'Okay, we have time for some more questions before the tours are open...'
+'Так, у нас есть ещё время на несколько вопросов до того, как откроются туры...'
 
 . . .
-(ru/exposition/presenter/announces-live-demo.txt)
