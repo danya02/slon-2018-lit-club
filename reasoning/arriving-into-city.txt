@@ -10,11 +10,11 @@ In the middle, a large rectangle was marked with luminescent paint, and two stic
 
 "This must be where {common/creator-name/first} lives," - thought {common/journalist-name/first}, rather astutely.
 
-'Ah, no worries. In fact, I'm quite glad someone finally noticed a problem.
+'Ah, no worries. In fact, I'm quite glad someone finally noticed a problem.'
 
 'So, where are we going then?'
 
-'Whaddayamean, "where"? Into the center of {common/city-name}, where the system is located. Surely you should know that?' - he added, looking at {common/journalist-name/first} surprisedly.
+'Whaddayamean, "where"? Into the center of {common/city-name}, where the system is located. Didn't I tell you a few minutes ago?' - he added, looking at {common/journalist-name/first} surprisedly.
 
 'Oh, yeah. Right.'
 
@@ -22,11 +22,9 @@ In the middle, a large rectangle was marked with luminescent paint, and two stic
 
 'Um, if we're leaving right away, why did you call me here?' - {common/journalist-name/first} wondered.
 
-'Oh, that's just so I know you're for real,' - {common/creator-name/first} explained, - 'as there were instances where some prank callers caused me problems.'
+'Oh, that's just so I know you're for real,' - {common/creator-name/first} said, - 'as there were instances where some prank callers caused me problems.' - He looked uncomfortable at saying that last phrase, and {common/journalist-name/first} decided not to pursue the issue further.
 
-'Ah, right.'
-
-'So, before going on a mission like this, I have to first check if anyone else would come too - which you are, I think - then...'
+'So now, before going on a mission like this, I have to first check if anyone else would come too - which you are, I think - then...'
 
 He reached into the computer corner, extracting a backpack.
 
