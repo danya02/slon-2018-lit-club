@@ -1,21 +1,20 @@
-Ring, ring...
+Дзынь, дзынь...
 
-'Hello, this is {common/creator-name/first}. How may I help you?'
+'Здравствуйте, это {common/creator-name/first}, главный архитектор системы {common/ai-name} компании {common/company-name}. Чем могу быть полезен?'
 
-'Good morning, {common/creator-name/first}. This is {common/journalist-name/first}. I just wanted to ask you about {common/ai-name}.'
+'Доброе утро, {common/creator-name/first}. Меня зовут {common/journalist-name/first}. Мне просто хотелось задать вопрос по поводу {common/ai-name}.'
 
-'Ah, sure. Go on then.'
+'А, да. Конечно, и что такое?'
 
-'Well, I'm a little bit concerned that it is gaining much more power than we bargained for, and...'
+'Ну, мне просто не комфортно, что у него значительно больше власти, чем планировалось, и...'
 
-'Yes, that's a concern of mine as well. All right then, how's about visiting {common/city-name}? I was actually planning on doing that myself. 
-Wanna tag along and see how this goes?'
+'Да, я тоже об этом думал. Ладно, как насчёт сгонять в {common/city-name}? Я как раз туда собирался. 
+Хочешь пойти вместе и посмотреть, как получится?'
 
-'Uhh... Yeah, sure, why not?'
+'Эммм... Ну ладно, конечно, почему бы и нет?'
 
-{common/creator-name/first} sounds releived. 'Great! Then, could you please take the nearest teleport station to coords {common/hidden-text/journalist-to-creator-coords-embed}? Thanks!'
+'Отлично! Тогда ты можешь на ближайшей телепортационной станции сказать, что тебе надо на координаты {common/hidden-text/journalist-to-creator-coords-embed}? Спасибо!'
 
-Click...
+Щёлк...
 
 . . .
-(ru/ai_expands/journalist/calls-creator-explains-problem.txt)

@@ -1,9 +1,10 @@
-Wordlessly, {common/journalist-name/first} stood up and went for the door.
-Only at the door did he remember the basic formalities - 'Thanks for your time' - for he wasn't thankful at all.
-The meeting has been, to put it mildly, underwhelming.
-He didn't get nothing but a couple of non-answers, and {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix}'s dismissive attitude during the whole affair just seals the deal.
+Не находя, что сказать, {common/journalist-name/first} встал и пошёл к двери.
+Только уже взявшись за ручку двери, он вспомнил про вежливость - 'Благодарю вас за уделённое время' - ибо он не был благодарен совсем.
+Встреча была, мягко скажем, разочаровывающим.
+Он не получил в результате ни одного ответа на свои вопросы, а то, как {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} не посчитал это всё заслуживающим внимания закрепляло ощущение бессмысленности.
 
-It was to be expected, though. {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} was well-known for being distractible.
-{common/journalist-name/first} should have known better than to ask him about the thing that even his trusty videowall proved is good.
-And so, {common/journalist-name/first} knew that he should address the person at the source of all this.
-(ru/ai_expands/journalist/exits-pissed-off.txt)
+Но этого следовало ожидать. {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} был известен отвлекаемостью.
+И {common/journalist-name/first} должен был понимать, что с ним бесполезно обсуждать то, качество чего подтверждала даже его видеостена.
+И поэтому {common/journalist-name/first} понял, что должен связаться с более адекватным человеком.
+
+. . .

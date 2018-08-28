@@ -1,2 +1,1 @@
-'I'm still the one who does the actual turning of the keys, so it's fine.'
-(ru/ai_expands/leader/responds-can-decline-at-any-time.txt)
+'Но я все равно имею право отказаться в любой момент, поэтому всё идёт по плану.'

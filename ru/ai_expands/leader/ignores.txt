@@ -7,4 +7,3 @@
 {ai_expands/leader/tells-meeting-is-over}
 
 {ai_expands/journalist/exits-pissed-off}
-(ru/ai_expands/leader/ignores.txt)

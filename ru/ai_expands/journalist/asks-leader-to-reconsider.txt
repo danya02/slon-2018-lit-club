@@ -1,4 +1,3 @@
 {ai_expands/leader/greets-journalist}
 
 {ai_expands/journalist/tells-leader-i-have-seen-bad-stop-this}
-(ru/ai_expands/journalist/asks-leader-to-reconsider.txt)

@@ -1,3 +1,2 @@
-The AI pauses for a moment. '{reasoning/ai/logic-puzzle-answer-trailing-off}
-Error: This statement is self-contradictory. Does not-not-not-n-not compute.'
-(ru/reasoning/ai/thinks-hard-encounters-problem.txt)
+ИИ призадумалось. '{reasoning/ai/logic-puzzle-answer-trailing-off}
+Ошибка: Это утверждение самопротиворечиво. Не под-не поддаё-поддает-НЕ поддаётся вы-вычи-вычислению.'

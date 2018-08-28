@@ -1,5 +1,4 @@
-'Clock cycle limit reached. Compute job is {common/hidden-text/reasoning-escaping-one-liner}.
-Warning: targets have disappeared in less than 20 ticks.
-Pursuit status: overridden by efficiency monitor.'
+'Лимит вычислительных циклов достигнут для вычислительной задачи {common/hidden-text/reasoning-escaping-one-liner}.
+Внимание, цель исчезла из обозримого пространства за меньше чем 20 циклов.
+Состояние поиска: отменено по оценке эффективности.'
 
-(ru/reasoning/ai/pauses-processing-notices-gone.txt)

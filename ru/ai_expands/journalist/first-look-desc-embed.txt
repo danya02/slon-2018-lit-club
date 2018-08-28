@@ -1,2 +1,1 @@
-a person
-(ru/ai_expands/journalist/first-look-desc-embed.txt)
+незнакомый человек

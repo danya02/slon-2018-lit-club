@@ -5,4 +5,4 @@
 {ai_expands/leader/answers-yeah-whatever}
 
 {ai_expands/ai/thanks-clicks-off}
-(ru/ai_expands/ai/interrupts-with-request-to-consume.txt)
+

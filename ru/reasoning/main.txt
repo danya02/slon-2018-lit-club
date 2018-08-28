@@ -3,4 +3,3 @@
 {reasoning/normal-talks}
 
 {reasoning/attempt-at-logic-puzzle}
-(ru/reasoning/main.txt)

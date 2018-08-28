@@ -1,2 +1,2 @@
-'Good morning. I just wanted to ask you about {common/ai-name}. I think it's getting too powerful, and -'
-(ru/ai_expands/journalist/tells-leader-i-have-seen-bad-stop-this.txt)
+'Здравствуйте. Я просто хотел задать вам вопрос про {common/ai-name}. Я думаю, что у него слишком много власти, и -'
+

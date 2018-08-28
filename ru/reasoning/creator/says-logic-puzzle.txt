@@ -1,4 +1,3 @@
-He sighs, then faces the machine, speaking loud and clear:
+Со вздохом он поворачивается к машине, говоря так, чтобы быть хорошо услышанным:
 
-'{common/ai-name}, before you proceed, I would like to say: {reasoning/creator/logic-puzzle}.'
-(ru/reasoning/creator/says-logic-puzzle.txt)
+'{common/ai-name}, перед тем, как ты продолжишь, я должен сказать: {reasoning/creator/logic-puzzle}.'

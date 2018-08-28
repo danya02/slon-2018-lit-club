@@ -1,52 +1,49 @@
-'Oh, I'm so glad you could make it!' - said {common/creator-name/first}, when {common/journalist-name/first} stumbled out of the teleporter.
+'Ох, я так рад, что ты всё-таки пришёл!' - сказал {common/creator-name/first}, как только {common/journalist-name/first} вывалился из телепортатора.
 
-'Thanks for having me on such short notice.' - he replied, looking around him.
+'Спасибо за то, что вы так коро меня приняли.' - он ответил, осматриваясь.
 
-One corner was occupied with a multi-monitor computer setup.
-In another corner was a server rack, about three-quarters full.
-Yet another corner housed a large workbench, with several filing cabinets full of electronic parts standing on either side and a camera hanging from above.
-The final corner housed the teleporter that he walked out of, and a large refrigerator.
-In the middle, a large rectangle was marked with luminescent paint, and exactly nothing was inside.
+Один угол был занят компьютерным столом с многочисленными мониторами.
+В другом углу была серверная стойка, занятая гле-то на три четверти.
+Ещё в одном углу был рабочий стол, с несколькими шкафами электронных запчастей по обе стороны и камерой, висящей с потолка.
+В последнем углу стоял тот телепортатор, из которого он вышел, а также большой холодильник.
+В середине был большой светящийся прямоугольник, и два устройства в форме палочки с кольцом сверху лежали рядом с каким-то головным убором, от которого отходил провод в компьютерный угол.
 
-All of these were signs that {common/journalist-name/first} has undoubtedly arrived at {common/creator-name/first}'s home.
+"Должно быть, тут {common/creator-name/first} и живёт," - довольно рассудительно заметил {common/journalist-name/first}.
 
-'Ah, no worries. In fact, I'm quite glad someone finally noticed a problem.
+'А, не проблема. Я на самом деле очень рад, если кто-то замечает проблемы.'
 
-'So, where are we going then?'
+'Хорошо, тогда мы куда идём?'
 
-'Whaddayamean, "where"? Into the center of {common/city-name}, where the system is located. Surely you should know that?' - he added, looking at {common/journalist-name/first} surprisedly.
+'В смысле, "куда"? В {common/city-name} же, где установлена система. Разве я тебе не сказал пару мину назад?' -  он добавил с удивлением.
 
-'Oh, yeah. Right.'
+'А, да. Точно.'
 
-'So we just have to walk into this teleporter, and tell it we want to go there.'
+'Поэтому стоит только зайти в телепортатор и сказать, что нам надо туда.'
 
-'Um, if we're leaving right away, why did you call me here?' - {common/journalist-name/first} wondered.
+'Но если мы сразу идём туда, то зачем ты меня сюда позвал?' - {common/journalist-name/first} поинтересовался.
 
-'Oh, that's just so I know you're for real,' - {common/creator-name/first} explained, - 'as there were instances where some prank callers caused me problems.'
+'А, это просто чтобы удостовериться, что ты правда со мной,' - сказал {common/creator-name/first}, - 'так как были случаи, когда шутники вызывали у меня проблемы.' - Ему по виду было некомфортно вспоминать, и {common/journalist-name/first} решил дальше не расспрашивать.
 
-'Ah, right.'
+'И теперь, перед тем, как идти на такую операцию, мне надо удостовериться, что кто-то ещё пойдёт со мною -- это ты, мне кажется -- потом...'
 
-'So, before going on a mission like this, I have to first check if anyone else would come too - which you are, I think - then...'
+Он достал из компьютерного угла рюкзак.
 
-He reached into the computer corner, extracting a backpack.
+'...взять вот этот ноутбук - на случай, если потребуется что-то написать - и, наконец...'
 
-'...take this dev machine - y'know, for dev stuff - and, finally...'
+Сзади серверной стойки он вытащил упаковку лапши быстрого приготовления, мгновенно открыл, отделил половину и стал жевать.
 
-From behind the server rack, he took out a packet of instant noodles, immediately opened it, split off one half and started chewing on it.
+'...перекусить. А что? Сухими они лучше!' - он добавил, увидев его удивлённое выражение лица. - 'Хочешь попробовать?' - он продолжил, протягивая остальную половину.
 
-'...have some food. What? They're better dry!' - he added defensively, seeing {common/journalist-name/first}'s bewildered expression. - 'Wanna try some?' - he said, offering the remaining half to him.
+'Н-не, спасибо, думаю обойдусь.'
 
-'N-no thanks, I think I'll pass.'
+'Ну ладно, но говорю всё же, ты не знаешь, от чего отказываешься.' - он сказал, просовывая остаток в отверстие в хородильнике, которое - как точно подметил {common/journalist-name/first} - выглядело, как будто было пропилено после продажи, вполне возможно именно с целью принимать обломки брикетов быстроприготовимой лапши.
 
-'Okay, but I'm telling you, you're seriously missing out.' - he said, stowing away the remaining half through a slot in the fridge, which - as {common/journalist-name/first} noted - looked like an aftermarket addition, quite possibly designed for the very purpose of accepting instant noodle leftovers.
+'Так, всё сделано, поэтому можем уже идти. После вас...' - сказал он, указывая на телепортатор.
 
-'Okay, so that's everything, and we shall now depart. After you...' - he said, pointing at the teleporter.
+'А, да. Хорошо...' - сказал {common/journalist-name/first}, входя в устройство.
 
-'Oh, right. Sure...' - {common/journalist-name/first} said, walking into the machine.
-
-Closely following him was {common/creator-name/first}, and when they both were standing in the machine, he said loudly:
+За ним близко следовал {common/creator-name/first}, который, как только они оба зашли, громко объявил:
 
 '{common/hidden-text/departing-coords}'
 
 . . .
-(ru/reasoning/arriving-into-city.txt)

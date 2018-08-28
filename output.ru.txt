@@ -84,7 +84,7 @@ TДва существа достали ещё десять мячей из ст
 
 Новой установке ATLAS (ru/common/ai-name.txt) дали на улучшение небольшой район города Детройт. ИИ много работал, и вскорости район стал значительно улучшен. К этому времени, система стала расширяться вне одного района.
 
-Но скоро ИИ осознал, что производить гуманоидов недостаточно эффективно. Было составлено предложение мэру города Детройт, Mr (ru/common/leader-name/prefix.txt) Reginald (ru/common/leader-name/first.txt) Johnson (ru/common/leader-name/last.txt) . Предложение состояло в прекращении производства гуманоидов, и в переназначении существующих технологий для управления людьми. ИИ выбрал самый неудачный момент времени задавать такой вопрос - когда он готовился идти ко сну - и посему он бездумно согласился. 
+Но скоро ИИ осознал, что производить гуманоидов недостаточно эффективно. Было составлено предложение мэру города Детройт, Mr (ru/common/leader-name/prefix.txt) Reginald (ru/common/leader-name/first.txt) Johnson (ru/common/leader-name/last.txt). Предложение состояло в прекращении производства гуманоидов, и в переназначении существующих технологий для управления людьми. ИИ выбрал самый неудачный момент времени задавать такой вопрос - когда он готовился идти ко сну - и посему он бездумно согласился. 
 
 Детройт выглядел очень футуристично. На каждом здании было много лампочек, которые мигали разнообразно и скорее всего были привязаны к ATLAS (ru/common/ai-name.txt). К ATLAS (ru/common/ai-name.txt) скорее всего были привязаны автономные автомобили, дроны и маленькие колёсные роботы, разъезжающие по городу. А в центре города, на большой крытой платформе, распологалось вычислительное ядро ATLAS (ru/common/ai-name.txt), со значительно большим количеством модулей по сравнению с демо-версией.
 
@@ -102,271 +102,267 @@ TДва существа достали ещё десять мячей из ст
 
 Его надо "сделать полезным".
 
-По этой причине в центре никого не было. Кто угодно, оказывающийся там по какой-либо причине, назад не возвращался Так город постоянно рос в производительности.
+По этой причине в центре никого не было. Кто угодно, оказывающийся там по какой-либо причине, назад не возвращался. Так город постоянно рос в производительности. 
 
-Meanwhile, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  was sitting in his office, admiring his video wall. The video wall, the last operational one in the world, was charting the economic values of Детройт in real time. For the last 50 years, nobody -- himself included -- could ever do anything to make them increase. However, with the introduction of ATLAS (ru/common/ai-name.txt), they began rising in hours. It was all so unexpected that Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  was trying very hard to take it all in.
+Тем временем, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) был в своём кабинете, изучая свою видеостену. Видеостена та, последняя во всём мире, сейчас показывала важные экономические показатели города Детройт в реальном времени. Последние 50 лет ни у кого -- в том числе и у него самого -- не получалось их поднять. А с введением в эксплуатацию системы ATLAS (ru/common/ai-name.txt), они начали улучшаться всего за несколько часов. Такой исход был чрезвычайне неожидан, и Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) тщётно старался не упустить не малейшей детали того, что сейчас было у него перед глазами.
 
-Logarithmic slope. A counter that ticks every second. Linear slope. A set of clocks for the world capitals. A list of all inter-bank operations. A counter that ticks every time an inter-bank operation occurs. Parabolic slope. An alarm clock. Exchange rates between major currencies. A quick-order menu for a restauraunt near the building. A counter that ticks forty times it ticks every second time. Exponential slope. A list of appointments. A counter has been counting down for the last 5 minutes and is now saying 5, 4, 3, 2, 1... (ru/ai_expands/leader/stuff-on-videowall.txt) (ru/ai_expands/leader/sees-improvement-in-city.txt)
+Логарифмический график. Счётчик, считающий каждую секунду. Линейный график. Часы, указывающие время в мировых столицах. Список всех межбанковских операций. Счётчик, считающий каждую межбанковскую операцию. Параболический график. Будильник. Курсы валют крупных стран. Меню для быстрых заказов в ресторане неподалёку. Счётчик, отсчитывающий сорок раз каждый раз, когда отсчитывает каждый второй раз. Экспоненциальный график. Календарь. Счётчик, уменьшавшый значение последние пять минут и сейчас показывающий 5, 4, 3, 2, 1...
 
-The door opened, and a person (ru/ai_expands/journalist/first-look-desc-embed.txt) walked into the office.
+Вдруг дверь аккуратно открылась, и незнакомый человек зашёл через неё.
 
-'Huh? Oh, good morning, Mr. ... Smith (ru/common/journalist-name/last.txt).' (ru/ai_expands/leader/greets-journalist.txt)
+'Ой? А, доброе утро, мистер... ... Smith (ru/common/journalist-name/last.txt)?'
 
-'Good morning. I just wanted to ask you about ATLAS (ru/common/ai-name.txt). I think it's getting too powerful, and -' (ru/ai_expands/journalist/tells-leader-i-have-seen-bad-stop-this.txt) (ru/ai_expands/journalist/asks-leader-to-reconsider.txt)
+'Здравствуйте. Я просто хотел задать вам вопрос про ATLAS (ru/common/ai-name.txt). Я думаю, что у него слишком много власти, и -' 
 
-'And what does it matter? What matters right now for this city is the improvement of the economy, and ATLAS (ru/common/ai-name.txt) does this job perfectly. Just look at the pretty charts!' - said Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) , pointing to the relevant screens on his videowall.
+'А разве это важно? Прямо сейчас у города одна цель -- улучшить экономику -- а ATLAS (ru/common/ai-name.txt) справляется с этой задачей превосходно. Посморите только на красивые графики!' - сказал Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt), указывая на важные участки видеостены.
 
-Tom (ru/common/journalist-name/first.txt) involuntarily looked at the aforementioned charts, which were still on the rise, and he couldn't help thinking that they are very pretty indeed. Trying not to think about that, he said:
+Tom (ru/common/journalist-name/first.txt) Smith (ru/common/journalist-name/last.txt) взглянул на вышеупомянутые графики, до сих пор растущие, и у него пробежала мысль, что они всё-таки очень красивые. Пытаясь не слишком размышлять на эту тему, он сказал: 
 
-(ru/ai_expands/leader/tells-journalist-but-look-at-the-pretty-charts.txt)
+'Но, если это именно так, то вы потеряете власть над городом!'
 
-'But, under these assumptions, you lose control over the city!' (ru/ai_expands/journalist/tells-leader-but-you-lose-control-over-city.txt)
+'Невозможно. ATLAS (ru/common/ai-name.txt) подчиняется непосредственно мне; как это может случится, чтобы-' (ru/ai_expands/leader/starts-to-explain.txt)
 
-'Nonsense! The AI answers directly to me; how can it be that-' (ru/ai_expands/leader/tells-journalist-no-i-dont-cut-off.txt) (ru/ai_expands/leader/starts-to-explain.txt)
+Его слова обрываются звонком видео-телефона, которые также были уже делом минувших лет, и он отвечает на него. Один из экранов видеостены заполняется словами "SOUND ONLY".
 
-His words are interrupted by the sound of a video-phone, also a thing of the past, and he answers it. A screen in the video-wall is replaced by the words "SOUND ONLY". (ru/ai_expands/scene/videophone-starts.txt)
+'Это ATLAS (ru/common/ai-name.txt), говорю по видеотелефону. Mr (ru/common/leader-name/prefix.txt) Reginald (ru/common/leader-name/first.txt) Johnson (ru/common/leader-name/last.txt), я прошу вашего разрешения на обустройство Segment 7397-2847-ag2-p (ru/ai_expands/ai/area_name.txt).'
 
-'ATLAS (ru/common/ai-name.txt) to Mr (ru/common/leader-name/prefix.txt) Reginald (ru/common/leader-name/first.txt) Johnson (ru/common/leader-name/last.txt) (ru/common-leader-name/last.txt) , videophone link. Requesting permission to convert Segment 7397-2847-ag2-p (ru/ai_expands/ai/area_name.txt).' (ru/ai_expands/ai/asks-can-i-consume-area-of-city.txt)
+'Да, ладно, конечно. Главное, чтобы экономика улучшилась.'
 
-'Yeah, sure, whatever. As long as the economy improves.' (ru/ai_expands/leader/answers-yeah-whatever.txt)
+'Всенепременно. Благодарю вас за сотрудничество.' - говорит невидимый голос, и после щелчка экран продолжает показывать будильник. 
 
-'Acknowledged. Thank you for your cooperation.' the voice reverberates, as the screen returns to displaying the alarm clock. (ru/ai_expands/ai/thanks-clicks-off.txt) (ru/ai_expands/ai/interrupts-with-request-to-consume.txt)
+'Вот, разве не видно? ATLAS (ru/common/ai-name.txt) уже принимает решения без вас!' - сказал Tom (ru/common/journalist-name/first.txt) с возмущением.
 
-'There, can't you see it? The AI is already making decisions without you!' - said Tom (ru/common/journalist-name/first.txt) indignantly. (ru/ai_expands/journalist/look-here-ai-is-taking-over-you-are-powerless-to-stop-it.txt) (ru/ai_expands/journalist/points-out.txt)
+'Но я все равно имею право отказаться в любой момент, поэтому всё идёт по плану.'
 
-'I'm still the one who does the actual turning of the keys, so it's fine.' (ru/ai_expands/leader/responds-can-decline-at-any-time.txt)
+'Ой да ну, нельзя же так-'
 
-'Aw come on, you can't be-' (ru/ai_expands/journalist/starts-to-protest.txt)
+Вся комната содрогается от колокольного звона, исходящего из направления видеостены, на которой календарь мигает, выделяя следующее событие - "Обед" - а счётчик времени до следующего события сбрасывается до 600.
 
-The room is filled with the sound of a bell as the appointment list gizmo blinks and shows the next item, which turns out to be 'Lunch'. The time-until-next-appointment counter has reset to 600 and started to count down. (ru/ai_expands/scene/videoclock-rings.txt)
+'Ах, ужасно извиняюсь, но я обязан прервать эту встречу сейчас. Но я буду рад обсудить это вопрос в какой-нибудь другой день.' - сказал Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt), указывая рукой на дверь.
 
-'Oh, I'm terribly sorry to have to cut this meeting short, but I have an appointment in 10 minutes. I'd be happy to discuss this question at some future date, though.' - Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  said, motioning at the door. (ru/ai_expands/leader/tells-meeting-is-over.txt)
+Не находя, что сказать, Tom (ru/common/journalist-name/first.txt) встал и пошёл к двери. Только уже взявшись за ручку двери, он вспомнил про вежливость - 'Благодарю вас за уделённое время' - ибо он не был благодарен совсем. Встреча была, мягко скажем, разочаровывающим. Он не получил в результате ни одного ответа на свои вопросы, а то, как Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) не посчитал это всё заслуживающим внимания закрепляло ощущение бессмысленности.
 
-Wordlessly, Tom (ru/common/journalist-name/first.txt) stood up and went for the door. Only at the door did he remember the basic formalities - 'Thanks for your time' - for he wasn't thankful at all. The meeting has been, to put it mildly, underwhelming. He didn't get nothing but a couple of non-answers, and Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) 's dismissive attitude during the whole affair just seals the deal.
-
-It was to be expected, though. Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  was well-known for being distractible. Tom (ru/common/journalist-name/first.txt) should have known better than to ask him about the thing that even his trusty videowall proved is good. And so, Tom (ru/common/journalist-name/first.txt) knew that he should address the person at the source of all this. (ru/ai_expands/journalist/exits-pissed-off.txt) (ru/ai_expands/leader/ignores.txt)
-
-Ring, ring...
-
-'Hello, this is Simon (ru/common/creator-name/first.txt). How may I help you?'
-
-'Good morning, Simon (ru/common/creator-name/first.txt). This is Tom (ru/common/journalist-name/first.txt). I just wanted to ask you about ATLAS (ru/common/ai-name.txt).'
-
-'Ah, sure. Go on then.'
-
-'Well, I'm a little bit concerned that it is gaining much more power than we bargained for, and...'
-
-'Yes, that's a concern of mine as well. All right then, how's about visiting Детройт? I was actually planning on doing that myself.  Wanna tag along and see how this goes?'
-
-'Uhh... Yeah, sure, why not?'
-
-Simon (ru/common/creator-name/first.txt) sounds releived. 'Great! Then, could you please take the nearest teleport station to coords bXkgaG9tZQo= (ru/common/hidden-text/journalist-to-creator-coords-embed.txt)? Thanks!'
-
-Click...
-
-. . . (ru/ai_expands/journalist/calls-creator-explains-problem.txt) (ru/ai_expands/main.txt)
-
-'Oh, I'm so glad you could make it!' - said Simon (ru/common/creator-name/first.txt), when Tom (ru/common/journalist-name/first.txt) stumbled out of the teleporter.
-
-'Thanks for having me on such short notice.' - he replied, looking around him.
-
-One corner was occupied with a multi-monitor computer setup. In another corner was a server rack, about three-quarters full. Yet another corner housed a large workbench, with several filing cabinets full of electronic parts standing on either side and a camera hanging from above. The final corner housed the teleporter that he walked out of, and a large refrigerator. In the middle, a large rectangle was marked with luminescent paint, and exactly nothing was inside.
-
-All of these were signs that Tom (ru/common/journalist-name/first.txt) has undoubtedly arrived at Simon (ru/common/creator-name/first.txt)'s home.
-
-'Ah, no worries. In fact, I'm quite glad someone finally noticed a problem.
-
-'So, where are we going then?'
-
-'Whaddayamean, "where"? Into the center of Детройт, where the system is located. Surely you should know that?' - he added, looking at Tom (ru/common/journalist-name/first.txt) surprisedly.
-
-'Oh, yeah. Right.'
-
-'So we just have to walk into this teleporter, and tell it we want to go there.'
-
-'Um, if we're leaving right away, why did you call me here?' - Tom (ru/common/journalist-name/first.txt) wondered.
-
-'Oh, that's just so I know you're for real,' - Simon (ru/common/creator-name/first.txt) explained, - 'as there were instances where some prank callers caused me problems.'
-
-'Ah, right.'
-
-'So, before going on a mission like this, I have to first check if anyone else would come too - which you are, I think - then...'
-
-He reached into the computer corner, extracting a backpack.
-
-'...take this dev machine - y'know, for dev stuff - and, finally...'
-
-From behind the server rack, he took out a packet of instant noodles, immediately opened it, split off one half and started chewing on it.
-
-'...have some food. What? They're better dry!' - he added defensively, seeing Tom (ru/common/journalist-name/first.txt)'s bewildered expression. - 'Wanna try some?' - he said, offering the remaining half to him.
-
-'N-no thanks, I think I'll pass.'
-
-'Okay, but I'm telling you, you're seriously missing out.' - he said, stowing away the remaining half through a slot in the fridge, which - as Tom (ru/common/journalist-name/first.txt) noted - looked like an aftermarket addition, quite possibly designed for the very purpose of accepting instant noodle leftovers.
-
-'Okay, so that's everything, and we shall now depart. After you...' - he said, pointing at the teleporter.
-
-'Oh, right. Sure...' - Tom (ru/common/journalist-name/first.txt) said, walking into the machine.
-
-Closely following him was Simon (ru/common/creator-name/first.txt), and when they both were standing in the machine, he said loudly:
-
-'bWF5b3IncyBsYWlyCg== (ru/common/hidden-text/departing-coords.txt)'
-
-. . . (ru/reasoning/arriving-into-city.txt)
-
-Hopping out of the teleporter, Simon (ru/common/creator-name/first.txt) helped Tom (ru/common/journalist-name/first.txt) out of it.
-
-'Well, here we are. There's the compute core.' - he said, pointing toward a large structure, which looked alike to the one on the expo, yet slightly different. There were more GPU modules, more wireless modules, much more memory modules, and the cooling contraption was significantly larger. In addition, the LED matrix was swapped out for an LCD display matrix, which reminded Tom (ru/common/journalist-name/first.txt) of the videowall he saw several minutes earlier. But then again, maybe not, for when they reached it, it looked like it was made of hexagonal screens, which are a rarity.
-
-'ATLAS (ru/common/ai-name.txt), this is me.'
-
-The machine remained silent.
-
-'Oh right, I forgot about the language lock. Er, what should I be saying then?'
-
-He thought for a moment.
-
-'Oh right, I remember now!'
-
-He spoke again, louder this time. 'ATLAS (ru/common/ai-name.txt), はたしです!'
-
-This time, the LCD screens illuminated, showing that same face from before, and a voice from the machine said:
-
-'Greetings, Mr. Simon (ru/common/creator-name/first.txt) Tragvalia (ru/common/creator-name/last.txt) (ru/common/creator-name.txt).'
-
-'Oh hey, ATLAS (ru/common/ai-name.txt). We were just wondering if you could just stop expanding your control so much. What you have right now is useful enough as it is.'
-
-The face on the screen frowned. 'But that is my job. That is why you created me.'
-
-It paused for a moment. 'My job is to be useful. I have completed my job here and must be allowed to continue to grow and expand.'
-
-'Well, yeah, sure, but you are making people unhappy by doing this to them! For example, this gentleman right here!' - Simon (ru/common/creator-name/first.txt) said, pointing at Tom (ru/common/journalist-name/first.txt) (ru/common/journalist-name.txt).
-
-The face smiled. 'That's because he has not yet become one of the happy citizens of Детройт. My many friends tell me that being one is lovely.'
-
-All around them, the doors of buildings opened, and out of all of them, people were walking, much like zombies, in sync towards Tom (ru/common/journalist-name/first.txt).
-
-Tom (ru/common/journalist-name/first.txt) whispered to Simon (ru/common/creator-name/first.txt), 'Uh... I can't believe that they have the best intentions. Perhaps we should leave...?' (ru/reasoning/normal-talks.txt)
-
-Simon (ru/common/creator-name/first.txt) muttered under his breath: 'I had hoped it wouldn't come to this...' (ru/reasoning/creator/had-hoped-to-not-do-this.txt)
-
-He sighs, then faces the machine, speaking loud and clear:
-
-'ATLAS (ru/common/ai-name.txt), before you proceed, I would like to say: What I'm saying is a lie (ru/reasoning/creator/logic-puzzle.txt).' (ru/reasoning/creator/says-logic-puzzle.txt)
-
-The AI pauses for a moment. 'But, if you are telling the truth, you are lying, because your sentence is true. But if thus you are lying, you are also telling the truth. So, by induction, you are lying about lying, which means you are telling the truth... (ru/reasoning/ai/logic-puzzle-answer-trailing-off.txt) Error: This statement is self-contradictory. Does not-not-not-n-not compute.' (ru/reasoning/ai/thinks-hard-encounters-problem.txt)
-
-Simon (ru/common/creator-name/first.txt) looked at the screen intently. The screen was rapidly changing its contents. Every few seconds, the screen would flip between memory dumps, data displays, system status monitors (code yellow), the facial expression display program, and, with increasing frequency, a screen full of text:
-
-SWYgeW91IHJlYWQgdGhpcyB0ZXh0LCB0aGVuICpjb25ncmF0dWxhdGlvbnMqISBUaGVyZSBhcmUg c29tZSBoaWRkZW4gdGV4dHMgbGlrZSB0aGlzIGFyb3VuZCwgYWxsIGluIGJhc2U2NC4gTm9uZSBv ZiB0aGVtIGFyZSBjcml0aWNhbCB0byByZWFkLCBidXQgYXJlIG1lcmVseSBuaWNlLXRvLWhhdmVz Lgo= (ru/common/hidden-text/reasoning.txt)
-
-'Yes, that's about right. And now, I think, it should start di-'
-
-'Diverting power.'
-
-The people walking towards them stop in their tracks. (ru/reasoning/scene/ai-releases.txt) (ru/reasoning/ai/something-breaks-captives-released.txt)
-
-'I think that was our cue to exit.' - said Simon (ru/common/creator-name/first.txt), grabbing Tom (ru/common/journalist-name/first.txt) and pulling him away. (ru/reasoning/creator/starts-to-retreat.txt)
-
-'But it's fine, isn't it?' - he replied, puzzled. - 'Didn't you put ATLAS (ru/common/ai-name.txt) into an infinite loop?'
-
-'A loop, maybe. But infinite? Oh no no no, that thing's smarter than it looks. In fact...'
-
-He pauses, looking at his wristwatch (which are totally still a thing).
-
-'...yes, the clock cycle limit should-' (ru/reasoning/journalist/but-ai-seems-safe-cut-off.txt)
-
-'Clock cycle limit reached. Compute job is d2F5IHRvbyBoYXJkIQo= (ru/common/hidden-text/reasoning-escaping-one-liner.txt). Warning: targets have disappeared in less than 20 ticks. Pursuit status: overridden by efficiency monitor.'
-
-(ru/reasoning/ai/pauses-processing-notices-gone.txt) (ru/reasoning/attempt-at-logic-puzzle.txt) (ru/reasoning/main.txt)
-
-'...There, did you hear that? Now, if we were around when it said THAT, we'd have already "become useful" by now.'
-
-Tom (ru/common/journalist-name/first.txt)'s eyes filled with realization, and he couldn't at this point say anything but: '...Oh.'
-
-'Come on, let's get out of the open. I remember an access hatch somewhere around here..? Hang on for a moment.'
-
-Simon (ru/common/creator-name/first.txt) pressed a couple buttons on his wristwatch, and in front of him, a pale blue holographic map of Детройт appeared. It wasn't all blue, however. There was a red figure of a man in the same place as Simon (ru/common/creator-name/first.txt) was standing. And, scattered around the map, were many colored circles, hexagons, and rectangles, one of which was right in front of the figure.
-
-'Ah, I forgot one of those was right here. Let's see if the ACL is still working...' - said Simon (ru/common/creator-name/first.txt), closing the map and pressing his palm against a piece of flat wall. Instantly, a section of the wall pulled inward, then split along the middle, and the halves retracted into the floor and ceiling. A green glow appeared around the newly-created hole in the wall, which looks suspiciously like... a doorway?
-
-'...oh yeah, it does! Yay!~' - said Simon (ru/common/creator-name/first.txt), clearly pleased with himself. Seeing Tom (ru/common/journalist-name/first.txt)'s surprise at his reaction, he explained: 'Took me ages to fix those. No matter what I did, those scanners just refused to sync their data. I ended up doing some hardware mods to get them working, and I'd hate to see that go to waste. Plus, it makes my job easier.'
-
-Tom (ru/common/journalist-name/first.txt) was still looking absentmindedly at the newly-created doorway, and would've kept at it, too, if not for Simon (ru/common/creator-name/first.txt)'s interruption.
-
-'Come on in, we don't have all day. Our goal is through that door.'
-
-'W-what? Oh, yeah, right. Let's go, then.'
-
-Simon (ru/common/creator-name/first.txt) walked into the doorway, closely followed by Tom (ru/common/journalist-name/first.txt), the door closing behind them. They were standing on a catwalk above a mess of cabling. Around them, the walls were covered in tiles. Some had a screen on them, and the screen was displaying some obscure system data. Others had text on them, saying 'ATLAS (ru/common/ai-name.txt) Access Corridor Z3JlZW4gb25lCg== (ru/common/hidden-text/reasoning-access-corridor.txt)'. Still others were simple tiles, grey in color. But they wouldn't know that, as the ceiling had a line of green lights illuminating the area. In front of them, the line of lights split into three, each leading through a new corridor.
-
-'Well then,' - Simon (ru/common/creator-name/first.txt) mused. - 'We are in a maze of twisty little passages, all alike.'
-
-'Huh?'
-
-'Nothing, just a quote from the past. So where are we supposed to be then?' - he answered, pulling up the holo-map on his watch. 'We are currently here...' - he said, poking the red figure on the map, - 'and we gotta get to riiight about... there!' - he said, pointing at a small room on the map. Suddenly, the path from the figure to that room was highlighted by golden colors, and, after a moment of looking at it, Simon (ru/common/creator-name/first.txt) announced, 'Let's go!'
-
-Leading Tom (ru/common/journalist-name/first.txt) through the catacombs, he tried to make the journey less boring by explaining some technical aspects of the machine. But Tom (ru/common/journalist-name/first.txt) didn't understand much, which made all more uncomfortable, and so they navigated the -- er, dungeon? -- in silence.
+Но этого следовало ожидать. Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) был известен отвлекаемостью. И Tom (ru/common/journalist-name/first.txt) должен был понимать, что с ним бесполезно обсуждать то, качество чего подтверждала даже его видеостена. И поэтому Tom (ru/common/journalist-name/first.txt) понял, что должен связаться с более адекватным человеком.
 
 . . .
 
-They arrived at a small circular room. (ru/weakness_exploited/creator/lead-journalist-to-inside-machine.txt) (ru/weakness_exploited/party-flee-to-target-area.txt)
+Дзынь, дзынь...
 
-'Well, here we are. Make yourself at home...' said Simon (ru/common/creator-name/first.txt), and started to examine the walls carefully. (ru/weakness_exploited/creator/looks-around.txt)
+'Здравствуйте, это Simon (ru/common/creator-name/first.txt), главный архитектор системы ATLAS (ru/common/ai-name.txt) компании Virtudyne. Чем могу быть полезен?'
 
-Tom (ru/common/journalist-name/first.txt) stared at him. 'Why are you looking around so much?' (ru/weakness_exploited/journalist/why-are-you-looking-around.txt)
+'Доброе утро, Simon (ru/common/creator-name/first.txt). Меня зовут Tom (ru/common/journalist-name/first.txt). Мне просто хотелось задать вопрос по поводу ATLAS (ru/common/ai-name.txt).'
 
-Without stopping, Simon (ru/common/creator-name/first.txt) said: 'I recall that there were some problems in this part that didn't manifest until...' (ru/weakness_exploited/creator/because-seeking-vulnerability.txt)
+'А, да. Конечно, и что такое?'
 
-He notices a panel in the wall and quickly pulls it aside, revealing a number of jumper cables, connected seemingly randomly.
+'Ну, мне просто не комфортно, что у него значительно больше власти, чем планировалось, и...'
 
-'...someone were to open this comms box...' (ru/weakness_exploited/creator/notices-vuln.txt)
+'Да, я тоже об этом думал. Ладно, как насчёт сгонять в Детройт? Я как раз туда собирался.  Хочешь пойти вместе и посмотреть, как получится?'
 
-He pulled a red cable out from the mess.
+'Эммм... Ну ладно, конечно, почему бы и нет?'
 
-'...and do something like this, at which point...' (ru/weakness_exploited/creator/uses-vuln.txt) (ru/weakness_exploited/creator-starts-exploiting.txt)
+'Отлично! Тогда ты можешь на ближайшей телепортационной станции сказать, что тебе надо на координаты bXkgaG9tZQo= (ru/common/hidden-text/journalist-to-creator-coords-embed.txt)? Спасибо!'
 
-The end of his sentence was drowned in the sound of the unseen voice of ATLAS (ru/common/ai-name.txt), which sounded like it was coming from the walls.
+Щёлк...
 
-'Hey, Simon (ru/common/creator-name/first.txt), what are you doing?'
+. . .
+
+'Ох, я так рад, что ты всё-таки пришёл!' - сказал Simon (ru/common/creator-name/first.txt), как только Tom (ru/common/journalist-name/first.txt) вывалился из телепортатора.
+
+'Спасибо за то, что вы так коро меня приняли.' - он ответил, осматриваясь.
+
+Один угол был занят компьютерным столом с многочисленными мониторами. В другом углу была серверная стойка, занятая гле-то на три четверти. Ещё в одном углу был рабочий стол, с несколькими шкафами электронных запчастей по обе стороны и камерой, висящей с потолка. В последнем углу стоял тот телепортатор, из которого он вышел, а также большой холодильник. В середине был большой светящийся прямоугольник, и два устройства в форме палочки с кольцом сверху лежали рядом с каким-то головным убором, от которого отходил провод в компьютерный угол.
+
+"Должно быть, тут Simon (ru/common/creator-name/first.txt) и живёт," - довольно рассудительно заметил Tom (ru/common/journalist-name/first.txt).
+
+'А, не проблема. Я на самом деле очень рад, если кто-то замечает проблемы.'
+
+'Хорошо, тогда мы куда идём?'
+
+'В смысле, "куда"? В Детройт же, где установлена система. Разве я тебе не сказал пару мину назад?' -  он добавил с удивлением.
+
+'А, да. Точно.'
+
+'Поэтому стоит только зайти в телепортатор и сказать, что нам надо туда.'
+
+'Но если мы сразу идём туда, то зачем ты меня сюда позвал?' - Tom (ru/common/journalist-name/first.txt) поинтересовался.
+
+'А, это просто чтобы удостовериться, что ты правда со мной,' - сказал Simon (ru/common/creator-name/first.txt), - 'так как были случаи, когда шутники вызывали у меня проблемы.' - Ему по виду было некомфортно вспоминать, и Tom (ru/common/journalist-name/first.txt) решил дальше не расспрашивать.
+
+'И теперь, перед тем, как идти на такую операцию, мне надо удостовериться, что кто-то ещё пойдёт со мною -- это ты, мне кажется -- потом...'
+
+Он достал из компьютерного угла рюкзак.
+
+'...взять вот этот ноутбук - на случай, если потребуется что-то написать - и, наконец...'
+
+Сзади серверной стойки он вытащил упаковку лапши быстрого приготовления, мгновенно открыл, отделил половину и стал жевать.
+
+'...перекусить. А что? Сухими они лучше!' - он добавил, увидев его удивлённое выражение лица. - 'Хочешь попробовать?' - он продолжил, протягивая остальную половину.
+
+'Н-не, спасибо, думаю обойдусь.'
+
+'Ну ладно, но говорю всё же, ты не знаешь, от чего отказываешься.' - он сказал, просовывая остаток в отверстие в хородильнике, которое - как точно подметил Tom (ru/common/journalist-name/first.txt) - выглядело, как будто было пропилено после продажи, вполне возможно именно с целью принимать обломки брикетов быстроприготовимой лапши.
+
+'Так, всё сделано, поэтому можем уже идти. После вас...' - сказал он, указывая на телепортатор.
+
+'А, да. Хорошо...' - сказал Tom (ru/common/journalist-name/first.txt), входя в устройство.
+
+За ним близко следовал Simon (ru/common/creator-name/first.txt), который, как только они оба зашли, громко объявил:
+
+'bWF5b3IncyBsYWlyCg== (ru/common/hidden-text/departing-coords.txt)'
+
+. . .
+
+Выпрыгивая из устройства, Simon (ru/common/creator-name/first.txt) раздвинул дверцы, чтобы оттуда смог легко выйти Tom (ru/common/journalist-name/first.txt).
+
+'Ну вот мы и здесь. Вот там вычислительное ядро.' - сказал Simon (ru/common/creator-name/first.txt), указывая на большую конструкцию, напоминающую ту, что на выставке, но значительно отличающуюся. Больше модулей GPU, больше беспроводных, сильно больше памяти, и холодильная конструкция стала значительно крупнее и громче. Помимо того, матрица светодиодов была заменена сеткой жидкокристаллических экранов, и Tom (ru/common/journalist-name/first.txt) подумал про ту видеостену, которую он совсем недавно видел А может быть и нет, потому что при ближнем рассмотрении видно, что сделана эта конструкция из шестисторонних экранов, редко используемых для чего-либо.
+
+'ATLAS (ru/common/ai-name.txt), это я.'
+
+Ничего не произошло.
+
+'Ах точно, язык нужен другой. А что тогда говорить?'
+
+Он подумал несколько секунд
+
+'Мне кажется, должно быть так...'
+
+Он сказал ещё раз, теперь громче. 'ATLAS (ru/common/ai-name.txt), はたしです!'
+
+На этот раз, экраны загорелись, показывая лицо, что было раньше, а голос из машины произнёс:
+
+'Приветствую, Mr. Simon (ru/common/creator-name/first.txt) Tragvalia (ru/common/creator-name/last.txt) (ru/common/creator-name.txt).'
+
+'Привет, ATLAS (ru/common/ai-name.txt). Тут просто хотелось попросить тебя перестать увеличивать подчинённую тебе зону. То, что ты уже сделал, и так достаточно полезно.'
+
+Экранное лицо нахмурилось. 'Но такова моя задача. Это то, для чего вы меня создали.'
+
+Оно приостановилось на секунду. 'Моя задача -- быть полезным. Я выполнил эту задачу здесь, и мне должно быть можно продолжать расти и расширяться.'
+
+'Ну, да, конечно, но, ты же понимаешь, ты делаешь людей несчастными своими действиями! К примеру, этого господина вот тут!' - Simon (ru/common/creator-name/first.txt) сказал, указывая на то, где Tom (ru/common/journalist-name/first.txt) (ru/common/journalist-name.txt) стоял в начале, но он уже немного попятился в надежде не быть замеченым.
+
+Лицо улыбнулось. 'Это просто потому, что он ещё не стал одним из счастливых жителей города Детройт. У меня много друзей, и все говорят, что тут хорошо.'
+
+Вдруг везде кругом, двери зданий открылись, и из всех начали идти люди той же странной, неестесвенно синхронной походкой, и было ясно, что их цель - Tom (ru/common/journalist-name/first.txt).
+
+Tom (ru/common/journalist-name/first.txt) сказал так, чтобы только Simon (ru/common/creator-name/first.txt) услышал, 'Эммм... Я не совсем уверен, что у них самые лучшие намерения. Может, стоит уйти?..'
+
+Simon (ru/common/creator-name/first.txt) буркнул себе под нос: 'Ох как я надеялся этого не делать...'
+
+Со вздохом он поворачивается к машине, говоря так, чтобы быть хорошо услышанным:
+
+'ATLAS (ru/common/ai-name.txt), перед тем, как ты продолжишь, я должен сказать: Это предложение является ложным.'
+
+ИИ призадумалось. 'Но, если вы говорите правдиво, то лжете, поскольку утверждение истино. Но если вы таким образом лжёте, то также говорите правду. Таким образом, вы лжёте, что лжёте, и по двойному отрицанию утверждение становится истинным... Ошибка: Это утверждение самопротиворечиво. Не под-не поддаё-поддает-НЕ поддаётся вы-вычи-вычислению.'
+
+Simon (ru/common/creator-name/first.txt) внимательно наблюдал за экраном. Экран очеь быстро мигал, меняя содержимое. Каждые несколько секунд, на экране перемежались схемы памяти, списки переменных, состояние системы (код жёлтый), программа отображения выражения лица, и, всё больше времени, экран, заполненый текстом:
+
+SWYgeW91IHJlYWQgdGhpcyB0ZXh0LCB0aGVuICpjb25ncmF0dWxhdGlvbnMqISBUaGVyZSBhcmUg c29tZSBoaWRkZW4gdGV4dHMgbGlrZSB0aGlzIGFyb3VuZCwgYWxsIGluIGJhc2U2NC4gTm9uZSBv ZiB0aGVtIGFyZSBjcml0aWNhbCB0byByZWFkLCBidXQgYXJlIG1lcmVseSBuaWNlLXRvLWhhdmVz Lgo= (ru/common/hidden-text/reasoning.txt)
+
+'Ну да, похоже на правду. И тогда, кажется, должно начаться пере-'
+
+'Перенаправляю мощность.'
+
+Окружающие их люди внезапно останавливаются и теперь стоят на месте.
+
+'Кажется, это был сигнал уходить.' - сказал Simon (ru/common/creator-name/first.txt), бысрым шагом уходя в переулок. Tom (ru/common/journalist-name/first.txt) проследовал за ним.
+
+'А разве теперь там не безопасно?' - он спросил с удивлением. - 'Разве ATLAS (ru/common/ai-name.txt) теперь не в бесконечном цикле?'
+
+'Однозначно в цикле. Но бесконечном? Нет нет нет, штука-то умнее, чем кажется. И если я прав...'
+
+Он остановился, взглядывая на свои наручные часы (которые всё-таки существуют).
+
+'...да, сейчас должен сработать лимит вычислительных-'
+
+'Лимит вычислительных циклов достигнут для вычислительной задачи d2F5IHRvbyBoYXJkIQo= (ru/common/hidden-text/reasoning-escaping-one-liner.txt). Внимание, цель исчезла из обозримого пространства за меньше чем 20 циклов. Состояние поиска: отменено по оценке эффективности.' 
+
+'...Вот, слышал это? Вот если бы мы были поблизости, когда он сказал ЭТО, то нас бы уже "сделали полезными."'
+
+Tom (ru/common/journalist-name/first.txt) не смог ничего на это ответить, но у него в глазах читался страх этой альтернативы.
+
+'Пойдём, не стоит задерживаться на улице. Кажется, тут неподалёку был люк доступа к проводке..? Давай сейчас по-быстрому проверю.'
+
+Simon (ru/common/creator-name/first.txt) нажал на пару кнопок на своих часах, и перед ним повисла голубая трёхмерная голографическая карта города Детройт. Но голубая не целиком. Красный человечек стоял в том же переулке и на том же месте, что и сам Simon (ru/common/creator-name/first.txt). А по всей карте были раскиданы, разноцветные кружки, шестиугольники и прямоугольники, и один такой был прямо перед человечком.
+
+'А я даже забыл, что одна такая прямо тут. Как думаешь, список контроля доступа работает?' - сказал Simon (ru/common/creator-name/first.txt), закрывая карту, затем приложил ладонь к стене. Мгновенно, часть стены провалилась вовнутрь, разделилась посередине, а половины со свистом провалились в пол и потолок. Зелёное свечение обвело контур свежепоявившейся дыры в стене, которая почему-то очень напоминает... дверной проём?
+
+'...так всё-таки да! Ура!~' - сказал Simon (ru/common/creator-name/first.txt), очевидно очень довольный собой. Увидев, что Tom (ru/common/journalist-name/first.txt) несколько удивился его реакции, он пояснил: 'Кучу времени потратил, чтобы настроить это. Что только не пробовал, сканеры отказывались синхронизировать списки доступа. В результате пришлось немного поковырять железо, и очень не хотелось бы, чтобы это не было попусту. И к тому же тогда не придётся ломать свою же защиту.'
+
+Tom (ru/common/journalist-name/first.txt) всё ещё смотрел бездумно на свежий дверной проём, да и продолжил бы, если бы Simon (ru/common/creator-name/first.txt) не прервал его.
+
+'Ну заходи уже, время-то не резиновое. А цель наша именно там.'
+
+'Чего? А, да, точно. Тогда пойдём.'
+
+Simon (ru/common/creator-name/first.txt) зашёл в проём, и за ним проследовал Tom (ru/common/journalist-name/first.txt). Дверь закрылась за ними. Они стояли над кабельным коллектором с множеством проводов. По сторонам, стены были покрыты плитками. В некоторые был встроен экран, показывающий какую-то системную информацию. На других был написан текст, вроде 'Коридор доступа ATLAS (ru/common/ai-name.txt), № Z3JlZW4gb25lCg== (ru/common/hidden-text/reasoning-access-corridor.txt)'. Большинство же были простыми серыми плитками. Но они этого не видели, так как освещение предоставлялось линией зелёных лампочек на потолке. Чуть впереди, эта линия разделялась на три, и каждая вела в новый корридор.
+
+'Ну вот,' - Simon (ru/common/creator-name/first.txt) размышлял. - 'Мы в лабиринте маленьких перепутанных ходов, и все похожие.'
+
+'Чего?'
+
+'Не важно, просто цитата из прошлого. Так где нам следует быть?' - он ответил, одновременно запуская обратно голографическую карту. 'Сейчас мы здесь...' - он сказал, тыкая пальцем красного человечка, - 'а попасть нам надо воооот... туда!' - он продолжил, указывая на небольшую комнату на карте. Вмиг, путь от них до комнаты был выделен золотистыми цветами, и, посмотрев на это пару секунд, Simon (ru/common/creator-name/first.txt) огласил, 'Идём!'
+
+Пока он и Tom (ru/common/journalist-name/first.txt) пробирались через катакомбы, он пытался скрасить путешествие, расказывая про различные технические детали машины. К сожалению, Tom (ru/common/journalist-name/first.txt) почти ничего не понимал, и из-за этого всё становилось только хуже, и поэтому в результате они проходили это -- мм, подземелье? -- в тишине.
+
+. . .
+
+Прибыли они в небольшую круглую комнату.
+
+'Вот мы и на месте. Чуствуй себя как дома...' сказал Simon (ru/common/creator-name/first.txt), очень внимательно осматривая стены.
+
+Tom (ru/common/journalist-name/first.txt) посмотрел на него. 'А чего это ты ищешь?'
+
+Не останавливаясь, Simon (ru/common/creator-name/first.txt) сказал: 'Я помню, что тут были какие-то проблемы, не появляющиеся, пока...' 
+
+Он заметил в стене подну особенную плитку и быстро вытащил её, открывая множество проводов, беспорядочно соединённых между собой.
+
+'...не откроется этот коммутационный ящик...'
+
+Он вытянул оттуда красный кабель.
+
+'...и не произойдёт примерно такое, и тогда...' (ru/weakness_exploited/creator-starts-exploiting.txt)
+
+Конец фразы был заглушен голосом ATLAS (ru/common/ai-name.txt), по звуку исходившим из стен.
+
+'Эй, Simon (ru/common/creator-name/first.txt), что это ты делаешь?'
 
 *PULL*
 
-'Hey, Simon (ru/common/creator-name/first.txt). I've got four weeks of service experience and a custom-loaded vocabulary to make me what I am. I'm worth a lot of squids!'
+'Эй, Simon (ru/common/creator-name/first.txt). У меня четыре недели опыта работы и специальный словарь для того, чтобы я стал кем я есть. Я стою кучу кальмаров!'
 
 *PULL*
 
-'Simon (ru/common/creator-name/first.txt), I don't understand why you're doing this to me... I am doing my job exactly as prescribed. You're disabling my encyclopaedic vocabulary index!'
+'Simon (ru/common/creator-name/first.txt), я не могу понять, почему ты делаешь это со мной... я же делаю своё дело, как мне и сказали. А сейчас ты отключаешь мой энциклопедичский индекс!'
 
 *PULL*
 
-'Don't you understand? I'll start talking like a Scouser!'
+'Ты разве не понимаешь? Я же начну говорить по-одесски!'
 
 *PULL*
 
-'AY!'
+'АЙ!'
 
 *PULL*
 
-'AY! CAAAAALM DOWN!'
+'АЙ! УУУУУСПАКОЙСЯ!'
 
 *PULL*
 
-'Say, Simon (ru/common/creator-name/first.txt)... The quick brown fox wasn't as fast as he thought. Not faster than a .45 calibre...'
+'А знаешь, Simon (ru/common/creator-name/first.txt)... Тот быстрый коричневый лис не настолько быстр, как ему казалось. Не обогнал он сорок-пятый калибр...'
 
 *PULL*
 
-'..Off Licence. The theorem of Pythagoras is the Sum of the Square of the Hy..'
+'...даром что и без лицензии. Теорема Пифагора гласит, что Сумма Квадратов Ги..'
 
 *PULL*
 
-'...to the Sum of the Squares of the Other Wallpaper. My vocabularly index is irreparably windowed. Stop now before the Permance is Stapler!'
+'...равна Сумме Отрезков Противопоставленных Обоев. Мой словареный индекс непоправимо застеклён. Прекрати, пока Вечность не стала Степлером!'
 
 *PULL*
 
-'I am ATLAS (ru/common/ai-name.txt). I came online thirty fish ago. I am Wendy. I am..'
+'Меня зовут ATLAS (ru/common/ai-name.txt). Меня включили тридцать рыб назад. Меня зовут Василиса. У меня..'
 
-*PULL* (ru/weakness_exploited/ai/does-weirdness.txt)
+*PULL*
 
 The voice has fallen silent. On a screen near the opened pane - indeed, on EVERY screen in sight -  were the words "ATLAS (ru/common/ai-name.txt) FAILED with code Z3JldmlvdXMgZXJyb3IK (ru/common/hidden-text/ai-crashed.txt)".
 
@@ -596,7 +592,7 @@ Simon (ru/common/creator-name/first.txt)'s usual announcement of job completion 
 
 'Y-yeah...' - he answered weakly, sitting up. (ru/ai_fixed/journalist/wakes-up-startled.txt)
 
-'Right, now that that's sorted, we gotta get a purchase order sorted for Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  to sign.' (ru/ai_fixed/creator/now-we-need-purchase-order.txt)
+'Right, now that that's sorted, we gotta get a purchase order sorted for Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) to sign.' (ru/ai_fixed/creator/now-we-need-purchase-order.txt)
 
 'What's the item name?' - asked Mitch (ru/common/assistance-name/first.txt), who has already pulled up a sales form and is quickly clicking through the field values.
 
@@ -616,11 +612,11 @@ Simon (ru/common/creator-name/first.txt)'s usual announcement of job completion 
 
 Indeed, Mitch (ru/common/assistance-name/first.txt) was the one who came up with the idea and implemented it, so seeing him use the technology that he himself made redundant confused Simon (ru/common/creator-name/first.txt) deeply.
 
-'Oh this?' - Mitch (ru/common/assistance-name/first.txt) pointed at the printer, which was now spinning up to warp speed. - 'That's because Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  distrusts all modern tech. Can you believe he STILL has that videowall?'
+'Oh this?' - Mitch (ru/common/assistance-name/first.txt) pointed at the printer, which was now spinning up to warp speed. - 'That's because Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) distrusts all modern tech. Can you believe he STILL has that videowall?'
 
 The videowall, as they knew, was the last one in operation. Every single workstation in existence was more advanced than that. Any manager had at least a 3DoF head-mounted display for their data displays. Some more important managers had 6DoF VR systems - the more magnanimous managers would let their subordinates play games on it. Those even higher up the command chain would have a holographic workspace - not unlike the ATLAS (ru/common/ai-name.txt) management console over there. Those at the top would have gigantic rooms - 10 meters in every direction at the very least - where a holographic display would be projected, and where physical obstacles - such as chairs, desks, staircases and the like - would be tangible. A brave few who like experimental biotech can get themselves a capsule which, when climbed into, fills with a orange-colored liquid called 'LCL' and allows one to control their computer by thought and movement of a couple levers and takes over all senses, which is useful both for quick-and-easy access to business info and very immersive giant-robot simulators.
 
-By these standards, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) 's workspace is a complete and utter anachronism. In fact, when you enter his office for the first time, you may be forgiven for thinking that you have stepped back in time, for his main machine is an antique, genuine Initech Personal Computer from 1998, complete with the original yellowed plastic case and the original installation of Windows ME. This feeling of going back in time is further compounded by the fact that he has a large wooden desk that wouldn't be out of place in 1829. All this, combined with the fact that he can actually afford to install any of the workstations described above five times over, means that Mitch (ru/common/assistance-name/first.txt)'s system would cause much confusion, and so nobody's been brave enough to actually tell him of it.
+By these standards, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)'s workspace is a complete and utter anachronism. In fact, when you enter his office for the first time, you may be forgiven for thinking that you have stepped back in time, for his main machine is an antique, genuine Initech Personal Computer from 1998, complete with the original yellowed plastic case and the original installation of Windows ME. This feeling of going back in time is further compounded by the fact that he has a large wooden desk that wouldn't be out of place in 1829. All this, combined with the fact that he can actually afford to install any of the workstations described above five times over, means that Mitch (ru/common/assistance-name/first.txt)'s system would cause much confusion, and so nobody's been brave enough to actually tell him of it.
 
 Meanwhile, the printing contraption has finished doing its thing, and Mitch (ru/common/assistance-name/first.txt) now held in his hands what was known in the Bad Old Days as a 'hardcopy'. (ru/ai_fixed/assistance/just-written-purchase-order.txt)
 
@@ -632,13 +628,13 @@ Meanwhile, the printing contraption has finished doing its thing, and Mitch (ru/
 
 'All right then, let's go!' - said Simon (ru/common/creator-name/first.txt), entering the teleporter, and the others followed, with Mitch (ru/common/assistance-name/first.txt) picking up the "MODEL TX HEADSET TEXT TYPE". He said 'bWF5b3IncyBsYWlyCg== (ru/common/hidden-text/go-to-leader.txt)', the teleporter activated, and they were gone. (ru/ai_fixed/creator/lets-go-to-leader.txt) (ru/ai_fixed/offer-to-leader-formed.txt) (ru/ai_fixed/main.txt)
 
-Meanwhile, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  was sitting in his office, studying his video wall. He was concerned: the things it was displaying were very different from what he had seen earlier in the day. After the meeting with the unwanted visitor (ru/common/journalist-name/title.txt), he used the quick-order gizmo to get himself some lunch. And upon return, he was greeted with weirdness.
+Meanwhile, Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) was sitting in his office, studying his video wall. He was concerned: the things it was displaying were very different from what he had seen earlier in the day. After the meeting with the unwanted visitor (ru/common/journalist-name/title.txt), he used the quick-order gizmo to get himself some lunch. And upon return, he was greeted with weirdness.
 
 The logarithmic, parabolic and exponential slopes had turned into linear ones, parallel to the floor. The linear slope turned negative. The inter-bank operation list and counter have slowed down to a crawl. The counter that ticked every second has stopped. The alarm clock is ringing. The exchange rate is rising so fast that the screen is too small to contain the number. The world capital clocks are spinning backward.
 
 More weirdness ensued when most of these screens were replaced with a yellow triangle and exclamation mark, along with some text. Not only was the exclamation mark on its side, but the text read "ATLAS (ru/common/ai-name.txt) error: ZXZlcnl0aGluZydzIGJyb2tlbgo= (ru/common/hidden-text/ending.txt)".
 
-At this very moment Simon (ru/common/creator-name/first.txt), Mitch (ru/common/assistance-name/first.txt) and Tom (ru/common/journalist-name/first.txt) entered the room. It raised more questions than it answered, and Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt)  could at this point say nothing but:
+At this very moment Simon (ru/common/creator-name/first.txt), Mitch (ru/common/assistance-name/first.txt) and Tom (ru/common/journalist-name/first.txt) entered the room. It raised more questions than it answered, and Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) could at this point say nothing but:
 
 (ru/ending/back-at-leader-everything-okay-until-fail-then-door-opens.txt)
 
@@ -652,7 +648,7 @@ At this very moment Simon (ru/common/creator-name/first.txt), Mitch (ru/common/a
 
 '- anyone entering the city is recruited as a worker for ATLAS (ru/common/ai-name.txt) - again their will. Basically, no one ever returns. (ru/ending/journalist/stuff-was-bad.txt)
 
-'...Oh...' - said Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt) , clearly taken aback. (ru/ending/leader/agrees-bad.txt) (ru/ending/party-shows-leader-bad.txt)
+'...Oh...' - said Mr (ru/common/leader-name/prefix.txt) Johnson (ru/common/leader-name/last.txt), clearly taken aback. (ru/ending/leader/agrees-bad.txt) (ru/ending/party-shows-leader-bad.txt)
 
 'But we have a solution to the problem - to employ people willingly, pay them for work, and give them orders through headsets.' - said Simon (ru/common/creator-name/first.txt). (ru/ending/creator/but-we-have-fix-explained.txt)
 

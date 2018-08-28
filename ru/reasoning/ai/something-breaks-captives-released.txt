@@ -1,12 +1,11 @@
-{common/creator-name/first} looked at the screen intently.
-The screen was rapidly changing its contents.
-Every few seconds, the screen would flip between memory dumps, data displays, system status monitors (code yellow), the facial expression display program, and, with increasing frequency, a screen full of text:
+{common/creator-name/first} внимательно наблюдал за экраном.
+Экран очеь быстро мигал, меняя содержимое.
+Каждые несколько секунд, на экране перемежались схемы памяти, списки переменных, состояние системы (код жёлтый), программа отображения выражения лица, и, всё больше времени, экран, заполненый текстом:
 
 {common/hidden-text/reasoning}
 
-'Yes, that's about right. And now, I think, it should start di-'
+'Ну да, похоже на правду. И тогда, кажется, должно начаться пере-'
 
-'Diverting power.'
+'Перенаправляю мощность.'
 
 {reasoning/scene/ai-releases}
-(ru/reasoning/ai/something-breaks-captives-released.txt)

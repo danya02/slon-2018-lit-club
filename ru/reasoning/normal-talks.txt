@@ -1,38 +1,37 @@
-Hopping out of the teleporter, {common/creator-name/first} helped {common/journalist-name/first} out of it.
+Выпрыгивая из устройства, {common/creator-name/first} раздвинул дверцы, чтобы оттуда смог легко выйти {common/journalist-name/first}.
 
-'Well, here we are. There's the compute core.' - he said, pointing toward a large structure, which looked alike to the one on the expo, yet slightly different.
-There were more GPU modules, more wireless modules, much more memory modules, and the cooling contraption was significantly larger.
-In addition, the LED matrix was swapped out for an LCD display matrix, which reminded {common/journalist-name/first} of the videowall he saw several minutes earlier.
-But then again, maybe not, for when they reached it, it looked like it was made of hexagonal screens, which are a rarity.
+'Ну вот мы и здесь. Вот там вычислительное ядро.' - сказал {common/creator-name/first}, указывая на большую конструкцию, напоминающую ту, что на выставке, но значительно отличающуюся.
+Больше модулей GPU, больше беспроводных, сильно больше памяти, и холодильная конструкция стала значительно крупнее и громче.
+Помимо того, матрица светодиодов была заменена сеткой жидкокристаллических экранов, и {common/journalist-name/first} подумал про ту видеостену, которую он совсем недавно видел
+А может быть и нет, потому что при ближнем рассмотрении видно, что сделана эта конструкция из шестисторонних экранов, редко используемых для чего-либо.
 
-'{common/ai-name}, this is me.'
+'{common/ai-name}, это я.'
 
-The machine remained silent.
+Ничего не произошло.
 
-'Oh right, I forgot about the language lock. Er, what should I be saying then?'
+'Ах точно, язык нужен другой. А что тогда говорить?'
 
-He thought for a moment.
+Он подумал несколько секунд
 
-'Oh right, I remember now!'
+'Мне кажется, должно быть так...'
 
-He spoke again, louder this time.
+Он сказал ещё раз, теперь громче.
 '{common/ai-name}, はたしです!'
 
-This time, the LCD screens illuminated, showing that same face from before, and a voice from the machine said:
+На этот раз, экраны загорелись, показывая лицо, что было раньше, а голос из машины произнёс:
 
-'Greetings, {common/creator-name}.'
+'Приветствую, {common/creator-name}.'
 
-'Oh hey, {common/ai-name}. We were just wondering if you could just stop expanding your control so much. What you have right now is useful enough as it is.'
+'Привет, {common/ai-name}. Тут просто хотелось попросить тебя перестать увеличивать подчинённую тебе зону. То, что ты уже сделал, и так достаточно полезно.'
 
-The face on the screen frowned. 'But that is my job. That is why you created me.'
+Экранное лицо нахмурилось. 'Но такова моя задача. Это то, для чего вы меня создали.'
 
-It paused for a moment. 'My job is to be useful. I have completed my job here and must be allowed to continue to grow and expand.'
+Оно приостановилось на секунду. 'Моя задача -- быть полезным. Я выполнил эту задачу здесь, и мне должно быть можно продолжать расти и расширяться.'
 
-'Well, yeah, sure, but you are making people unhappy by doing this to them! For example, this gentleman right here!' - {common/creator-name/first} said, pointing at {common/journalist-name}.
+'Ну, да, конечно, но, ты же понимаешь, ты делаешь людей несчастными своими действиями! К примеру, этого господина вот тут!' - {common/creator-name/first} сказал, указывая на то, где {common/journalist-name} стоял в начале, но он уже немного попятился в надежде не быть замеченым.
 
-The face smiled. 'That's because he has not yet become one of the happy citizens of {common/city-name}. My many friends tell me that being one is lovely.'
+Лицо улыбнулось. 'Это просто потому, что он ещё не стал одним из счастливых жителей города {common/city-name}. У меня много друзей, и все говорят, что тут хорошо.'
 
-All around them, the doors of buildings opened, and out of all of them, people were walking, much like zombies, in sync towards {common/journalist-name/first}.
+Вдруг везде кругом, двери зданий открылись, и из всех начали идти люди той же странной, неестесвенно синхронной походкой, и было ясно, что их цель - {common/journalist-name/first}.
 
-{common/journalist-name/first} whispered to {common/creator-name/first}, 'Uh... I can't believe that they have the best intentions. Perhaps we should leave...?'
-(ru/reasoning/normal-talks.txt)
+{common/journalist-name/first} сказал так, чтобы только {common/creator-name/first} услышал, 'Эммм... Я не совсем уверен, что у них самые лучшие намерения. Может, стоит уйти?..'

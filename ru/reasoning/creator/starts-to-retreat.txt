@@ -1,2 +1,1 @@
-'I think that was our cue to exit.' - said {common/creator-name/first}, grabbing {common/journalist-name/first} and pulling him away.
-(ru/reasoning/creator/starts-to-retreat.txt)
+'Кажется, это был сигнал уходить.' - сказал {common/creator-name/first}, бысрым шагом уходя в переулок. {common/journalist-name/first} проследовал за ним.

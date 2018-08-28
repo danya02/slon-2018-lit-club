@@ -1,2 +1,1 @@
-'But, under these assumptions, you lose control over the city!'
-(ru/ai_expands/journalist/tells-leader-but-you-lose-control-over-city.txt)
+'Но, если это именно так, то вы потеряете власть над городом!'

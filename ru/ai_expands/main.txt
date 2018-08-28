@@ -17,4 +17,3 @@
 {ai_expands/leader/ignores}
 
 {ai_expands/journalist/calls-creator-explains-problem}
-(ru/ai_expands/main.txt)

@@ -11,4 +11,3 @@
 {reasoning/journalist/but-ai-seems-safe-cut-off}
 
 {reasoning/ai/pauses-processing-notices-gone}
-(ru/reasoning/attempt-at-logic-puzzle.txt)

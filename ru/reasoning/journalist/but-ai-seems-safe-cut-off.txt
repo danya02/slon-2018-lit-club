@@ -1,8 +1,7 @@
-'But it's fine, isn't it?' - he replied, puzzled. - 'Didn't you put {common/ai-name} into an infinite loop?'
+'А разве теперь там не безопасно?' - он спросил с удивлением. - 'Разве {common/ai-name} теперь не в бесконечном цикле?'
 
-'A loop, maybe. But infinite? Oh no no no, that thing's smarter than it looks. In fact...'
+'Однозначно в цикле. Но бесконечном? Нет нет нет, штука-то умнее, чем кажется. И если я прав...'
 
-He pauses, looking at his wristwatch (which are totally still a thing).
+Он остановился, взглядывая на свои наручные часы (которые всё-таки существуют).
 
-'...yes, the clock cycle limit should-'
-(ru/reasoning/journalist/but-ai-seems-safe-cut-off.txt)
+'...да, сейчас должен сработать лимит вычислительных-'

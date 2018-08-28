@@ -1,3 +1,1 @@
-The room is filled with the sound of a bell as the appointment list gizmo blinks and shows the next item, which turns out to be 'Lunch'.
-The time-until-next-appointment counter has reset to 600 and started to count down.
-(ru/ai_expands/scene/videoclock-rings.txt)
+Вся комната содрогается от колокольного звона, исходящего из направления видеостены, на которой календарь мигает, выделяя следующее событие - "Обед" - а счётчик времени до следующего события сбрасывается до 600.

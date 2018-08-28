@@ -1,4 +1,3 @@
-The door opened, and {ai_expands/journalist/first-look-desc-embed} walked into the office.
+Вдруг дверь аккуратно открылась, и {ai_expands/journalist/first-look-desc-embed} зашёл через неё.
 
-'Huh? Oh, good morning, Mr. ... {common/journalist-name/last}.'
-(ru/ai_expands/leader/greets-journalist.txt)
+'Ой? А, доброе утро, мистер... ... {common/journalist-name/last}?'

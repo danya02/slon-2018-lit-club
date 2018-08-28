@@ -1,2 +1,1 @@
-His words are interrupted by the sound of a video-phone, also a thing of the past, and he answers it. A screen in the video-wall is replaced by the words "SOUND ONLY".
-(ru/ai_expands/scene/videophone-starts.txt)
+Его слова обрываются звонком видео-телефона, которые также были уже делом минувших лет, и он отвечает на него. Один из экранов видеостены заполняется словами "SOUND ONLY".

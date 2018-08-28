@@ -1,2 +1,1 @@
-'There, can't you see it? The AI is already making decisions without you!' - said {common/journalist-name/first} indignantly.
-(ru/ai_expands/journalist/look-here-ai-is-taking-over-you-are-powerless-to-stop-it.txt)
+'Вот, разве не видно? {common/ai-name} уже принимает решения без вас!' - сказал {common/journalist-name/first} с возмущением.
