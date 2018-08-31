@@ -1,1 +1,1 @@
-'Executor list: 1 item. 1: Model TX headset. Status: FAILED.'
+'Executor list: zero items. Any jobs will be ineffective. To add executors, please contact your Service Representative.'
