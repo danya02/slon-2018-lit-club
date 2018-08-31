@@ -12,7 +12,7 @@
 
 . . .
 
-'Okay, I'm here. I've reconnected the MSCs, so it's ready to chooch.'
+'Okay, I'm here. I've reconnected the MSCs, so it's ready to chooch.' - {common/assistance-name} said, quite clearly in spite of all the static coming through the radio.
 
 'And if it goes bad again, I yell 'SCRAM', and you pull the cables.'
 
