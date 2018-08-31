@@ -4,7 +4,7 @@
 
 'Yeah, the CTO said to do this. Why do you ask?'
 
-'Well, you know how the intention was to use up our stock of those humanoids we wanted for {common/fail-project-name}?
+'Well, you know how the intention was to use up our stock of those humanoids we wanted for {common/fail-project-name}?'
 
 'Don't tell me - the filter failed, causing it to install the mind-tech into civilians?'
 

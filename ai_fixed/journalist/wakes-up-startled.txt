@@ -2,6 +2,6 @@
 
 {common/creator-name/first}'s usual announcement of job completion - a standard among his team back at {common/company-name} - was punctuated with the sound of {common/journalist-name/first} falling from his bench.
 
-'Oh, I'm terribly sorry. Are you okay?' - said {common/creator-name/first}, offering {common/journalist-name/first} help.
+'Oh, I'm terribly sorry. Are you okay?' - said {common/creator-name/first}, running over to {common/journalist-name/first} and helping him stand up.
 
-'Y-yeah...' - he answered weakly, sitting up.
+'Y-yeah...' - he answered weakly, wistfully swaying on the spot.

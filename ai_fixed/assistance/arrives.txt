@@ -1,6 +1,6 @@
 'Hey {common/assistance-name/first}!' shouted {common/creator-name/first}, and the hologram raised its head, saying 'Y-yeah?'.
 
-'I realy need your help here, on the {common/ai-name} test site.
+'I really need your help here, on the {common/ai-name} test site.
 There's a problem.'
 
 'Yeah, I heard the monitor system blip.

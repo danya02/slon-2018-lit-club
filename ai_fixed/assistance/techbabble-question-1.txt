@@ -1,5 +1,5 @@
 'So, essentially, what's happened is that you pulled the backup system?'
 
-'Hey, it's not my fault is faster, and it remapped itself to depend on it!'
+'Hey, it's not my fault it's faster, and it remapped itself to depend on it!'
 
 'Riiiight... So I should just pull the NetRAID array back up and running?
