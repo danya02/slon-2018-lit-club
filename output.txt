@@ -10,7 +10,9 @@ He has at this point walked across the stage, and reached a previously-unseen sw
 
 A spotlight illuminates overhead, revealing, in the center of the stage, a large computer installation. But it wasn't a common computer installation. In the front was a matrix of LEDs which was saying its name. There were many cube-shaped modules on either side of the LED matrix. Some said "GPU - NekoVision 9080 FI", some said "RAM - KiokuMem XGDDR13 512GBx64", yet others had a wireless symbol emblasoned on them. The whole thing had a large cooling unit sitting on top of it all. It is, indeed, a sight to behold.
 
-'Built upon the latest Roswell CPU technology, the main processor box is custom-built for the task of managing high-performance industrial environments. It can be expanded infinitely simply by connecting more of these addon modules. The GPU modules expand its ability to manage movement of its execution actors, or "nodes". The memory banks are used for storing info on the best method of execution of some particular task. The wireless modules are used for connecting to the execution nodes. On the task level, it can do up to 64 parallel tasks in the basic package, which is what you see here. All tasks are switchable between individual nodes, support adding and removing nodes from a task without halting execution. It can also mirror tasks, for those cases when a task can be done repeatedly on some predictable objects. Finally, it has automatic danger avoidance built in, but in case that doesn't help, it has error correction.
+'Built upon the latest Roswell CPU technology, the main processor box is custom-built for the task of managing high-performance industrial environments. It can be expanded infinitely simply by connecting more of these addon modules. The GPU modules expand its ability to manage movement of its execution actors, or "nodes". The memory banks are used for storing info on the best method of execution of some particular task. The wireless modules are used for connecting to the execution nodes. On the task level, it can do up to 64 parallel tasks in the basic package, which is what you see here. All tasks are switchable between individual nodes, support adding and removing nodes from a task without halting execution. It can also mirror tasks, for those cases when a task can be done repeatedly on some predictable objects. Finally, it has automatic danger avoidance built in, but in case that doesn't help, it has error correction.'
+
+He paused momentarily, then added: 'One of the most important under-the-hood features in data handling is the GZIP COMPRESSION for all data streams at the hardware level, reducing the control signal transfer overhead and optimizing the in-memory storage. The GZIP COMPRESSION chips are also available for purchase from the Virtudyne parts store.' 
 
 Few people understood what was said, but they were excited enough for it not to matter.
 
@@ -24,7 +26,7 @@ The screen switched to a picture of a face, which said: 'Awaiting orders.'
 
 'ATLAS, juggling, 10 balls, three nodes. Go!'
 
-Three humanoids out of five reached forward, taking each three balls, save for the central one, who took four. They started juggling, gradually moving each ball from left to right, then back. The machine said: 'Executing. Work job is ZXhhbXBsZSB3b3JrIGpvYgo='.
+Three humanoids out of five reached forward, taking each three balls, save for the central one, who took four. They started juggling, gradually moving each ball from left to right, then back. The machine said: 'Executing. Work job is H4sIAJIJjFsC/zWQQW7DMAwEv7I55WL4VPQFBQoDPfYDTETZaizSkKi2yutDO+1JFKldzmqK6NrOhVGYQpIZtqQ6YElecOETpnPGG0knvLNwoVW/h30GarZogcZDguoXQzUtfcTkPW3zYn6SuUcAy1UDo2rmXZM79Edw1ZxZjEoHXbTZ4XyYIIkpkjmLbhzbunZ4g3+3lZI8faq1GEd8ukbF50sKgQWZa6WZK8hz+dv5njYnuFDl15cBX60a1nTjJ7gKj/hQvWHfHz2SM+QBJMFz7Mv3L/oX/NGd8ACUQh8oOgEAAA=='.
 
 'And the beauty of it all is, this system can dynamically allocate execution. ATLAS, drop node 1!'
 
@@ -52,7 +54,7 @@ The two humanoids took all of the remaining balls from the pile, and joined in j
 
 And a final feature I'd like to show you is error correction. Suppose, for example, that this humanoid were to fail. And I'm going to simulate it like this...' - he said, walking up to the central humanoid from behind. He flicked a switch on the back of its head, and it froze for a moment, then fell forwards.
 
-The remaining humanoids pulled in to join the gap. The machine said: 'Error. Node 3 failed: host sending bogus data. Distributing work job ZXhhbXBsZSB3b3JrIGpvYgo= across nodes 1, 2, 4, 5.
+The remaining humanoids pulled in to join the gap. The machine said: 'Error. Node 3 failed: host sending bogus data. Distributing work job H4sIAJIJjFsC/zWQQW7DMAwEv7I55WL4VPQFBQoDPfYDTETZaizSkKi2yutDO+1JFKldzmqK6NrOhVGYQpIZtqQ6YElecOETpnPGG0knvLNwoVW/h30GarZogcZDguoXQzUtfcTkPW3zYn6SuUcAy1UDo2rmXZM79Edw1ZxZjEoHXbTZ4XyYIIkpkjmLbhzbunZ4g3+3lZI8faq1GEd8ukbF50sKgQWZa6WZK8hz+dv5njYnuFDl15cBX60a1nTjJ7gKj/hQvWHfHz2SM+QBJMFz7Mv3L/oX/NGd8ACUQh8oOgEAAA== across nodes 1, 2, 4, 5.
 
 'So, as you can see, it will continue doing its job even if some of the nodes failed. And now, as a bonus for all you in the audience... ATLAS! Stop work job! Disribute balls to people in audience!'
 
@@ -158,7 +160,7 @@ Ring, ring...
 
 'Uhh... Yeah, sure, why not?'
 
-Simon sounds releived. 'Great! Then, could you please take the nearest teleport station to coords bXkgaG9tZQo=? Thanks!'
+Simon sounds releived. 'Great! Then, could you please take the nearest teleport station to coords H4sIAJIJjFsC/2VRS3LDIAy9yptsvPHkCp121RwDg4iVGOQBUde3r3CatjPdMEI8vQ96lw306bwuOwIH6Ey4th1X0qP2hZxKGSrWWTIhtzRRgcv75vYXvOaAbeaFsNFQCE7BOlpLwPWH7Im+DAmclUp2i+kVilQK5ytUMHOCq3A43aR1AFc9jdjNx6U7y4MepjouSB8yVtSVPEf2+B2yyyblfsZbMzTtox3Dw8sH07barMLPrlhoKiOqHG+WM1iwOktbwsPlWr71Dl9PQJtMQ5vS+UjPGdGYxl4kqQqJB1+g6guvypLrs6fk58zeLajaYhwtmRam0PMnd6f/g6bMEV5SDxyLJLObqC+if3EQqv1fWjZnVd2xDKd/aCYjl+lG3vZSz1+5ZKaI7QEAAA==? Thanks!'
 
 Click...
 
@@ -168,15 +170,15 @@ Click...
 
 'Thanks for having me on such short notice.' - he replied, looking around him.
 
-One corner was occupied with a multi-monitor computer setup. In another corner was a server rack, about three-quarters full. Yet another corner housed a large workbench, with several filing cabinets full of electronic parts standing on either side and a camera hanging from above. The final corner housed the teleporter that he walked out of, and a large refrigerator. In the middle, a large rectangle was marked with luminescent paint, and exactly nothing was inside.
+One corner was occupied with a multi-monitor computer setup. In another corner was a server rack, about three-quarters full. Yet another corner housed a large workbench, with several filing cabinets full of electronic parts standing on either side and a camera hanging from above. The final corner housed the teleporter that he walked out of, and a large refrigerator. In the middle, a large rectangle was marked with luminescent paint, and two stick-like devices with a ring on top were lying beside some sort of headpiece with a cable going to the computer corner.
 
-All of these were signs that Tom has undoubtedly arrived at Simon's home.
+"This must be where Simon lives," - thought Tom, rather astutely.
 
-'Ah, no worries. In fact, I'm quite glad someone finally noticed a problem.
+'Ah, no worries. In fact, I'm quite glad someone finally noticed a problem.'
 
 'So, where are we going then?'
 
-'Whaddayamean, "where"? Into the center of Detroit, where the system is located. Surely you should know that?' - he added, looking at Tom surprisedly.
+'Whaddayamean, "where"? Into the center of Detroit, where the system is located. Didn't I tell you a few minutes ago?' - he added, looking at Tom surprisedly.
 
 'Oh, yeah. Right.'
 
@@ -184,11 +186,9 @@ All of these were signs that Tom has undoubtedly arrived at Simon's home.
 
 'Um, if we're leaving right away, why did you call me here?' - Tom wondered.
 
-'Oh, that's just so I know you're for real,' - Simon explained, - 'as there were instances where some prank callers caused me problems.'
+'Oh, that's just so I know you're for real,' - Simon said, - 'as there were instances where some prank callers caused me problems.' - He looked uncomfortable at saying that last phrase, and Tom decided not to pursue the issue further.
 
-'Ah, right.'
-
-'So, before going on a mission like this, I have to first check if anyone else would come too - which you are, I think - then...'
+'So now, before going on a mission like this, I have to first check if anyone else would come too - which you are, I think - then...'
 
 He reached into the computer corner, extracting a backpack.
 
@@ -208,7 +208,7 @@ From behind the server rack, he took out a packet of instant noodles, immediatel
 
 Closely following him was Simon, and when they both were standing in the machine, he said loudly:
 
-'bWF5b3IncyBsYWlyCg=='
+'H4sIAJIJjFsC/1WQwW7DMAxDf4W3Xor+x+77Ac1RZje2ZFjKgvz95LQYsKtFPtL8zIxGRdC1iENXeC6GI2tlWGJhHGRwxcKWRvniEDDSYHIdCGPTwXHsnh/4uDWIOuJa6wnCSjKZKdOg5DzelO5FJaiZHM/dHEYnsh6TfaKqbsFCH7yGpXjUYcGpO4xf+Z2HqdyiaBgjoJafIt93kCwXJyROdbOJaWoeZZouXHn5V5/W2amdxnV9m+PzWXdjFLukpuOapVdKHB9cImvjOUhkhkrusd8W4a/h6M9wFMvrXuezzPvjF8hi5MlrAQAA'
 
 . . .
 
@@ -256,7 +256,7 @@ The AI pauses for a moment. 'But, if you are telling the truth, you are lying, b
 
 Simon looked at the screen intently. The screen was rapidly changing its contents. Every few seconds, the screen would flip between memory dumps, data displays, system status monitors (code yellow), the facial expression display program, and, with increasing frequency, a screen full of text:
 
-SWYgeW91IHJlYWQgdGhpcyB0ZXh0LCB0aGVuICpjb25ncmF0dWxhdGlvbnMqISBUaGVyZSBhcmUg c29tZSBoaWRkZW4gdGV4dHMgbGlrZSB0aGlzIGFyb3VuZCwgYWxsIGluIGJhc2U2NC4gTm9uZSBv ZiB0aGVtIGFyZSBjcml0aWNhbCB0byByZWFkLCBidXQgYXJlIG1lcmVseSBuaWNlLXRvLWhhdmVz Lgo=
+H4sIAJIJjFsC/1VTS3LbMAzd+xTIKsmM6wN000lX9Ux37gUgEZJYU4RKglbU0xcgZSfdeCwSAN8PF4Yz/C5ZYMUo5EAmn0EYOoLMs/0kAR6g5IIBfvLoe/jOc/dFtkVve4qYPB9h9TJpM8GCCR2/Q89xKNnHsZ5OFAJwqaPs++0MGF39y8uSKGd9eyFeAkEgvGnfCX7wSjdKR/CDonTe6lFqU4Oz4na0z0SwcgnOUFcMibtAcyvPpZ8AFc+sw98hb1n0qsdo1Y4GQuPdbVpjcBVAFj2aKcoJLgxeYCTJWi1iYDplEVngT/H9FShyGafT4fBL302EmeMD5WaY47NCECvFxEU5exvVY8mkpCa8kU4D7whBWydeTX0l0BO5E5yHNgiVYo+LlNSwGsu/agN7l48GccIMGBSA23Q8RSBl0QWfJ3KfANmcgVNvh6yipat97pYcqydV7BldkzILJ23rzLsKzs5KunmzCGaaO0pNn+qlmaE8TAq1UU2t/sRPox5GzeZL4DiSvY+xRq9BuBPx8mxzW5Vm1Abvdivdtf47w5pYqHaf4O1OYELXSPyXYpdwRjUDBj9OUuNL4OONw+2eVM2vbI9wmsaeTeNKY+OyExiIAnT6yF2+Dzcwf2htN71qFTzGB7nM9XydONCOoQ3VqF5r//l5tlSMzFovmtLcJ7+I17CsyYthfTEsM24tQmNpK1Sd3uV71VRqfvfN1NjdVcheiqrAUdfW6m0XdL/YItEWYg/EN7h425qvupNmxVhL7M4VdYTj0+Hwcra0zj43CxTSlfQpipmOmpiovj29/gPEP1y+ZwQAAA==
 
 'Yes, that's about right. And now, I think, it should start di-'
 
@@ -274,7 +274,7 @@ He pauses, looking at his wristwatch (which are totally still a thing).
 
 '...yes, the clock cycle limit should-'
 
-'Clock cycle limit reached. Compute job is d2F5IHRvbyBoYXJkIQo=. Warning: targets have disappeared in less than 20 ticks. Pursuit status: overridden by efficiency monitor.' 
+'Clock cycle limit reached. Compute job is H4sIAJIJjFsC/w2KMRKDMAwEv3L0mfwhJT0fEFhjlAiLsc8k/D7udnZ32RWvGTmIFrByaaOmAWC9rWQwRvBLwV0IN9IVp1RJ8XvACNnYxf1GlnENYWyIb8EWx9mpeMc6YRH/QNboRFJqPawILcrzD19fwJOBAAAA. Warning: targets have disappeared in less than 20 ticks. Pursuit status: overridden by efficiency monitor.' 
 
 '...There, did you hear that? Now, if we were around when it said THAT, we'd have already "become useful" by now.'
 
@@ -294,7 +294,7 @@ Tom was still looking absentmindedly at the newly-created doorway, and would've 
 
 'W-what? Oh, yeah, right. Let's go, then.'
 
-Simon walked into the doorway, closely followed by Tom, the door closing behind them. They were standing on a catwalk above a mess of cabling. Around them, the walls were covered in tiles. Some had a screen on them, and the screen was displaying some obscure system data. Others had text on them, saying 'ATLAS Access Corridor Z3JlZW4gb25lCg=='. Still others were simple tiles, grey in color. But they wouldn't know that, as the ceiling had a line of green lights illuminating the area. In front of them, the line of lights split into three, each leading through a new corridor.
+Simon walked into the doorway, closely followed by Tom, the door closing behind them. They were standing on a catwalk above a mess of cabling. Around them, the walls were covered in tiles. Some had a screen on them, and the screen was displaying some obscure system data. Others had text on them, saying 'ATLAS Access Corridor H4sIAJIJjFsC/0WQTU4DMQyFr+IdIJU5ALtukLqGC5jkkYnI2FXiIZrb46StWPrn83t+H1kCyFbQ+UJBxaqWRkyFawKFbMeJLj7XPa1G2ajrXiKt/OuU0g9wnXTPNUuiphv6ioqF3rX6JDeq4KbiZ56cyUMh7gFxYM0l2Djo9tVOxDKbB3H1vhY/EDQiLu4gIuQ4IbYpOOdTMqzY/HDz9t7eXC6O4ttplsMd+M5VO+prRWFDPFGqgDyWohu4aX+VHY/uPQpqOQmXttBZDho+s7BlFXoOB/tTGyeI8eQPlKL9hTawtH+n1nWQVxXfbCMBVA42s1q1L/Q58luzgarqdosgwUa+8yuQozRjvbt9uBuq8zfXhC1/Xu0WiM0BAAA='. Still others were simple tiles, grey in color. But they wouldn't know that, as the ceiling had a line of green lights illuminating the area. In front of them, the line of lights split into three, each leading through a new corridor.
 
 'Well then,' - Simon mused. - 'We are in a maze of twisty little passages, all alike.'
 
@@ -364,7 +364,7 @@ The end of his sentence was drowned in the sound of the unseen voice of ATLAS, w
 
 *PULL*
 
-The voice has fallen silent. On a screen near the opened pane - indeed, on EVERY screen in sight -  were the words "ATLAS FAILED with code Z3JldmlvdXMgZXJyb3IK".
+The voice has fallen silent. On a screen near the opened pane - indeed, on EVERY screen in sight -  were the words "ATLAS FAILED with code H4sIAJIJjFsC/yWPsVLEMAxEf2W7a474wlBdScFwFRT0GcdRYnOJlbFkcvl7ROhWI+2u3lck0CNEnydCEqi/U8ZYeIHPoDUJDwQe8frx9n6GrBTSmIKf5x0azcCZroiqq1yd27at0UiFpiRKpQnc1Lt7vlxad3lxbet6HmNnF11JQp3PQzdalMNNT4LM+Wkg0VKDph+ytpQD4YbNZ6XB+ggz+YEKlNET1kJCx2pLGo+9mU35nqses+z2yNLgc65ytqjvKorg80ktwJd/T+Q6Rf2jPOp5T3ky/N0ATQgj8LLO9ICXA7r5BUVV5Pg2AQAA".
 
 'There, that should do it. Sorry you had to see that...' - Simon said apologetically, looking at Tom, who looked very uncomfortable indeed.
 
@@ -372,7 +372,7 @@ The voice has fallen silent. On a screen near the opened pane - indeed, on EVERY
 
 Simon chuckled. 'Yeah, me neither. It's way too small, comparing to other junction points. But where should we even go? This is a white room, we can go anywhere!'
 
-Tom looked up. Indeed, the room was illuminated white. He didn't notice that before, for after the initial green corridor, they had walked into a yellow one, then through a red one, with cables lining the walls ("Don't touch ANYTHING!" warned Simon), then, through a small magenta room, into a cyan one, from which they went into the blue corridor (with blinking lights lining the walls),  which, finally, merged into the white room.
+Tom looked up. Indeed, the room was illuminated white. He didn't notice that before, for after the initial green corridor, they had walked into a yellow one, then through a red one, with many cables on the walls jumping between junction boxes and power monitors on each, then walked through a small magenta room, which was mostly occupied  by a large metal box with cables all around it, all loudly humming a low note ("Don't touch ANYTHING!" warned Simon, even though he gave Tom as a gift some spare part from the floor that was supposedly an "N-channel MOSFET Block: IRFZ44NPBF * 224"), into a cyan one, from which they went into a blue corridor (with blinking lights, displays and keyboards lining the walls),  which, finally, merged into the white room.
 
 'So we can take either the red, green, or blue way out.' - Simon explained, pointing at each of the corridors connecting to the circular room.
 
@@ -400,7 +400,7 @@ Looking down, he saw the floor close behind them, and announced: 'Well, we've pa
 
 'And how many are there?'
 
-'About twenty. Which means we shall now play... the Waiting Game.
+'About twenty. Which means we shall now play... the Waiting Game.'
 
 . . .
 
@@ -414,7 +414,7 @@ The people looked doubtful, but still murmured in agreement, and slowly went bac
 
 'Hey Mitch!' shouted Simon, and the hologram raised its head, saying 'Y-yeah?'.
 
-'I realy need your help here, on the ATLAS test site. There's a problem.'
+'I really need your help here, on the ATLAS test site. There's a problem.'
 
 'Yeah, I heard the monitor system blip. It's probably nothing important, right?'
 
@@ -422,7 +422,7 @@ The people looked doubtful, but still murmured in agreement, and slowly went bac
 
 The figure yawned. 'Well, if it's that important, I'll be there soon.'
 
-Simon seems relieved. 'Okay, I'm at coords bmVhciB0aGUgQUkK.'
+Simon seems relieved. 'Okay, I'm at coords They resurfaced somewhere not far from the city centre, but far enough that the compute core is not visible. The holo-terminal they are going to go to is presumably near, but not too near. I just didn't want to deal with any locations, so you can assume it's all in the vicinity..'
 
 The hologram disappears, and the device flies back towards Simon. Moments later, the real Mitch appears in front of him.
 
@@ -432,7 +432,7 @@ The hologram disappears, and the device flies back towards Simon. Moments later,
 
 'Yeah, the CTO said to do this. Why do you ask?'
 
-'Well, you know how the intention was to use up our stock of those humanoids we wanted for Cygnus?
+'Well, you know how the intention was to use up our stock of those humanoids we wanted for Cygnus?'
 
 'Don't tell me - the filter failed, causing it to install the mind-tech into civilians?'
 
@@ -460,7 +460,7 @@ Mitch walked over to the center of the platform, spinned round on the spot, and 
 
 'So, essentially, what's happened is that you pulled the backup system?'
 
-'Hey, it's not my fault is faster, and it remapped itself to depend on it!'
+'Hey, it's not my fault it's faster, and it remapped itself to depend on it!'
 
 'Riiiight... So I should just pull the NetRAID array back up and running?
 
@@ -500,7 +500,7 @@ Mitch stepped on the pointed-out ground, a blue glow appeared around him in a ci
 
 . . .
 
-'Okay, I'm here. I've reconnected the MSCs, so it's ready to chooch.'
+'Okay, I'm here. I've reconnected the MSCs, so it's ready to chooch.' - Mitch said, quite clearly in spite of all the static coming through the radio.
 
 'And if it goes bad again, I yell 'SCRAM', and you pull the cables.'
 
@@ -512,7 +512,7 @@ The holo-terminal fills with diagnostic info, and ATLAS's voice filled the envir
 
 'ATLAS, executor list, verbose!' - Simon said quickly.
 
-'Executor list: 1 item. 1: Model TX headset. Status: FAILED.'
+'Executor list: zero items. Any jobs will be ineffective. To add executors, please contact your Service Representative.'
 
 Simon sighed. 'Okay Mitch, it's fine!'
 
@@ -528,7 +528,7 @@ Simon sighed. 'BECAUSE the AI works by controlling executors, and you've just br
 
 'That's good enough. Could you bring it here?'
 
-'Sure, give me a moment,' - Mitch said, entering the nearest teleportation point and saying "UiZEIGRlcGFydG1lbnQK".
+'Sure, give me a moment,' - Mitch said, entering the nearest teleportation point and saying "H4sIAJIJjFsC/y2OQQ7CMAwEv7I3Loh/9BlOYkhEiZG8Jcrvcaped9bj3VBa6TeCtfU3BLsRkuwgRp2RKsS9OaUTVRySs7qDdrKqUlx5R4qDDSNaWtAIX1yIZKyw5yq74nVMD8tPr0cBLt9oa8DpzPb5Sp+PP7Ll7lSbAAAA".
 
 A minute later, he's back, wearing a gigantic contraption on his head that presumably is, indeed, the dreaded Model TX headset.
 
@@ -566,7 +566,7 @@ The vending machine in question, as they both knew, was loaded only with various
 
 Looking at the code, Mitch felt his jaw drop. They both knew that this was one of the most difficult and bug-riddled pieces of ATLAS's core. No less than 12 different programming teams had a go at fixing it before Simon came along. This section of code never appeared in another bug report since, but only now did Mitch discover the reason why.
 
-'Well, okay...' - he said, still flabbergasted at his request, but he still walked toward the teleportation point, said "VE8gVEhFIFBVQiEhIQo=", and was away.
+'Well, okay...' - he said, still flabbergasted at his request, but he still walked toward the teleportation point, said "H4sIAJIJjFsC/z2PwW7EIAxEf2WOrUQqtZ/Qw6p76qH7Aw5xAJVgZGBX/fsCkfaCkMdvxnPzDGUqklA91f4wbB9UUYSCB6UaksPKrAulbbE+5DKUlS21wgbvZkKZ9WlyRaKDN/hwgIrBTzi6dFNyd4qBzOAH8/l9+cJLFPk9uZZfDXoKJDFk73xBlOQq6wEnFGcyoVRaI6O0nOPfWBznTfA8b1c5ZgBZlVKW/l1UaENu6xnwYfDwoXtce8VeU8OsWXvirKM85wRtKQ3FkQOt0iooWvESMeUcpS6bhvvY2UUtn/7D6LxVee9uyTKqzJZv/5EzY8RzAQAA", and was away.
 
 A couple minutes pass, and he returns with the requested two boxes of lager and 12 packets of chips.
 
@@ -586,9 +586,9 @@ He trails off as the holo-terminal displays a flashing red warning box saying "M
 
 Simon's usual announcement of job completion - a standard among his team back at Virtudyne - was punctuated with the sound of Tom falling from his bench.
 
-'Oh, I'm terribly sorry. Are you okay?' - said Simon, offering Tom help.
+'Oh, I'm terribly sorry. Are you okay?' - said Simon, running over to Tom and helping him stand up.
 
-'Y-yeah...' - he answered weakly, sitting up.
+'Y-yeah...' - he answered weakly, wistfully swaying on the spot.
 
 'Right, now that that's sorted, we gotta get a purchase order sorted for Mr Johnson to sign.'
 
@@ -624,13 +624,13 @@ Meanwhile, the printing contraption has finished doing its thing, and Mitch now 
 
 'Of course, sure thing.'
 
-'All right then, let's go!' - said Simon, entering the teleporter, and the others followed, with Mitch picking up the "MODEL TX HEADSET TEXT TYPE". He said 'bWF5b3IncyBsYWlyCg==', the teleporter activated, and they were gone.
+'All right then, let's go!' - said Simon, entering the teleporter, and the others followed, with Mitch picking up the "MODEL TX HEADSET TEXT TYPE". He said 'H4sIAJIJjFsC/y2NQRKDQAgEvzI3L4l/SG4+A3dRqVKwdtFkfx9McoNhmn44fJGK3UT9FjO3rjDmWGe4XQGSeOsqVqbM5YbxcAzIkrVzvEj96tWdk0wNr4UD5zclX1uPJyc6agQnK0R/rkwNpBk0cxjvuxX/26ptbMohs2mSxIh2OTL3eNRwVpKMkScrAQ5fN+eLo9PiQtqwWiIXU2yk8X9j9f4DFlE1FOQAAAA=', the teleporter activated, and they were gone.
 
 Meanwhile, Mr Johnson was sitting in his office, studying his video wall. He was concerned: the things it was displaying were very different from what he had seen earlier in the day. After the meeting with the unwanted visitor, he used the quick-order gizmo to get himself some lunch. And upon return, he was greeted with weirdness.
 
 The logarithmic, parabolic and exponential slopes had turned into linear ones, parallel to the floor. The linear slope turned negative. The inter-bank operation list and counter have slowed down to a crawl. The counter that ticked every second has stopped. The alarm clock is ringing. The exchange rate is rising so fast that the screen is too small to contain the number. The world capital clocks are spinning backward.
 
-More weirdness ensued when most of these screens were replaced with a yellow triangle and exclamation mark, along with some text. Not only was the exclamation mark on its side, but the text read "ATLAS error: ZXZlcnl0aGluZydzIGJyb2tlbgo=".
+More weirdness ensued when most of these screens were replaced with a yellow triangle and exclamation mark, along with some text. Not only was the exclamation mark on its side, but the text read "ATLAS error: H4sIAJIJjFsC/21US2/UMBC+91cMp1IpzZYKIeBEAYlWAnGgEudJPJsM60fkx27TX89np2o5IK12s7Znvsd8zv0sdFQj4cTWkibiMaufKM94Tjmyn8SuNMjIJQlprmfGEqP4jHX1xOSCERRwJiOLeJMoePwXurnr6Zf6sdWdONEQw0FQ4k3d97TXBzEdyVHiCkTgovtJNJr+7OweHcCmsCWrKVPY06SPLjy3f+bdEXovURJIiSEvHNuBQSb1Hm27hj7psYJDI9nQ+rWCym8feXL4k3q6r8rxeZKM0lmt0CnqszEd3bWGi+W1rn0NB92+vmuWyLlEoS+2DK9a9Tg3Y8E3VTE+HMViXaIMK6XgBMyiTQ1CaAniQGNDUJ8WjdCEk1VRyiu4wPWtbfBSZWDHteO1AwR1lBYZda8jzFk/0pzz8nG3M8aOJz1oP/Gu/u5+zyIWTt/YFGBBcNsUJ3ZSJU4wKb8MAW5zRSupah44ybu3lAPBwBoAw5k72odI8sBu2WiuJWo/zhETojEsa63fqN9RWWxgA23ViY1kAkvux3Dg3vLuVj74+UMtpx8FJVYPsgUzS+6QqfO02eeE65RpVmMwYZgGrm1rC5XYJD19LrlBQdr5UWhmU9nXVE+PuuA5dHXBcUNBvT4KCSdFzh17noQHK7Dr59y1CDNs6zZClRNKLG85xTPaZnnIyAq8hZdFUno+24aPoNPCMeOOhC2Ve/UtHxkcU7s3ayiYeRkPdNI8QyhFYVM11evakFoczx1Z4WPdqCUIuPpDVVNZfdN8WwZgTfKE3Hj8E5gX9yfAlAEjcDvDfuWr612ywV9eX715f2k1X46INd1Ave4b1Il9rkB/CqTjPplKEu8EyAVeR24lcayW2JhYPQDyayw+kYL90SNvTV/AhHxxg8R08ek/hy76WOp7gf0htaQ9mbGNYwrBDKu8+gvy/b4H0wQAAA==".
 
 At this very moment Simon, Mitch and Tom entered the room. It raised more questions than it answered, and Mr Johnson could at this point say nothing but: 
 
