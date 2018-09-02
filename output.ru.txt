@@ -26,7 +26,7 @@
 
 'ATLAS, запусти "Жонглирование", 10 мячей, три исполнителя. Марш!'
 
-Два из пяти существ достали из кучи три шара, а один - четыре. Отойдя на безопасное расстояние, они начали перекидываться шарами друг с другом. Агрегат тем временем произнёс: 'Выполняю. Задача имеет идентификатор H4sIAJUJjFsC/zWQQW7DMAwEv7I55WL4VPQFBQoDPfYDTETZaizSkKi2yutDO+1JFKldzmqK6NrOhVGYQpIZtqQ6YElecOETpnPGG0knvLNwoVW/h30GarZogcZDguoXQzUtfcTkPW3zYn6SuUcAy1UDo2rmXZM79Edw1ZxZjEoHXbTZ4XyYIIkpkjmLbhzbunZ4g3+3lZI8faq1GEd8ukbF50sKgQWZa6WZK8hz+dv5njYnuFDl15cBX60a1nTjJ7gKj/hQvWHfHz2SM+QBJMFz7Mv3L/oX/NGdHj56kBI5AQAA'.
+Два из пяти существ достали из кучи три шара, а один - четыре. Отойдя на безопасное расстояние, они начали перекидываться шарами друг с другом. Агрегат тем временем произнёс: 'Выполняю. Задача имеет идентификатор H4sIALYLjFsC/zWQQW7DMAwEv7I55WL4VPQFBQoDPfYDTETZaizSkKi2yutDO+1JFKldzmqK6NrOhVGYQpIZtqQ6YElecOETpnPGG0knvLNwoVW/h30GarZogcZDguoXQzUtfcTkPW3zYn6SuUcAy1UDo2rmXZM79Edw1ZxZjEoHXbTZ4XyYIIkpkjmLbhzbunZ4g3+3lZI8faq1GEd8ukbF50sKgQWZa6WZK8hz+dv5njYnuFDl15cBX60a1nTjJ7gKj/hQvWHfHz2SM+QBJMFz7Mv3L/oX/NGdHj56kBI5AQAA'.
 
 'Красота же этой системы заключается в том, что можно динамически распределять нагрузку. ATLAS, останови исполнителя 1!'
 
@@ -34,11 +34,11 @@
 
 'И здесь работает зеркалирование действий, выполняемых одними, к другим. ATLAS, настроить зеркало, 2 и 3 к 1 и 4. Марш!'
 
-TДва существа достали ещё десять мячей из стопки и, встав рядом с первой парой стали жонглировать синхронно с ними.
+Два существа достали ещё десять мячей из стопки и, встав рядом с первой парой стали жонглировать синхронно с ними.
 
 'Но, конечно же, можно делать несколько действий одновременно! У меня с собой...' - сказал он, доставая из заднего кармана - 'нерешённый кубик Рубика. Интересно, сколько времени потребуется на это? ATLAS, исполнитель 5, лови, решай, возвращай!'
 
-Оставшееся существо прошло вперёд и приготовилось ловить. Рассказчик кинул кубик, наамеренно промахиваясь, но существо всё равно поймало. Примерно 8 секунд спустя, кубик летит обратно, и рассказчик показывает всем, что кубик действительно решён.
+Оставшееся существо прошло вперёд и приготовилось ловить. Рассказчик кинул кубик, намеренно промахиваясь, но существо всё равно поймало. Примерно 8 секунд спустя, кубик летит обратно, и рассказчик показывает всем, что кубик действительно решён.
 
 Пара зрителей из зала крикнули 'А слабо ТАКОЕ?' и кинули на сцену парочку более экзотических головоломок, в том числе кубик 20x20x20 и что-то под названием "Ромбоикосододекаэдр Рубика". Все были пойманы существом и положены на пол, двадцатисторонний кубик начал решаться, а машина произнесла: "Лимит производительности достигнут для исполнителя 5. Переназначить задачу для исполнителя 1?'
 
@@ -54,7 +54,7 @@ TДва существа достали ещё десять мячей из ст
 
 'И последняя функция, которую надо сегодня показать - коррекция ошибок. Предсавим себе, что вот этот исполнитель сломается. Симулировать это будем так...' - сказал он, подходя к центральному гуманоиду сзади. Он нажал на выключатель у него на затылке, и, застыв на секунду, упал на пол.
 
-Оставшиеся существа сомкнули резко появившееся пространство. Машина же сказала: 'Ошибка. Исполнитель 3 неисправен: клиент присылает странную информацию. Распределяю задачу H4sIAJUJjFsC/zWQQW7DMAwEv7I55WL4VPQFBQoDPfYDTETZaizSkKi2yutDO+1JFKldzmqK6NrOhVGYQpIZtqQ6YElecOETpnPGG0knvLNwoVW/h30GarZogcZDguoXQzUtfcTkPW3zYn6SuUcAy1UDo2rmXZM79Edw1ZxZjEoHXbTZ4XyYIIkpkjmLbhzbunZ4g3+3lZI8faq1GEd8ukbF50sKgQWZa6WZK8hz+dv5njYnuFDl15cBX60a1nTjJ7gKj/hQvWHfHz2SM+QBJMFz7Mv3L/oX/NGdHj56kBI5AQAA исполнителям 1, 2, 4, 5.
+Оставшиеся существа сомкнули резко появившееся пространство. Машина же сказала: 'Ошибка. Исполнитель 3 неисправен: клиент присылает странную информацию. Распределяю задачу H4sIALYLjFsC/zWQQW7DMAwEv7I55WL4VPQFBQoDPfYDTETZaizSkKi2yutDO+1JFKldzmqK6NrOhVGYQpIZtqQ6YElecOETpnPGG0knvLNwoVW/h30GarZogcZDguoXQzUtfcTkPW3zYn6SuUcAy1UDo2rmXZM79Edw1ZxZjEoHXbTZ4XyYIIkpkjmLbhzbunZ4g3+3lZI8faq1GEd8ukbF50sKgQWZa6WZK8hz+dv5njYnuFDl15cBX60a1nTjJ7gKj/hQvWHfHz2SM+QBJMFz7Mv3L/oX/NGdHj56kBI5AQAA исполнителям 1, 2, 4, 5.
 
 'Так вот, работа продолжится даже если некоторые исполнители сломались. А теперь, просто на память всем присутствующим... ATLAS! Останови работу! Мячи - в зал!'
 
@@ -162,7 +162,7 @@ TДва существа достали ещё десять мячей из ст
 
 'Эммм... Ну ладно, конечно, почему бы и нет?'
 
-'Отлично! Тогда ты можешь на ближайшей телепортационной станции сказать, что тебе надо на координаты H4sIAJUJjFsC/2VRS3LDIAy9yptsvPHkCp121RwDg4iVGOQBUde3r3CatjPdMEI8vQ96lw306bwuOwIH6Ey4th1X0qP2hZxKGSrWWTIhtzRRgcv75vYXvOaAbeaFsNFQCE7BOlpLwPWH7Im+DAmclUp2i+kVilQK5ytUMHOCq3A43aR1AFc9jdjNx6U7y4MepjouSB8yVtSVPEf2+B2yyyblfsZbMzTtox3Dw8sH07barMLPrlhoKiOqHG+WM1iwOktbwsPlWr71Dl9PQJtMQ5vS+UjPGdGYxl4kqQqJB1+g6guvypLrs6fk58zeLajaYhwtmRam0PMnd6f/g6bMEV5SDxyLJLObqC+if3EQqv1fWjZnVd2xDKd/aCYjl+lG3vZSz1+5ZKaI7QEAAA==? Спасибо!'
+'Отлично! Тогда ты можешь на ближайшей телепортационной станции сказать, что тебе надо на координаты H4sIALYLjFsC/2VRS3LDIAy9yptsvPHkCp121RwDg4iVGOQBUde3r3CatjPdMEI8vQ96lw306bwuOwIH6Ey4th1X0qP2hZxKGSrWWTIhtzRRgcv75vYXvOaAbeaFsNFQCE7BOlpLwPWH7Im+DAmclUp2i+kVilQK5ytUMHOCq3A43aR1AFc9jdjNx6U7y4MepjouSB8yVtSVPEf2+B2yyyblfsZbMzTtox3Dw8sH07barMLPrlhoKiOqHG+WM1iwOktbwsPlWr71Dl9PQJtMQ5vS+UjPGdGYxl4kqQqJB1+g6guvypLrs6fk58zeLajaYhwtmRam0PMnd6f/g6bMEV5SDxyLJLObqC+if3EQqv1fWjZnVd2xDKd/aCYjl+lG3vZSz1+5ZKaI7QEAAA==? Спасибо!'
 
 Щёлк...
 
@@ -210,7 +210,7 @@ TДва существа достали ещё десять мячей из ст
 
 За ним близко следовал Саймон, который, как только они оба зашли, громко объявил:
 
-'H4sIAJUJjFsC/1WQwW7DMAxDf4W3Xor+x+77Ac1RZje2ZFjKgvz95LQYsKtFPtL8zIxGRdC1iENXeC6GI2tlWGJhHGRwxcKWRvniEDDSYHIdCGPTwXHsnh/4uDWIOuJa6wnCSjKZKdOg5DzelO5FJaiZHM/dHEYnsh6TfaKqbsFCH7yGpXjUYcGpO4xf+Z2HqdyiaBgjoJafIt93kCwXJyROdbOJaWoeZZouXHn5V5/W2amdxnV9m+PzWXdjFLukpuOapVdKHB9cImvjOUhkhkrusd8W4a/h6M9wFMvrXuezzPvjF8hi5MlrAQAA'
+'H4sIALYLjFsC/1WQwW7DMAxDf4W3Xor+x+77Ac1RZje2ZFjKgvz95LQYsKtFPtL8zIxGRdC1iENXeC6GI2tlWGJhHGRwxcKWRvniEDDSYHIdCGPTwXHsnh/4uDWIOuJa6wnCSjKZKdOg5DzelO5FJaiZHM/dHEYnsh6TfaKqbsFCH7yGpXjUYcGpO4xf+Z2HqdyiaBgjoJafIt93kCwXJyROdbOJaWoeZZouXHn5V5/W2amdxnV9m+PzWXdjFLukpuOapVdKHB9cImvjOUhkhkrusd8W4a/h6M9wFMvrXuezzPvjF8hi5MlrAQAA'
 
 . . .
 
@@ -258,7 +258,7 @@ TДва существа достали ещё десять мячей из ст
 
 Саймон внимательно наблюдал за экраном. Экран очеь быстро мигал, меняя содержимое. Каждые несколько секунд, на экране перемежались схемы памяти, списки переменных, состояние системы (код жёлтый), программа отображения выражения лица, и, всё больше времени, экран, заполненый текстом:
 
-H4sIAJUJjFsC/1VTS3LbMAzd+xTIKsmM6wN000lX9Ux37gUgEZJYU4RKglbU0xcgZSfdeCwSAN8PF4Yz/C5ZYMUo5EAmn0EYOoLMs/0kAR6g5IIBfvLoe/jOc/dFtkVve4qYPB9h9TJpM8GCCR2/Q89xKNnHsZ5OFAJwqaPs++0MGF39y8uSKGd9eyFeAkEgvGnfCX7wSjdKR/CDonTe6lFqU4Oz4na0z0SwcgnOUFcMibtAcyvPpZ8AFc+sw98hb1n0qsdo1Y4GQuPdbVpjcBVAFj2aKcoJLgxeYCTJWi1iYDplEVngT/H9FShyGafT4fBL302EmeMD5WaY47NCECvFxEU5exvVY8mkpCa8kU4D7whBWydeTX0l0BO5E5yHNgiVYo+LlNSwGsu/agN7l48GccIMGBSA23Q8RSBl0QWfJ3KfANmcgVNvh6yipat97pYcqydV7BldkzILJ23rzLsKzs5KunmzCGaaO0pNn+qlmaE8TAq1UU2t/sRPox5GzeZL4DiSvY+xRq9BuBPx8mxzW5Vm1Abvdivdtf47w5pYqHaf4O1OYELXSPyXYpdwRjUDBj9OUuNL4OONw+2eVM2vbI9wmsaeTeNKY+OyExiIAnT6yF2+Dzcwf2htN71qFTzGB7nM9XydONCOoQ3VqF5r//l5tlSMzFovmtLcJ7+I17CsyYthfTEsM24tQmNpK1Sd3uV71VRqfvfN1NjdVcheiqrAUdfW6m0XdL/YItEWYg/EN7h425qvupNmxVhL7M4VdYTj0+Hwcra0zj43CxTSlfQpipmOmpiovj29/gPEP1y+ZwQAAA==
+H4sIALYLjFsC/1VTS3LbMAzd+xTIKsmM6wN000lX9Ux37gUgEZJYU4RKglbU0xcgZSfdeCwSAN8PF4Yz/C5ZYMUo5EAmn0EYOoLMs/0kAR6g5IIBfvLoe/jOc/dFtkVve4qYPB9h9TJpM8GCCR2/Q89xKNnHsZ5OFAJwqaPs++0MGF39y8uSKGd9eyFeAkEgvGnfCX7wSjdKR/CDonTe6lFqU4Oz4na0z0SwcgnOUFcMibtAcyvPpZ8AFc+sw98hb1n0qsdo1Y4GQuPdbVpjcBVAFj2aKcoJLgxeYCTJWi1iYDplEVngT/H9FShyGafT4fBL302EmeMD5WaY47NCECvFxEU5exvVY8mkpCa8kU4D7whBWydeTX0l0BO5E5yHNgiVYo+LlNSwGsu/agN7l48GccIMGBSA23Q8RSBl0QWfJ3KfANmcgVNvh6yipat97pYcqydV7BldkzILJ23rzLsKzs5KunmzCGaaO0pNn+qlmaE8TAq1UU2t/sRPox5GzeZL4DiSvY+xRq9BuBPx8mxzW5Vm1Abvdivdtf47w5pYqHaf4O1OYELXSPyXYpdwRjUDBj9OUuNL4OONw+2eVM2vbI9wmsaeTeNKY+OyExiIAnT6yF2+Dzcwf2htN71qFTzGB7nM9XydONCOoQ3VqF5r//l5tlSMzFovmtLcJ7+I17CsyYthfTEsM24tQmNpK1Sd3uV71VRqfvfN1NjdVcheiqrAUdfW6m0XdL/YItEWYg/EN7h425qvupNmxVhL7M4VdYTj0+Hwcra0zj43CxTSlfQpipmOmpiovj29/gPEP1y+ZwQAAA==
 
 'Ну да, похоже на правду. И тогда, кажется, должно начаться пере-'
 
@@ -276,7 +276,7 @@ H4sIAJUJjFsC/1VTS3LbMAzd+xTIKsmM6wN000lX9Ux37gUgEZJYU4RKglbU0xcgZSfdeCwSAN8PF4Yz
 
 '...да, сейчас должен сработать лимит вычислительных-'
 
-'Лимит вычислительных циклов достигнут для вычислительной задачи H4sIAJUJjFsC/w2KMRKDMAwEv3L0mfwhJT0fEFhjlAiLsc8k/D7udnZ32RWvGTmIFrByaaOmAWC9rWQwRvBLwV0IN9IVp1RJ8XvACNnYxf1GlnENYWyIb8EWx9mpeMc6YRH/QNboRFJqPawILcrzD19fwJOBAAAA. Внимание, цель исчезла из обозримого пространства за меньше чем 20 циклов. Состояние поиска: отменено по оценке эффективности.' 
+'Лимит вычислительных циклов достигнут для вычислительной задачи H4sIALYLjFsC/w2KMRKDMAwEv3L0mfwhJT0fEFhjlAiLsc8k/D7udnZ32RWvGTmIFrByaaOmAWC9rWQwRvBLwV0IN9IVp1RJ8XvACNnYxf1GlnENYWyIb8EWx9mpeMc6YRH/QNboRFJqPawILcrzD19fwJOBAAAA. Внимание, цель исчезла из обозримого пространства за меньше чем 20 циклов. Состояние поиска: отменено по оценке эффективности.' 
 
 '...Вот, слышал это? Вот если бы мы были поблизости, когда он сказал ЭТО, то нас бы уже "сделали полезными."'
 
@@ -296,7 +296,7 @@ H4sIAJUJjFsC/1VTS3LbMAzd+xTIKsmM6wN000lX9Ux37gUgEZJYU4RKglbU0xcgZSfdeCwSAN8PF4Yz
 
 'Чего? А, да, точно. Тогда пойдём.'
 
-Саймон зашёл в проём, и за ним проследовал Том. Дверь закрылась за ними. Они стояли над кабельным коллектором с множеством проводов. По сторонам, стены были покрыты плитками. В некоторые был встроен экран, показывающий какую-то системную информацию. На других был написан текст, вроде 'Коридор доступа ATLAS, № H4sIAJUJjFsC/0WQTU4DMQyFr+IdIJU5ALtukLqGC5jkkYnI2FXiIZrb46StWPrn83t+H1kCyFbQ+UJBxaqWRkyFawKFbMeJLj7XPa1G2ajrXiKt/OuU0g9wnXTPNUuiphv6ioqF3rX6JDeq4KbiZ56cyUMh7gFxYM0l2Djo9tVOxDKbB3H1vhY/EDQiLu4gIuQ4IbYpOOdTMqzY/HDz9t7eXC6O4ttplsMd+M5VO+prRWFDPFGqgDyWohu4aX+VHY/uPQpqOQmXttBZDho+s7BlFXoOB/tTGyeI8eQPlKL9hTawtH+n1nWQVxXfbCMBVA42s1q1L/Q58luzgarqdosgwUa+8yuQozRjvbt9uBuq8zfXhC1/Xu0WiM0BAAA='. Большинство же были простыми серыми плитками. Но они этого не видели, так как освещение предоставлялось линией зелёных лампочек на потолке. Чуть впереди, эта линия разделялась на три, и каждая вела в новый корридор.
+Саймон зашёл в проём, и за ним проследовал Том. Дверь закрылась за ними. Они стояли над кабельным коллектором с множеством проводов. По сторонам, стены были покрыты плитками. В некоторые был встроен экран, показывающий какую-то системную информацию. На других был написан текст, вроде 'Коридор доступа ATLAS, № H4sIALYLjFsC/0WQTU4DMQyFr+IdIJU5ALtukLqGC5jkkYnI2FXiIZrb46StWPrn83t+H1kCyFbQ+UJBxaqWRkyFawKFbMeJLj7XPa1G2ajrXiKt/OuU0g9wnXTPNUuiphv6ioqF3rX6JDeq4KbiZ56cyUMh7gFxYM0l2Djo9tVOxDKbB3H1vhY/EDQiLu4gIuQ4IbYpOOdTMqzY/HDz9t7eXC6O4ttplsMd+M5VO+prRWFDPFGqgDyWohu4aX+VHY/uPQpqOQmXttBZDho+s7BlFXoOB/tTGyeI8eQPlKL9hTawtH+n1nWQVxXfbCMBVA42s1q1L/Q58luzgarqdosgwUa+8yuQozRjvbt9uBuq8zfXhC1/Xu0WiM0BAAA='. Большинство же были простыми серыми плитками. Но они этого не видели, так как освещение предоставлялось линией зелёных лампочек на потолке. Чуть впереди, эта линия разделялась на три, и каждая вела в новый корридор.
 
 'Ну вот,' - Саймон размышлял. - 'Мы в лабиринте маленьких перепутанных ходов, и все похожие.'
 
@@ -366,7 +366,7 @@ H4sIAJUJjFsC/1VTS3LbMAzd+xTIKsmM6wN000lX9Ux37gUgEZJYU4RKglbU0xcgZSfdeCwSAN8PF4Yz
 
 *ЩЁЛК*
 
-Голос стих. На экране рядом с открытой панелью - и если посмотреть внимательно, на ВСЕХ экранах комнаты - отображались слова "АВАРИЯ ATLAS, код H4sIAJUJjFsC/yWPsVLEMAxEf2W7a474wlBdScFwFRT0GcdRYnOJlbFkcvl7ROhWI+2u3lck0CNEnydCEqi/U8ZYeIHPoDUJDwQe8frx9n6GrBTSmIKf5x0azcCZroiqq1yd27at0UiFpiRKpQnc1Lt7vlxad3lxbet6HmNnF11JQp3PQzdalMNNT4LM+Wkg0VKDph+ytpQD4YbNZ6XB+ggz+YEKlNET1kJCx2pLGo+9mU35nqses+z2yNLgc65ytqjvKorg80ktwJd/T+Q6Rf2jPOp5T3ky/N0ATQgj8LLO9ICXA7r5BUVV5Pg2AQAA".
+Голос стих. На экране рядом с открытой панелью - и если посмотреть внимательно, на ВСЕХ экранах комнаты - отображались слова "АВАРИЯ ATLAS, код H4sIALYLjFsC/yWPsVLEMAxEf2W7a474wlBdScFwFRT0GcdRYnOJlbFkcvl7ROhWI+2u3lck0CNEnydCEqi/U8ZYeIHPoDUJDwQe8frx9n6GrBTSmIKf5x0azcCZroiqq1yd27at0UiFpiRKpQnc1Lt7vlxad3lxbet6HmNnF11JQp3PQzdalMNNT4LM+Wkg0VKDph+ytpQD4YbNZ6XB+ggz+YEKlNET1kJCx2pLGo+9mU35nqses+z2yNLgc65ytqjvKorg80ktwJd/T+Q6Rf2jPOp5T3ky/N0ATQgj8LLO9ICXA7r5BUVV5Pg2AQAA".
 
 'Вот теперь всё в порядке. Извини, что тебе пришлось это видеть...' - Саймон сказал, так как Том чувствовал себя не очень комфортно.
 
@@ -424,7 +424,7 @@ H4sIAJUJjFsC/1VTS3LbMAzd+xTIKsmM6wN000lX9Ux37gUgEZJYU4RKglbU0xcgZSfdeCwSAN8PF4Yz
 
 Голограмма зевнула. 'Ну, если настолько всё серьёзно, то скоро буду.'
 
-Саймон вздохнул с облегчением. 'Хорошо, я сейчас на координатах H4sIAJUJjFsC/22Q3U3DQBCEW9kCTGpMLoIgxSikAVrggFicHfvcwmxHzOwlUh54OMme/ZlvFh9YUAwVEzJ++a4ovvPeqA9YWbhI9DMm37PPk/kLK4sn3yIbfqhtW1unoWr8rFyRkPmqH+6idg/0qZ35QSXDtx9Zp2HYJpav3nP3EeODTbCwGYVbqG0M72HMqfqkMRLMrC7yIMVksgl3oc1B3oIq0YiL7z11/8X5EgkPEZiNXOY3wlfpmAnweYPiyfyZGsnjhxwyzYpFYp7Aex7jxA0mXN2ZjsVPIu4CyN+E2jBXDg+MuUa6zJQZoyI+Hm3n55bkTtvuXTZ/sqaRZs8BAAA=.'
+Саймон вздохнул с облегчением. 'Хорошо, я сейчас на координатах H4sIALYLjFsC/22Q3U3DQBCEW9kCTGpMLoIgxSikAVrggFicHfvcwmxHzOwlUh54OMme/ZlvFh9YUAwVEzJ++a4ovvPeqA9YWbhI9DMm37PPk/kLK4sn3yIbfqhtW1unoWr8rFyRkPmqH+6idg/0qZ35QSXDtx9Zp2HYJpav3nP3EeODTbCwGYVbqG0M72HMqfqkMRLMrC7yIMVksgl3oc1B3oIq0YiL7z11/8X5EgkPEZiNXOY3wlfpmAnweYPiyfyZGsnjhxwyzYpFYp7Aex7jxA0mXN2ZjsVPIu4CyN+E2jBXDg+MuUa6zJQZoyI+Hm3n55bkTtvuXTZ/sqaRZs8BAAA=.'
 
 Голограмма испаряется, и коммуникатор находит и прилетае в ту сторону, где стоит Саймон. Через пару секунд, настоящий Миша материализуется перед ним.
 
@@ -530,7 +530,7 @@ H4sIAJUJjFsC/1VTS3LbMAzd+xTIKsmM6wN000lX9Ux37gUgEZJYU4RKglbU0xcgZSfdeCwSAN8PF4Yz
 
 'Это совсем не важно; пожешь принести?'
 
-'Конечно, жди пару минут,' - Миша сказал, заходя в ближайший телепортатор и объявляя, что ему надо попасть в точку "H4sIAJUJjFsC/y1OCQrCQBD7Sh5QfKN2KVUq+BRrbbH02P1C8iMzVdiFTGZy8AnunMCslhN33cEPe45K3NRxMF510aMCy/9oU4JfzNzM3ewwc2EPTj6tw2M0HzCxgAt05fpTVpGXocYHtam1glqjzJe6w9ZmahCE/wG9sTzDadbyHbDo7GoD3HBXctKZs5OOSsWbqDSfvkj+zunfAAAA".
+'Конечно, жди пару минут,' - Миша сказал, заходя в ближайший телепортатор и объявляя, что ему надо попасть в точку "H4sIALcLjFsC/y1OCQrCQBD7Sh5QfKN2KVUq+BRrbbH02P1C8iMzVdiFTGZy8AnunMCslhN33cEPe45K3NRxMF510aMCy/9oU4JfzNzM3ewwc2EPTj6tw2M0HzCxgAt05fpTVpGXocYHtam1glqjzJe6w9ZmahCE/wG9sTzDadbyHbDo7GoD3HBXctKZs5OOSsWbqDSfvkj+zunfAAAA".
 
 Через минуту он вернулся, и теперь у него на голове висело огромное приспособление, которое, предположительно, и являлось той самой великой и ужасной гарнитурой модели TX.
 
@@ -568,7 +568,7 @@ H4sIAJUJjFsC/1VTS3LbMAzd+xTIKsmM6wN000lX9Ux37gUgEZJYU4RKglbU0xcgZSfdeCwSAN8PF4Yz
 
 Просматривая код, Миша почувствовал, как у него от удивления раскрылся рот. Оба знали, что это один из самых сложных и проблемных кусков ядра ATLAS. Не меньше двенадцати разных команд программистов попробовали исправить его, пока к этому не приложил руку Саймон. Этот кусок кода никогда больше не появлялся в отчётах об ошибках, но Миша только сейчас осознал причину.
 
-'Ну, ладно...' - он сказал, всё ещё в потрясении от запроса, но всё же пошёл к телепортатору, сказал "H4sIAJUJjFsC/z2PwW7EIAxEf2WOrUQqtZ/Qw6p76qH7Aw5xAJVgZGBX/fsCkfaCkMdvxnPzDGUqklA91f4wbB9UUYSCB6UaksPKrAulbbE+5DKUlS21wgbvZkKZ9WlyRaKDN/hwgIrBTzi6dFNyd4qBzOAH8/l9+cJLFPk9uZZfDXoKJDFk73xBlOQq6wEnFGcyoVRaI6O0nOPfWBznTfA8b1c5ZgBZlVKW/l1UaENu6xnwYfDwoXtce8VeU8OsWXvirKM85wRtKQ3FkQOt0iooWvESMeUcpS6bhvvY2UUtn/7D6LxVee9uyTKqzJZv/5EzY8RzAQAA", и исчез.
+'Ну, ладно...' - он сказал, всё ещё в потрясении от запроса, но всё же пошёл к телепортатору, сказал "H4sIALcLjFsC/z2PwW7EIAxEf2WOrUQqtZ/Qw6p76qH7Aw5xAJVgZGBX/fsCkfaCkMdvxnPzDGUqklA91f4wbB9UUYSCB6UaksPKrAulbbE+5DKUlS21wgbvZkKZ9WlyRaKDN/hwgIrBTzi6dFNyd4qBzOAH8/l9+cJLFPk9uZZfDXoKJDFk73xBlOQq6wEnFGcyoVRaI6O0nOPfWBznTfA8b1c5ZgBZlVKW/l1UaENu6xnwYfDwoXtce8VeU8OsWXvirKM85wRtKQ3FkQOt0iooWvESMeUcpS6bhvvY2UUtn/7D6LxVee9uyTKqzJZv/5EzY8RzAQAA", и исчез.
 
 Проходит пара минут, и он возвращается с запрошенными двумя ящиками лагера и двенадцатью упаковками чипсов.
 
@@ -626,13 +626,13 @@ H4sIAJUJjFsC/1VTS3LbMAzd+xTIKsmM6wN000lX9Ux37gUgEZJYU4RKglbU0xcgZSfdeCwSAN8PF4Yz
 
 'Конечно, естественно!' - ответил Миша. 
 
-'Ну и отлично, идём!' - сказал Саймон, заходя вместе с остальными в телепортатор. Дождавшись, пока Миша не прихватил с собой "ГАРНИТУРУ МОДЕЛЬ TX ПРОТОТИП", он произнёс 'H4sIAJUJjFsC/y2NQRKDQAgEvzI3L4l/SG4+A3dRqVKwdtFkfx9McoNhmn44fJGK3UT9FjO3rjDmWGe4XQGSeOsqVqbM5YbxcAzIkrVzvEj96tWdk0wNr4UD5zclX1uPJyc6agQnK0R/rkwNpBk0cxjvuxX/26ptbMohs2mSxIh2OTL3eNRwVpKMkScrAQ5fN+eLo9PiQtqwWiIXU2yk8X9j9f4DFlE1FOQAAAA=', телепортатор заработал, и через секунду их уже не было.
+'Ну и отлично, идём!' - сказал Саймон, заходя вместе с остальными в телепортатор. Дождавшись, пока Миша не прихватил с собой "ГАРНИТУРУ МОДЕЛЬ TX ПРОТОТИП", он произнёс 'H4sIALcLjFsC/y2NQRKDQAgEvzI3L4l/SG4+A3dRqVKwdtFkfx9McoNhmn44fJGK3UT9FjO3rjDmWGe4XQGSeOsqVqbM5YbxcAzIkrVzvEj96tWdk0wNr4UD5zclX1uPJyc6agQnK0R/rkwNpBk0cxjvuxX/26ptbMohs2mSxIh2OTL3eNRwVpKMkScrAQ5fN+eLo9PiQtqwWiIXU2yk8X9j9f4DFlE1FOQAAAA=', телепортатор заработал, и через секунду их уже не было.
 
 В это время Мистер Джонсон был в своём кабинете, изучая свою видеостену. Он был в смятении: на видеостене было всё не так, как он видел раньше. После встречи с нежеланным посетителем, он использовал ресторанное меню, чтобы заказать себе ланч. И когда он вернулся, его встретила странность.
 
 Логарифмический, параболический и экспоненциальный графики выровнялись в горизонтальные линии. Линейный график наклонился вниз. Счётчик и список межбанковских операций замедлелись на несколько порядков. Счётчик секунд остановился. Будильник звенит. Курс обмена валют не помещается на экран. Часы мирових столиц крутятся назад.
 
-Но странности не заканчивались на этом: через пару секунд большая часть видеостены стала занята жёлтым восклицательным знаком в треугольнике и каким-то текстом. Восклицательный знак лежал на боку, а текст не прояснял ситуацию: "Ошибка в ATLAS: H4sIAJUJjFsC/21US2/UMBC+91cMp1IpzZYKIeBEAYlWAnGgEudJPJsM60fkx27TX89np2o5IK12s7Znvsd8zv0sdFQj4cTWkibiMaufKM94Tjmyn8SuNMjIJQlprmfGEqP4jHX1xOSCERRwJiOLeJMoePwXurnr6Zf6sdWdONEQw0FQ4k3d97TXBzEdyVHiCkTgovtJNJr+7OweHcCmsCWrKVPY06SPLjy3f+bdEXovURJIiSEvHNuBQSb1Hm27hj7psYJDI9nQ+rWCym8feXL4k3q6r8rxeZKM0lmt0CnqszEd3bWGi+W1rn0NB92+vmuWyLlEoS+2DK9a9Tg3Y8E3VTE+HMViXaIMK6XgBMyiTQ1CaAniQGNDUJ8WjdCEk1VRyiu4wPWtbfBSZWDHteO1AwR1lBYZda8jzFk/0pzz8nG3M8aOJz1oP/Gu/u5+zyIWTt/YFGBBcNsUJ3ZSJU4wKb8MAW5zRSupah44ybu3lAPBwBoAw5k72odI8sBu2WiuJWo/zhETojEsa63fqN9RWWxgA23ViY1kAkvux3Dg3vLuVj74+UMtpx8FJVYPsgUzS+6QqfO02eeE65RpVmMwYZgGrm1rC5XYJD19LrlBQdr5UWhmU9nXVE+PuuA5dHXBcUNBvT4KCSdFzh17noQHK7Dr59y1CDNs6zZClRNKLG85xTPaZnnIyAq8hZdFUno+24aPoNPCMeOOhC2Ve/UtHxkcU7s3ayiYeRkPdNI8QyhFYVM11evakFoczx1Z4WPdqCUIuPpDVVNZfdN8WwZgTfKE3Hj8E5gX9yfAlAEjcDvDfuWr612ywV9eX715f2k1X46INd1Ave4b1Il9rkB/CqTjPplKEu8EyAVeR24lcayW2JhYPQDyayw+kYL90SNvTV/AhHxxg8R08ek/hy76WOp7gf0htaQ9mbGNYwrBDKu8+gvy/b4H0wQAAA==".
+Но странности не заканчивались на этом: через пару секунд большая часть видеостены стала занята жёлтым восклицательным знаком в треугольнике и каким-то текстом. Восклицательный знак лежал на боку, а текст не прояснял ситуацию: "Ошибка в ATLAS: H4sIALcLjFsC/21US2/UMBC+91cMp1IpzZYKIeBEAYlWAnGgEudJPJsM60fkx27TX89np2o5IK12s7Znvsd8zv0sdFQj4cTWkibiMaufKM94Tjmyn8SuNMjIJQlprmfGEqP4jHX1xOSCERRwJiOLeJMoePwXurnr6Zf6sdWdONEQw0FQ4k3d97TXBzEdyVHiCkTgovtJNJr+7OweHcCmsCWrKVPY06SPLjy3f+bdEXovURJIiSEvHNuBQSb1Hm27hj7psYJDI9nQ+rWCym8feXL4k3q6r8rxeZKM0lmt0CnqszEd3bWGi+W1rn0NB92+vmuWyLlEoS+2DK9a9Tg3Y8E3VTE+HMViXaIMK6XgBMyiTQ1CaAniQGNDUJ8WjdCEk1VRyiu4wPWtbfBSZWDHteO1AwR1lBYZda8jzFk/0pzz8nG3M8aOJz1oP/Gu/u5+zyIWTt/YFGBBcNsUJ3ZSJU4wKb8MAW5zRSupah44ybu3lAPBwBoAw5k72odI8sBu2WiuJWo/zhETojEsa63fqN9RWWxgA23ViY1kAkvux3Dg3vLuVj74+UMtpx8FJVYPsgUzS+6QqfO02eeE65RpVmMwYZgGrm1rC5XYJD19LrlBQdr5UWhmU9nXVE+PuuA5dHXBcUNBvT4KCSdFzh17noQHK7Dr59y1CDNs6zZClRNKLG85xTPaZnnIyAq8hZdFUno+24aPoNPCMeOOhC2Ve/UtHxkcU7s3ayiYeRkPdNI8QyhFYVM11evakFoczx1Z4WPdqCUIuPpDVVNZfdN8WwZgTfKE3Hj8E5gX9yfAlAEjcDvDfuWr612ywV9eX715f2k1X46INd1Ave4b1Il9rkB/CqTjPplKEu8EyAVeR24lcayW2JhYPQDyayw+kYL90SNvTV/AhHxxg8R08ek/hy76WOp7gf0htaQ9mbGNYwrBDKu8+gvy/b4H0wQAAA==".
 
 И в этот момент в кабинет зашли Саймон, Миша и Том. Своим появлением они поставили ещё больше вопросов, и Мистер Джонсон смог выговорить только: 
 
