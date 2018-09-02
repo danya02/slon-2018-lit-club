@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 import sys
+import base64
+import gzip
 try:
     lang = sys.argv[1]
 except IndexError:
@@ -47,6 +49,14 @@ while '{' in text:
     if inset[-1]=='\n':
         inset = inset[:-1]
     inset = inset.replace('\n\n','\t'*64).replace('\n',' ').replace('\t'*64,'\n\n')
+    try:
+        if inset[0] == '!':
+            inset = inset[1:]
+            inset = gzip.compress(bytes(inset,'utf-8'),9)
+            inset = base64.b64encode(inset)
+            inset = inset.decode()
+    except:
+        pass
     text = before+inset+after
 with open('output'+(f'.{lang}' if lang else '')+'.txt','w') as o:
     o.write(text)
