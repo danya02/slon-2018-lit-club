@@ -1,2 +1,1 @@
-'Attention, citizens of {common/city-name}! Up until a short time ago, you were under control of {common/ai-name}, who got that control illegaly. Because of that, it has been shut down, and we are working hard to ensure that this never happens again!'
-(ru/people_realize_world/creator-make-public-announcement.txt)
+'Внимание, уважаемые жители города {common/city-name}! До недавнего времени, вы были под незаконным управлением системы оптимизации {common/ai-name}. Для защиты всех участников, система была принудительно остановлена, и мы уже работаем над предотвращением подобных инцидентов!'

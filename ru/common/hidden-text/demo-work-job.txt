@@ -1,2 +1,1 @@
-ZXhhbXBsZSB3b3JrIGpvYgo=
-(ru/common/hidden-text/demo-work-job.txt)
+!If you're reading this, hi there! I'm Danya Generalov, the author of this short story. I thought that I'd encode some of my own commentary about the story into it, hopefully to explain some stuff. The only hidden messages are in gzip'd base64, just like this one. Look out for them, and I hope you like the story!

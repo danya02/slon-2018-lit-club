@@ -1,6 +1,5 @@
-'You see, earlier today I tried to warn you,' - said {common/journalist-name/first} - 'about that there was a problem with {common/ai-name} -'
+'Видите ли, ранее сегодня я пытался предупредить вас,' - начал {common/journalist-name/first} - 'про то, что с {common/ai-name} есть проблема, и -'
 
-'Oh come on, get to the point!' - {common/assistance-name/first} warned.
+'Да переходи уже к сути!' - предупредил его {common/assistance-name/first}.
 
-'- anyone entering the city is recruited as a worker for {common/ai-name} - again their will. Basically, no one ever returns.
-(ru/ending/journalist/stuff-was-bad.txt)
+'- короче, кто угодно попадает в город -- сразу порабощается системой {common/ai-name}. Иначе говоря, никто не возвращается.'

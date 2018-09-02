@@ -1,2 +1,9 @@
-ZXZlcnl0aGluZydzIGJyb2tlbgo=
-(ru/common/hidden-text/ending.txt)
+!The videowall is acting this strangely because it is currently in a mode that depends on the AI. Since it was broken and then fixed, everything is weird.
+
+The actual list of gizmos on the videowall, as presented near the beginning, was given as a lot of sentence fragments. This is because, while writing this, I was playing Doki Doki Literature Club!, which is a visual novel whereby some girls write poems. I was inspired by the style in which one of them was written, specifically: http://ddlcwiki.ga/wiki/Wheel.
+
+Also from that game, I got the actual idea of using base64 to encode data, for example in yuri.chr, a copy of which I uploaded here: https://a.coka.la/He9nh9.chr Much like this tet, it's some meaning hidden inside something else. But here, I've had to use gzip too, to make the size easily manageable.
+
+Oh, and also, this is the last of these texts, so I guess this is where we part. So as a final note, since you stuck with me reading all of this, I'm leaving you a link to the GitHub page where this was written: https://github.com/danya02/slon-2018-lit-club And if you want to just send me a message, my email address is (my GitHub username without numbers)@(my GitHub username).ru
+
+Thanks for reading, and goodbye!

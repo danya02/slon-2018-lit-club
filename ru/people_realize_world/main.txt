@@ -4,4 +4,3 @@
 
 {people_realize_world/people-doubt-but-agree}
 
-(ru/people_realize_world/main.txt)

@@ -1,2 +1,1 @@
-'And here's purchase order for the headsets.' - {common/assistance-name/first} said, pulling out the sheet of paper from earlier. - 'PLUS, since you're such an important customer, we'll give you a 33% discount!' - he added, pulling out a pen and editing 3072 to 2048.
-(ru/ending/assistance/sign-this-purchase-order.txt)
+'И мы подготовили вам заказ на них.' - {common/assistance-name/first} сказал, доставая распечатку. - 'А ЕЩЁ, раз вы такой важный клиент, мы сделаем 33-процентную скидку!' - он добавил, взяв ручку со стола и сменив 3072 на 2048.

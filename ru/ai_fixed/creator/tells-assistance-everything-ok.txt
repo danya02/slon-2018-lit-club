@@ -1,2 +1,1 @@
-{common/creator-name/first} sighed. 'Okay {common/assistance-name/first}, it's fine!'
-(ru/ai_fixed/creator/tells-assistance-everything-ok.txt)
+{common/creator-name/first} вздохнул. '{common/assistance-name/first}, всё хорошо, вылезай!'

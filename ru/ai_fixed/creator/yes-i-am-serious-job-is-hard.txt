@@ -1,32 +1,31 @@
-'No, I'm totally serious. It helps me think, you know? In fact...'
+'Да нет, серьёзно нужно. Помогает думать. И на самом деле...'
 
-He pulls up a source code listing on the holo-terminal.
+Он открыл файл с кодом на голо-терминале.
 
-'You see this part, with the dynamic memory/bandwidth allocation algorithm?
-I wrote that in a span of four days, with the only source of food being that vending machine up on Level 6.'
+'Видешь вон тут вот, этот алгоринм динамического распределения памяти и каналов?
+Вот это я написал за четыре дня, а еда была только из торгового автомата на шестом этаже.'
 
-The vending machine in question, as they both knew, was loaded only with various types of beer, chips, and the occasional chocolate bar.
-Originally planned only for the Systems & Networks people who worked there, it quickly became popular with all employees who would stay overtime trying to finish work.
+Упомянутый торговый автомат, как известно, заполняется только разными видами пива, чипсов, а ещё там иногда промелькивает шоколадный батончик.
+Его сначала поставили для сисадминов на этаже, но про его существование узнали все, кто остаётся на сверхурочные часы с важными задачами.
 
-'So when I say I need that to get the job done, I mean it, or it won't get finished on time.'
+'Поэтому если я говорю, что это нужно для работы, то так оно и есть, а иначе не успеем.'
 
-Looking at the code, {common/assistance-name/first} felt his jaw drop.
-They both knew that this was one of the most difficult and bug-riddled pieces of {common/ai-name}'s core.
-No less than 12 different programming teams had a go at fixing it before {common/creator-name/first} came along.
-This section of code never appeared in another bug report since, but only now did {common/assistance-name/first} discover the reason why.
+Просматривая код, {common/assistance-name/first} почувствовал, как у него от удивления раскрылся рот.
+Оба знали, что это один из самых сложных и проблемных кусков ядра {common/ai-name}.
+Не меньше двенадцати разных команд программистов попробовали исправить его, пока к этому не приложил руку {common/creator-name/first}.
+Этот кусок кода никогда больше не появлялся в отчётах об ошибках, но {common/assistance-name/first} только сейчас осознал причину.
 
-'Well, okay...' - he said, still flabbergasted at his request, but he still walked toward the teleportation point, said "{common/hidden-text/ai_fixed_beer_chips_tport_depart}", and was away.
+'Ну, ладно...' - он сказал, всё ещё в потрясении от запроса, но всё же пошёл к телепортатору, сказал "{common/hidden-text/ai_fixed_beer_chips_tport_depart}", и исчез.
 
-A couple minutes pass, and he returns with the requested two boxes of lager and 12 packets of chips.
+Проходит пара минут, и он возвращается с запрошенными двумя ящиками лагера и двенадцатью упаковками чипсов.
 
-'Thanks. Er, why are there more than needed?' - asked {common/creator-name/first}, distinctly remembering he requested only one box.
+'Спасибо. Но только, почему тут больше чем надо?' - спросил {common/creator-name/first}, точно помня, что заказывал он только один ящик.
 
-'Ah, that would be because they had a discount on and I wanted to see if it helps me or not, because I really ought to be adding the save-state feature to...'
+'А, это потому, что у них была скидка, а я захотел посмотреть, сработает ли это на мне, потому что мне сейчас стоит всё-таки добавить наконец функцию сохранения состояний к нашему-'
 
-He trails off as the holo-terminal displays a flashing red warning box saying "Meta note: Get a move on with the plot already!"
+Он затихает, заметив, что голо-терминал показывает, выделяя красным мигающим прямоугольником, слова "Комментарий автора: А про сюжет здесь только я помню?!"
 
-'...oh, right. Sorry!~' - said both of them nearly simultaneously. {common/creator-name/first} walked back to the holo-terminal to dismiss the dialog box,
-while {common/assistance-name/first} took out his laptop, and both of them went to work.
+'...ах, да. Прости!~' - сказали они разом. {common/creator-name/first} пошёл к терминалу, чтобы закрыть сообщение,
+{common/assistance-name/first} достал ноутбук, и оба стали активно работать.
 
 . . .
-(ru/ai_fixed/creator/yes-i-am-serious-job-is-hard.txt)

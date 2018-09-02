@@ -1,40 +1,39 @@
-'What's the item name?' - asked {common/assistance-name/first}, who has already pulled up a sales form and is quickly clicking through the field values.
+'Как называется товар?' - спросил {common/assistance-name/first}, уже открыв форму для чеков и сейчас быстро заполнял нужные поля.
 
-'That'd be an, um...' - {common/creator-name/first} looked at the back of the helmet-like monstrosity, currently lying in the corner of the holo-terminal,
-beside the projection tripod. - 'a Model TX headset. About 128 will do for now, he'll buy more later.'
+'Это у нас...' - {common/creator-name/first} взглянул на заднюю панель шлемовидного устройства, который сейчас лежал в углу голо-терминала,
+подпирая собой триногу проектора. - '...гарнитура модели TX. Для начала бери 128, он потом ещё купит.'
 
-'And also add an R&D donation of...'
+'И ещё добавить пожертвование в пользу лабораторий...'
 
-'...round about 3072 times the retail price.' - {common/creator-name/first} looked at the device once again, shuddering.
+'...на сумму в 3072 раза больше розницы.' - {common/creator-name/first} ещё раз глянул на устройство, вздрагивая.
 
-'And then drop the price to 2048 times retail, so he doesn't know we're ripping him off?'
+'А потом снизим до 2048 раз, как будто скидка?'
 
-'Devious minds think alike!'
+'Ну конечно же!'
 
-'...Okay, all done!' - {common/assistance-name/first} replied, having just finished clicking through the form and now extricating a pocket printer.
+'...Хорошо, готово!' - {common/assistance-name/first} ответил, закончив заполнять форму и вынимая карманный принтер.
 
-'Um, where did you get that?' - {common/creator-name/first} asked, eyeing the contraption suspiciously.
-Printers of any kind had become obsolete quite some time after {common/company-name} implemented an ingenious system replacing them.
-Anyone wishing to hand someone else a document would visit a {common/company-name} Document Depot, where one would be given either a tablet or a hologram projector that would show only that document.
-When that other person is done with it, they can return the device to their nearest one, where it would be available for others to use.
+'Ммм, а откуда у тебя это?' - {common/creator-name/first} спросил, осматривая механизм с подозрением.
+Любые принтеры стали устаревшими, когда компания {common/company-name} состаила удобную систему как замену.
+Если кто-то хочет передать кому-то ещё документ, то он заходил в ближайшее Депо Документов, и получал там планшет или голографический проектор, показывающий только этот документ.
+А когда другому человеку он уже не нужен, то они возвращают устройство в их собственное ближайшее Депо, где оно будет передано кому-то ещё.
 
-Indeed, {common/assistance-name/first} was the one who came up with the idea and implemented it, so seeing him use the technology that he himself made redundant confused {common/creator-name/first} deeply.
+{common/assistance-name/first} самостоятельно придумал идею и сам управлял внедрением, поэтому то, что он использует технологию, которую он сам и убил, было чрезвычайно странно.
 
-'Oh this?' - {common/assistance-name/first} pointed at the printer, which was now spinning up to warp speed. - 'That's because
-{common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} distrusts all modern tech. Can you believe he STILL has that videowall?'
+'Ты про это?' - {common/assistance-name/first} показал на принтер, медленно раскручивающийся до взлётной скорости. - 'Это потому, что
+{common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} не доверяет почти никаким современным технологиям. Представляешь, у него ВСЁ ЕЩЁ стоит та видеостена.'
 
-The videowall, as they knew, was the last one in operation.
-Every single workstation in existence was more advanced than that.
-Any manager had at least a 3DoF head-mounted display for their data displays.
-Some more important managers had 6DoF VR systems - the more magnanimous managers would let their subordinates play games on it.
-Those even higher up the command chain would have a holographic workspace - not unlike the {common/ai-name} management console over there.
-Those at the top would have gigantic rooms - 10 meters in every direction at the very least - where a holographic display would be projected, and where physical obstacles - such as chairs, desks, staircases and the like - would be tangible.
-A brave few who like experimental biotech can get themselves a capsule which, when climbed into, fills with a orange-colored liquid called 'LCL' and allows one to control their computer by thought and movement of a couple levers and takes over all senses, which is useful both for quick-and-easy access to business info and very immersive giant-robot simulators.
+Общеизвестно, что видеостена та - последняя рабочая в мире.
+Каждая рабочая станция была более продвинутой.
+У любого менеджера был как минимум наголовный дисплей для просмотра важной информации.
+У более важных менеджеров установлена полнокомнатная VR-система - и более великодушные из них дают работникам поиграть в разные игры.
+Ещё более влиятельные люди имеют голографическое рабочее место -- вроде того голо-терминала для {common/ai-name}.
+А уж у самых важных удет огромная комната -- 10 метров в каждую сторону как минимум -- куда проецируются голограммы, но где физические препятсвия - стулья, столы, лестницы - можно потрогать.
+А некоторым храбрецам, интересующимся экспериментальной биотехнологией, можно получить капсулу, в которую можно забраться, она заполнится оранжево жидкостью 'LCL' и позволяет давать ввод мыслями и несколькими переключаелями, при этом даёт вывод в форме всех пяти чувств - полезно как для быстрого и эффективного доступа к бизнес-информации и очень реалистичных симуляторов гиганских роботов.
 
-By these standards, {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix}'s workspace is a complete and utter anachronism.
-In fact, when you enter his office for the first time, you may be forgiven for thinking that you have stepped back in time, for his main machine is an antique, genuine Initech Personal Computer from 1998, complete with the original yellowed plastic case and the original installation of Windows ME.
-This feeling of going back in time is further compounded by the fact that he has a large wooden desk that wouldn't be out of place in 1829.
-All this, combined with the fact that he can actually afford to install any of the workstations described above five times over, means that {common/assistance-name/first}'s system would cause much confusion, and so nobody's been brave enough to actually tell him of it.
+{common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} же имел рабочее место, которое по этим меркам назвать анахронизмом - мягко сказано.
+На самом деле, люди, заходящие к нему в офис первый раз, часто думают, что провалились во времени, поскольку у него главной машиной высупает антикварный, настоящий Initech PC из 1998 года, с оригинальным корпусом из пожелтевшего пластика и первозданной установкой Windows ME.
+Это чувство провала во времени усиливается его крупным деревянным письменным столом, который был бы к месту в 1829 году.
+Всё это, плюс тот факт, что он может позволить себе установить любую из вышеупомянутых рабочих станций пять раз, приводит к мысли, что система, которую разработал {common/assistance-name/first}, вызовет большую конфузию, и поэтому никто ещё не осмелился сообщить ему.
 
-Meanwhile, the printing contraption has finished doing its thing, and {common/assistance-name/first} now held in his hands what was known in the Bad Old Days as a 'hardcopy'.
-(ru/ai_fixed/assistance/just-written-purchase-order.txt)
+В это время, машина Гутенберга закончила работу, и теперь {common/assistance-name/first} держал в руках то, что раньше называлось "распечатка".

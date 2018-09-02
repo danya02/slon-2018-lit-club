@@ -1,2 +1,1 @@
-'Executor list: 1 item. 1: Model TX headset. Status: FAILED.'
-(ru/ai_fixed/ai/replies-wont-use-humans.txt)
+'Список исполнителей: ноль элементов. Не могу исполнять физические задачи. Чтобы добавить исполнителей, свяжитесь с сервисным центром {common/company-name}.'

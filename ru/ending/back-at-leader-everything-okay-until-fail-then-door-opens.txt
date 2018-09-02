@@ -1,20 +1,19 @@
-Meanwhile, {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} was sitting in his office, studying his video wall.
-He was concerned: the things it was displaying were very different from what he had seen earlier in the day.
-After the meeting with {common/journalist-name/title}, he used the quick-order gizmo to get himself some lunch.
-And upon return, he was greeted with weirdness.
+В это время {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} был в своём кабинете, изучая свою видеостену.
+Он был в смятении: на видеостене было всё не так, как он видел раньше.
+После встречи с {common/journalist-name/title}, он использовал ресторанное меню, чтобы заказать себе ланч.
+И когда он вернулся, его встретила странность.
 
-The logarithmic, parabolic and exponential slopes had turned into linear ones, parallel to the floor.
-The linear slope turned negative.
-The inter-bank operation list and counter have slowed down to a crawl.
-The counter that ticked every second has stopped.
-The alarm clock is ringing.
-The exchange rate is rising so fast that the screen is too small to contain the number.
-The world capital clocks are spinning backward.
+Логарифмический, параболический и экспоненциальный графики выровнялись в горизонтальные линии.
+Линейный график наклонился вниз.
+Счётчик и список межбанковских операций замедлелись на несколько порядков.
+Счётчик секунд остановился.
+Будильник звенит.
+Курс обмена валют не помещается на экран.
+Часы мирових столиц крутятся назад.
 
-More weirdness ensued when most of these screens were replaced with a yellow triangle and exclamation mark, along with some text.
-Not only was the exclamation mark on its side, but the text read "{common/ai-name} error: {common/hidden-text/ending}".
+Но странности не заканчивались на этом: через пару секунд большая часть видеостены стала занята жёлтым восклицательным знаком в треугольнике и каким-то текстом.
+Восклицательный знак лежал на боку, а текст не прояснял ситуацию: "Ошибка в {common/ai-name}: {common/hidden-text/ending}".
 
-At this very moment {common/creator-name/first}, {common/assistance-name/first} and {common/journalist-name/first} entered the room.
-It raised more questions than it answered, and {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} could at this point say nothing but:
+И в этот момент в кабинет зашли {common/creator-name/first}, {common/assistance-name/first} и {common/journalist-name/first}.
+Своим появлением они поставили ещё больше вопросов, и {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} смог выговорить только:
 
-(ru/ending/back-at-leader-everything-okay-until-fail-then-door-opens.txt)

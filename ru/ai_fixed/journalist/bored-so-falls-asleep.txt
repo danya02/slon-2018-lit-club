@@ -1,4 +1,3 @@
-Meanwhile, {common/journalist-name/first} was just looking at the proceedings in awe. Trying not to attract attention to himself, he announced:
-'Okay, well, you seem to be doing great, so if you need me, I'll just be somewhere around here...'
-He slowly retreated to a nearby park bench, laid down on it and instantly fell asleep.
-(ru/ai_fixed/journalist/bored-so-falls-asleep.txt)
+{common/journalist-name/first} всё это время стоял в сторонке и потрясённо наблюдал за происходящим. Тихо, стараясь не привлекать к себе внимания, он сказал:
+'Ну ладно, у вас тут по-видимому всё хорошо, поэтому если буду нужен, я тут где-то в сторонке...'
+Медленно ретируясь к скамейке неподалку, он лёг на неё и сразу заснул.

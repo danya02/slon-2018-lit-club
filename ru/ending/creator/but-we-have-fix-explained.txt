@@ -1,2 +1,1 @@
-'But we have a solution to the problem - to employ people willingly, pay them for work, and give them orders through headsets.' - said {common/creator-name/first}.
-(ru/ending/creator/but-we-have-fix-explained.txt)
+'Но у нас есть решение проблемы - нанимать людей за зарплату, и давать им приказы посредством вот таких гарнитур.' - сказал {common/creator-name/first}.

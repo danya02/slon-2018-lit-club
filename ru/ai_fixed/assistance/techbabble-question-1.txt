@@ -1,6 +1,5 @@
-'So, essentially, what's happened is that you pulled the backup system?'
+'Итак, в результате, ты просто отцепил резервирование?'
 
-'Hey, it's not my fault is faster, and it remapped itself to depend on it!'
+'Ну я же не виноват, что резервное хранилище быстрее, и штука переназначает её как главный!'
 
-'Riiiight... So I should just pull the NetRAID array back up and running?
-(ru/ai_fixed/assistance/techbabble-question-1.txt)
+'Ну дааааааа... Значит, просто востановить NetRAID-массив?

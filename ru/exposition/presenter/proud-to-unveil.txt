@@ -1,2 +1,1 @@
 '{exposition/presenter/phrases/worked-for-long},' - {exposition/presenter/phrases/continues-talking-while-walking-to-switch}, - '{exposition/presenter/phrases/today-proud-to-present}...'
-(ru/exposition/presenter/proud-to-unveil.txt)

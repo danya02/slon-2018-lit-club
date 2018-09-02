@@ -3,5 +3,3 @@
 {ending/party-shows-leader-bad}
 
 {ending/party-explains-fix}
-
-(ru/ending/main.txt)

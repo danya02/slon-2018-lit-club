@@ -1,34 +1,33 @@
-'Okay, *yawn*, so what's the deal here then?'
+'Ну ладно, в чём-то тут дело?'
 
-'The deal here is, remember how we used the mind-control devices as net nodes?'
+'Дело в том, что помнишь, как нам сказали использовать нейроинтерфейсы как элементы сети?'
 
-'Yeah, the CTO said to do this. Why do you ask?'
+'Ну да, так сказал директор. И что тогда?'
 
-'Well, you know how the intention was to use up our stock of those humanoids we wanted for {common/fail-project-name}?
+'Ну, идея была, что мы сможем использовать гуманоидов, которых мы произвели для проекта {common/fail-project-name}, но...'
 
-'Don't tell me - the filter failed, causing it to install the mind-tech into civilians?'
+'Дай-ка угадаю - фильтр сломался, и система установила нейроинтерфейсы горожанам?'
 
-'The filter DID fail, causing it to install mind-tech into civilians, and they're NOT happy about it.'
+'Фильтр-таки сломался, и система установила нейроинтерфейсы горожанам, и им это НЕ нравится.'
 
-'Okay, let's fix the system then, and see what we can do.'
+'Ну, давай тогда исправим основные проблемы, и посмотрим, что дальше делать.'
 
-'That was exactly my thought. Let's go then, the console is over there.'
+'Я так и думал. Пошли, терминал стоит вот там.'
 
-{common/creator-name/first} pointed towards an elevated platform, with small cube-shaped devices on tripods standing on all corners.
+{common/creator-name/first} показывал на небольшую поднятую платформу, вокруг которой стояли триноги с небольшими кубическими устройствами.
 
-{common/journalist-name/first} blinked. 'Huh? That's a computer terminal?' 
+{common/journalist-name/first} моргнул. 'Что? Это компьютерный терминал?' 
 
-'Not a common one,' - {common/assistance-name/first} explained, 'but a custom-made, 360-degree holographic projection, 6 DoF input tracking thingamabob.
-Designed specifically for managing {common/ai-name}, it can also be used to play games on company time.' - {common/assistance-name/first} sighed happily, recollecting.
+'Не обыкновенный,' - пояснил {common/assistance-name/first}, 'а заказная, 360-градусная голографически-проецирующая, трёхкоординатно-позиционно отслживающая штукенция.
+Разработана она специально для управления {common/ai-name}, но также может использоваться, чтобы играть в разнообразные игры за счёт компании.' - {common/assistance-name/first} сказал со вздохом, погружаясь в воспоминания.
 
-'The reason it's holographic,' {common/creator-name/first} added, - 'is because {common/company-name} has been lately putting holo-tech into everything, even when there's no point.'
+'А голографическая она потому,' добавил {common/creator-name/first}, - 'что наша компания, {common/company-name}, в последнее время ставит голографические проекторы во всё, даже если нету смысла.'
 
-{common/journalist-name/first} briefly looked at {common/assistance-name/first}, whose watch was now projecting a hologram which said, in large 3D letters, the words "HE'S RIGHT".
+{common/journalist-name/first} оглянулся в другую сторону, где шагал {common/assistance-name/first}, а его наручные часы проецировали большими трёхмерными буквами слова "ОН ПРАВ".
 
-When they were walking closer to the platform, the tripod cubes suddenly illuminated, casting light toward the platform, creating similarly 3D words "{common/ai-name} Management Console".
+Подходя к платформе, они увидели, как кубики вдруг засветились, пуская свет в центр платформы, такими же трёхмерными буквами выписывали слова "Консоль управления {common/ai-name}".
 
-'Okay, so I know all that it's going to show me, but you go on ahead,' - {common/creator-name/first} said to {common/assistance-name/first}, pointing to the words.
+'Так, я уже это всё видел, а ты посмотри,' - сказал {common/creator-name/first}, показывая на буквы.
 
-{common/assistance-name/first} walked over to the center of the platform, spinned round on the spot, and around him, various data displays appeared.
-He examined them carefully for a couple seconds, then asked:
-(ru/ai_fixed/creator/explain-we-need-to-fix.txt)
+{common/assistance-name/first} прошёл к центру платформы, покрутился на месте, и вокруг него появились различные экраны с информацией.
+Он осмотрел внимательно все показатели, а затем спросил:

@@ -1,13 +1,12 @@
-'Right, where's the wireless module settings then?' - said {common/assistance-name/first}, frowning at the main menu.
+'Ладно, тогда где настройки безпроводки?' - сказал {common/assistance-name/first}, смотря на главное меню.
 
-'Er... why do you need those?'
+'Ааа... а зачем тебе?'
 
-'That would be BECAUSE if we turn it on again, all those civilians will get even more angry at being under {common/ai-name}'s control again.
-Even if it's for less than a minute!
-I need to break that part so this doesn't happen.'
+'Это будет ПОТОМУ ЧТО если мы перезапустим систему, то все горожане ещё больше разозлятся, что ими опять управляет {common/ai-name}.
+Даже если получится сразу обратно вырубить!
+И чтобы этого не произошло, надо эту часть сломать.'
 
-'Ah, good call. The settings are under the "Components" tab.
+'А я даже не подумал об этом. Настройки во вкладке "Компоненты".
 
-'Thanks!~' - said {common/assistance-name/first}, swiping the display towards an icon that looks like a cube made out of cubes.
-A couple swipes, points, grabs, and drags later, a large dialog box appeared, saying "Mind Link Modules 1 to 14649271 unpaired." 
-(ru/ai_fixed/assistance/reconfiguring-wireless-module.txt)
+'Спасибо!~' - сказал {common/assistance-name/first}, прокручивая дисплей к картинке кубика из кубиков.
+Через несколько тыков и щелчков, появилось большое окно с надписью "Отключены  модули "Нейроинтерфейс" 1-14649271." 

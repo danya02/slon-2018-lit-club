@@ -1,4 +1,3 @@
-*pokety-poke, swippety-swipe*
+*тык-тык-тык, тык, щёлк-щёлк, тык*
 
-'...Okay, done! Now here's the real problem: How do we prove that the thing won't try to take over humans again?'
-(ru/ai_fixed/assistance/techbabble-question-2.txt)
+'...Хорошо, готово! А вот это важный вопрос: Как подтвердить, что штука не попробует манипулировать людьми?'

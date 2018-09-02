@@ -1,2 +1,1 @@
-Tom
-(ru/common/journalist-name/first.txt)
+Том

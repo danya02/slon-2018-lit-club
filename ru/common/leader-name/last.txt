@@ -1,2 +1,1 @@
-Johnson
-(ru/common/leader-name/last.txt)
+Джонсон

@@ -1,2 +1,1 @@
-bWF5b3IncyBsYWlyCg==
-(ru/common/hidden-text/go-to-leader.txt)
+!At this point, they're going to the city's leader, but I didn't want to specify where exactly. Because even in this day and age, t-porting to someone's office is rude. As I said before, I wanted to avoid any location management.

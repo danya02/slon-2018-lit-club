@@ -1,2 +1,1 @@
-But they didn't notice that he fell asleep, and just went on working.
-(ru/ai_fixed/journalist/little-did-he-know-creators-working.txt)
+К счастью для него, {common/creator-name/first} и {common/assistance-name/first} были настолько погружены в работу, что не обратили на это никакого внимания.

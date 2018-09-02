@@ -1,2 +1,1 @@
-bXkgaG9tZQo=
-(ru/common/hidden-text/journalist-to-creator-coords-embed.txt)
+!How exactly did the guy get the creator's phone number anyway? And while we're at it, who is the guy anyway? I'm internally referring to him as a "journalist", yet I didn't get him doing any specific journalistic work. But hey, he's the viewpoint character, so the reader should interpret him as a reader substitute. And in fact, in most of the descriptions of the technical stuff, I tried to make the descriptions as if coming from someone who doesn't understand what the described object is.

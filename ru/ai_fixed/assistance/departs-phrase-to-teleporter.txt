@@ -1,2 +1,1 @@
-UiZEIGRlcGFydG1lbnQK
-(ru/ai_fixed/assistance/departs-phrase-to-teleporter.txt)
+!Я не очень задумывался, почему у помощника есть доступ к шлему, но хотел, чтобы у них обоих было много прав внутри компании.

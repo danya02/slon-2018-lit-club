@@ -1,8 +1,7 @@
-'Kya--! *thud*'
+'Кря--! *шмяк*'
 
-{common/creator-name/first}'s usual announcement of job completion - a standard among his team back at {common/company-name} - was punctuated with the sound of {common/journalist-name/first} falling from his bench.
+Стандартное оглашение готовности работы, которое {common/creator-name/first} по привычке использовал и в этот раз, могло быть не наилучшим выбором -- и {common/journalist-name/first}, свалившийся из-за него со своей скамейки, согласился бы.
 
-'Oh, I'm terribly sorry. Are you okay?' - said {common/creator-name/first}, offering {common/journalist-name/first} help.
+'Ой, извини меня, я совсем забыл! Всё в порядке?' - сказал {common/creator-name/first}, подбегая к нему и помогая ему подняться на ноги.
 
-'Y-yeah...' - he answered weakly, sitting up.
-(ru/ai_fixed/journalist/wakes-up-startled.txt)
+'Д-да...' - тихо пробормотал он, задумчиво качаясь на ногах.

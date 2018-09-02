@@ -1,3 +1,2 @@
-'And to be more convincing, we need some sort of explaination as to what went wrong - not technical, but, like, something about how the system was assimilating people.
-Could you do that?' - {common/creator-name/first} asked {common/journalist-name/first}.
-(ru/ai_fixed/creator/we-also-need-to-exxplain-what-was-bad.txt)
+'А для пущей убедительности, надо объяснить, что пошло не так - но только не про технические аспекты, а про то, как система порабощала людей.
+Ты можешь рассказать про это?' - {common/creator-name/first} спросил, и {common/journalist-name/first} немного поразмыслил перед ответом.

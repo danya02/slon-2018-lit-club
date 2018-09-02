@@ -1,20 +1,19 @@
-'Hey {common/assistance-name/first}!' shouted {common/creator-name/first}, and the hologram raised its head, saying 'Y-yeah?'.
+'Эй, {common/assistance-name/first}!' крикнул {common/creator-name/first}, и голограмма подняла голову и сказала 'Д-да?'.
 
-'I realy need your help here, on the {common/ai-name} test site.
-There's a problem.'
+'Мне очень нужна твоя помощь тут, на тестовой установке {common/ai-name}.
+Есть проблема.'
 
-'Yeah, I heard the monitor system blip.
-It's probably nothing important, right?'
+'Ну да, я услышал сообщение системы мониторинга.
+Ничего страшного, да?'
 
-'Nope, it's VERY important.
-It's totally FOOBAR and out of control.
-I managed to crash it, but I can't figure it out to fix it.
-I really need your help here.'
+'Не-а, это ОЧЕНЬ важно.
+ИИ сейчас абсолютно неуправляем.
+У меня получилось крэшнуть основную часть, но я не могу придумать, как исправить проблему.
+Помощь твоя мне уж очень нужна.'
 
-The figure yawned. 'Well, if it's that important, I'll be there soon.'
+Голограмма зевнула. 'Ну, если настолько всё серьёзно, то скоро буду.'
 
-{common/creator-name/first} seems relieved. 'Okay, I'm at coords {ai_fixed/creator/coord-technobabble-embed}.'
+{common/creator-name/first} вздохнул с облегчением. 'Хорошо, я сейчас на координатах {ai_fixed/creator/coord-technobabble-embed}.'
 
-The hologram disappears, and the device flies back towards {common/creator-name/first}.
-Moments later, the real {common/assistance-name/first} appears in front of him.
-(ru/ai_fixed/assistance/arrives.txt)
+Голограмма испаряется, и коммуникатор находит и прилетае в ту сторону, где стоит {common/creator-name/first}.
+Через пару секунд, настоящий {common/assistance-name/first} материализуется перед ним.

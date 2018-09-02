@@ -1,2 +1,1 @@
-'...Oh...' - said {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix}, clearly taken aback.
-(ru/ending/leader/agrees-bad.txt)
+'...Ах...' - сказал {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix}, явно потрясённый этой новостью.

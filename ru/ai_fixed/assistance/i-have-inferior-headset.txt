@@ -1,2 +1,1 @@
-'Well, I do have one, but it's a pre-release version and doesn't quite work properly.'
-(ru/ai_fixed/assistance/i-have-inferior-headset.txt)
+'Ну, одна имеется, но только это одна из тестовых версий и не совсем работает.'

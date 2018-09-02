@@ -1,2 +1,1 @@
-'Actually yes, could you get me a box of lager from that place near the office, and... uhm, let's say... 8 packets of potato chips?'
-(ru/ai_fixed/creator/yes-i-need-food.txt)
+'Думаю да, тогда ты не мог принести сюда ящик лагера из того бара через дорогу, и... кхем, думаю, сюда надо... 8 упаковок картофельных чипсов?'

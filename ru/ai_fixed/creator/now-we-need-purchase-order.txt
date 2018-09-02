@@ -1,2 +1,1 @@
-'Right, now that that's sorted, we gotta get a purchase order sorted for {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} to sign.'
-(ru/ai_fixed/creator/now-we-need-purchase-order.txt)
+'Ну, раз с этим разобрались, надо сделать заказ на покупку, чтобы {common/leader-name/prefix} {common/leader-name/last}{common/leader-name/suffix} мог подписать.'

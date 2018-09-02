@@ -1,3 +1,3 @@
-'All right then, let's go!' - said {common/creator-name/first}, entering the teleporter, and the others followed, with {common/assistance-name/first} picking up the "MODEL TX HEADSET TEXT TYPE".
-He said '{common/hidden-text/go-to-leader}', the teleporter activated, and they were gone.
-(ru/ai_fixed/creator/lets-go-to-leader.txt)
+'Ну и отлично, идём!' - сказал {common/creator-name/first}, заходя вместе с остальными в телепортатор.
+Дождавшись, пока {common/assistance-name/first} не прихватил с собой "ГАРНИТУРУ МОДЕЛЬ TX ПРОТОТИП",
+он произнёс '{common/hidden-text/go-to-leader}', телепортатор заработал, и через секунду их уже не было.

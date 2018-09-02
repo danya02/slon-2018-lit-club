@@ -9,4 +9,3 @@
 {ai_fixed/assistance/reconfiguring-wireless-module}
 
 {ai_fixed/journalist/bored-so-falls-asleep}
-(ru/ai_fixed/reconfig-technobabble.txt)

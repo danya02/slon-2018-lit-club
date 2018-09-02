@@ -1,2 +1,1 @@
-'Well, it has to answer truthfully to debug questions, so we just ask it to list its methods of control, and if we hear something like "Mind Link" in there, that's a problem.'
-(ru/ai_fixed/creator/techbabble-answer-2.txt)
+'Ну, на диагностические вопросы всегда правдивые ответы, поэтому просто запросим список методов управления, и если будет хоть какое-то упомянание нейроинтерфейсов, значит, есть проблема.'

@@ -11,4 +11,3 @@
 {ai_fixed/ai/replies-wont-use-humans}
 
 {ai_fixed/creator/tells-assistance-everything-ok}
-(ru/ai_fixed/ai-restarted.txt)

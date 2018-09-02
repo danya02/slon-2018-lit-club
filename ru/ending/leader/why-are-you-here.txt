@@ -1,2 +1,1 @@
-'W-what?'
-(ru/ending/leader/why-are-you-here.txt)
+'Ч-что?'

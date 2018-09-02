@@ -11,4 +11,3 @@
 {ai_fixed/journalist/just-written-explain-what-was-bad}
 
 {ai_fixed/creator/lets-go-to-leader}
-(ru/ai_fixed/offer-to-leader-formed.txt)

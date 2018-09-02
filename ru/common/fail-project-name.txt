@@ -1,2 +1,1 @@
 Cygnus
-(ru/common/fail-project-name.txt)

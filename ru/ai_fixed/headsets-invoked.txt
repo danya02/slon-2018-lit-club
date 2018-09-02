@@ -15,4 +15,3 @@
 {ai_fixed/assistance/are-you-serious-about-food}
 
 {ai_fixed/creator/yes-i-am-serious-job-is-hard}
-(ru/ai_fixed/headsets-invoked.txt)

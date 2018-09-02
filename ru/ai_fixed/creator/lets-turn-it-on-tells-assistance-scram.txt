@@ -1,20 +1,19 @@
-'Okay, let's turn 'er on and see how she chooches...'
+'Так, давай запустим и посмотрим, как оно заработает...'
 
-'Should I go to that junction you used earlier?'
+'А может мне пройти к тому соединительному пункту, где ты был?'
 
-'Yeah, good call. The nearest blue hatch is right around here.' - {common/creator-name/first} said, pointing at the ground near the raised platform.
+'А, да, хорошая идея. Ближайший синий вход примерно вот там вот.' - {common/creator-name/first} сказал, показывая на ничем не примечательный кусок асфальта.
 
-'...And the ACL is working?' - {common/assistance-name/first} said, eyeing a piece of what appears to be flat floor.
+'...И список контроля доступа работает?' - {common/assistance-name/first} сказал, рассматривая указанную область.
 
-'Go ahead and find out!' - he replied.
+'А вот сейчас и узнаешь!'
 
-{common/assistance-name/first} stepped on the pointed-out ground, a blue glow appeared around him in a circle, the floor descended and he was gone.
+{common/assistance-name/first} наступил в выделенную область, вокруг него появился синий светящийся кружок, пол разверзился, и он исчез.
 
 . . .
 
-'Okay, I'm here. I've reconnected the MSCs, so it's ready to chooch.'
+'Я тут. Уже переподключил всё важное, так что всё готово к пуску.' - {common/assistance-name} сказал, и голос его как будто перекрывал собой обильные помехи из рации.
 
-'And if it goes bad again, I yell 'SCRAM', and you pull the cables.'
+'Если что-то пойдёт не так, я крикну 'СТОП', и тогда - отключай всё к чёрту.'
 
-'Accepted. What are you waiting for then?'
-(ru/ai_fixed/creator/lets-turn-it-on-tells-assistance-scram.txt)
+'Принято. Так чего ждём?'

@@ -1,2 +1,1 @@
-'I... I guess I have no choice... ...Where do I sign?..'
-(ru/ending/leader/i-have-no-choice.txt)
+'Ну... Думаю, у меня нет выбора... ...Где подписывать?..'

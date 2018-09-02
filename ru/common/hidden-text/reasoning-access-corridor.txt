@@ -1,2 +1,1 @@
-Z3JlZW4gb25lCg==
-(ru/common/hidden-text/reasoning-access-corridor.txt)
+!Since the AI controls a large city, I thought it would have to keep the wiring somewhere. For this reason, I've introduced these catacombs, and they are color coded. I decided that the coloring scheme is thus: red is for anything power-related, green is for data, and blue is for control signals. Any combination (cyan, magenta and yellow) means that the two components interact somehow. The white room they get to is the one where data, control and power meet.

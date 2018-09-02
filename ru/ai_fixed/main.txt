@@ -9,4 +9,3 @@
 {ai_fixed/headsets-invoked}
 
 {ai_fixed/offer-to-leader-formed}
-(ru/ai_fixed/main.txt)
